@@ -1,0 +1,209 @@
+[
+    {
+        "1": "In which year Himachal Pradesh recognised as a state",
+        "2": "Total number of districts in Himachal Pradesh",
+        "3": "Which one is recognised as a state animal of Himachal Pradesh ?",
+        "4": "Which one is the lowest river in Himachal Pradesh ?",
+        "5": "Which one is the largest district by areawise in Himachal Pradesh ?",
+        "6": "Total number of wildlife sanctuaries in Himachal Pradesh ?",
+        "7": "Which is the biggest natural lake in Himachal Pradesh ?",
+        "8": "Which district has the highest literacy rate in Himachal Pradesh ?",
+        "9": "In which district of Himachal Pradesh is Mulgun valley",
+        "10": "Where was the capital of Kullu in the earlier times",
+        "11": "At which place in Madi District has the Department of Ayurveda set-up a herbal garden",
+	    "12": "Which one is the most popular district in Himachal Pradesh ?",
+	    "13": "Chamunda temple located in which district",
+	    "14": "Which mountain pass connects Spiti to Ladhak",
+	    "15": "With which district of Himachal Pradesh is Kayang folk dance mainly associated",
+	    "16": "The chamba pattan bridge is build on which river",
+	    "17": "Which river of Himachal Pradesh is called by the local people as river of sorrow",
+	    "18": "Which of the following is not in Kullu valley of Himachal Pradesh ?",
+	    "19": "Longitudinal Synclinal valley in Himalaya is known as",
+	    "20": "Which of the following temples is in Pogoda architectural style ?",
+	    "21": "With which district in Himachal Pradesh ,district is Gasota fair associated",
+	    "22": "In which month is ‘Sair Festival’ celebrated",
+	    "23": "Which of the following peaks are in Himachal Pradesh ?",
+	    "24": "Which place of H.P. is known as the “Ellora” and “Ajanta” ?",
+	    "25": "Minjar festival is celebrated in which district of Himachal Pardesh."
+    },
+    {
+        "1": {
+            "a": "1971",
+            "b": "1974",
+            "c": "1978",
+            "d": "1982"
+        },
+        "2": {
+            "a": "8",
+            "b": "10",
+            "c": "12",
+            "d": "15"
+        },
+        "3": {
+            "a": "Tiger",
+            "b": "Snow Leopard",
+            "c": "Bison",
+            "d": "Lion"
+        },
+        "4": {
+            "a": "Parbati",
+            "b": "Ravi",
+            "c": "Beas",
+            "d": "Sutlej"
+        },
+        "5": {
+            "a": "Mandi",
+            "b": "Chamba",
+            "c": "Shimla",
+            "d": "Lahaul and Spiti"
+        },
+        "6": {
+            "a": "24",
+            "b": "27",
+            "c": "30",
+            "d": "32"
+        },
+        "7": {
+            "a": "Renuka Lake",
+            "b": "Rewalsar Lake",
+            "c": "Khajjiar Lake",
+            "d": "Brighu Lake"
+        },
+        "8": {
+            "a": "Kullu",
+            "b": "Hamirpur",
+            "c": "Mandi",
+            "d": "Chamba"
+        },
+        "9": {
+            "a": "Kinnaur",
+            "b": "Lahaul Spiti",
+            "c": "Kullu",
+            "d": "Chamba"
+        },
+        "10": {
+            "a": "Brahmapur",
+            "b": "Jagatsukh",
+            "c": "Murgul",
+            "d": "Trilokinath"
+        },
+	    "11": {
+            "a": "Sarkaghat",
+            "b": "Sunder Nagar",
+            "c": "Karsog",
+            "d": "Joginder Nagar"
+        },
+	    "12": {
+            "a": "Chamba",
+            "b": "Kangra",
+            "c": "Shimla",
+            "d": "Mandi"
+        },
+	    "13": {
+            "a": "Bilaspur",
+            "b": "Hamirpur",
+            "c": "Chamba",
+            "d": "Dharamsala"
+        },
+	    "14": {
+            "a": "Shipki",
+            "b": "Rohtang",
+            "c": "Kangla",
+            "d": "Manirang"
+        },
+	    "15": {
+            "a": "Una",
+            "b": "Solan",
+            "c": "Sirmaur",
+            "d": "Kinnaur"
+        },
+	    "16": {
+            "a": "Ravi",
+            "b": "Satluj",
+            "c": "Yamuna",
+            "d": "Beas"
+        },
+	    "17": {
+            "a": "Siul",
+            "b": "Uhal",
+            "c": "Baner",
+            "d": "Swan"
+        },
+	    "18": {
+            "a": "Nehru Kund",
+            "b": "Roerich Art Gallery",
+            "c": "Naggar Castle",
+            "d": "Tapovan"
+        },
+	    "19": {
+            "a": "Gorge",
+            "b": "Dun Valley",
+            "c": "V-Shaped Valley",
+            "d": "None of the above"
+        },
+	    "20": {
+            "a": "Lakshna Devi, Bharmaur",
+            "b": "Shakti Devi, Chhatrari",
+            "c": "Hidimba Dvi, Manali",
+            "d": "Tarna Dvi, Mandi"
+        },
+	    "21": {
+            "a": "Chamba",
+            "b": "Sirmaur",
+            "c": "Hamirpur",
+            "d": "Solan"
+        },
+	    "22": {
+            "a": "January",
+            "b": "March",
+            "c": "August",
+            "d": "September"
+        },
+	    "23": {
+            "a": "Abhi Gamin",
+            "b": "Reo-Purjil",
+            "c": "Rangrik Range",
+            "d": "Gya"
+        },
+	    "24": {
+            "a": "Sujanpur Tira",
+            "b": "Masroor",
+            "c": "Suketi",
+            "d": "Nako"
+        },
+	    "25": {
+            "a": "Shimla",
+            "b": "Kangra",
+            "c": "Chamba",
+            "d": "Kullu"
+        }
+    },
+    {
+        "1": "1971",
+        "2": "12",
+        "3": "Snow Leopard",
+        "4": "Sutlej",
+        "5": "Lahaul Spiti",
+        "6": "32",
+        "7": "Renuka Lake",
+        "8": "Hamirpur",
+        "9": "Lahaul Spiti",
+        "10": "Jagataukh",
+     	"11": "Joginder Nagar",
+        "12": "Kangra",
+        "13": "Chamba",
+        "14": "Kangla",
+        "15": "Kinnaur",
+        "16": "Beas",
+        "17": "Swan",
+        "18": "Tapovan",
+        "19": "Dun Valley",
+        "20": "Hidimba Dvi,Manali",
+	    "21": "Hamurpur",
+        "22": "September",
+        "23": "Gya",
+        "24": "Masroor",
+        "25": "Chamba"
+    }
+]
+

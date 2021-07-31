@@ -1,0 +1,209 @@
+[
+    {
+        "1": "Total number of districts in Jammu and Kashmir?",
+        "2": "Which one is recognized as the state flower of Jammu and Kashmir?",
+        "3": "Which is the largest district in Jammu and Kashmir by areawise?",
+        "4": "Which one is longest river in Jammu and Kashmir?",
+        "5": "On which hill, the Vaishno Devi Mandie is located",
+        "6": "Srinagar is located on the bank of the……",
+        "7": "Which city has the most population in Jammu and Kashmir",
+        "8": "Which of the following lakes of India is located in Jammu and Kashmir?",
+        "9": "Which town is also known as Apple Town in Jammu and Kashmir?",
+        "10": "Between which mountain ranges is Kashmir Valley located",
+        "11": "Jammu and Kashmir is the …..largest state in terms of area in India.",
+	    "12": "The literacy rate of the Jammu and Kashmir state according to the 2011 Census is",
+        "13": "Which of the following is the official language of Jammu and Kashmir?",
+	    "14": "Where is Jammu and Kashmir located?",
+	    "15": "Which is the summer capital of Jammu and Kashmir?",
+	    "16": "Who brought Kashmir from British?",
+        "17": "Which is the winter capital of Jammu and Kashmir?",
+        "18": "When was Kargil War?",
+	    "19": "How many districts in Jammu and Kashmir?",
+	    "20": "The Wular Lake is located in which district",
+	    "21": "Who built the beautiful Shalimar Bagh?",
+	    "22": "Total number of national parks in Jammu and Kashmir",
+	    "23": "Pandrethan, the old city of Srinagar was founded by",
+	    "24": "Area rank of Jammu and Kashmir",
+	    "25": "Which of the foolowing is the earliest source of Kashmir?"
+    },
+    {
+        "1": {
+            "a": "22",
+            "b": "24",
+            "c": "28",
+            "d": "32"
+        },
+        "2": {
+            "a": "Rose",
+            "b": "Lily",
+            "c": "Lotus",
+            "d": "Daisy"
+        },
+        "3": {
+            "a": "Leh",
+            "b": "Kargil",
+            "c": "Doda",
+            "d": "Baramula"
+        },
+        "4": {
+            "a": "Indus River",
+            "b": "Jhelum river",
+            "c": "Chenab River",
+            "d": "Doda River"
+        },
+        "5": {
+            "a": "Katra",
+            "b": "Aru",
+            "c": "Trikuta",
+            "d": "Sonamarg"
+        },
+        "6": {
+            "a": "Chenab River",
+            "b": "Jhelum River",
+            "c": "Indus River",
+            "d": "Lidder River"
+        },
+        "7": {
+            "a": "Udhampur",
+            "b": "Jammu",
+            "c": "Srinagar",
+            "d": "Anantnag"
+        },
+        "8": {
+            "a": "Phuljhar Lake",
+            "b": "Koleru Lake",
+            "c": "Anchar Lake",
+            "d": "Hamirsar Lake"
+        },
+        "9": {
+            "a": "Sopore",
+            "b": "Anantnag",
+            "c": "Shu[iyan",
+            "d": "Jammu"
+        },
+        "10": {
+            "a": "Himadri – Pir Pranjal",
+            "b": "Shivalik – Himachal",
+            "c": "Karakoram – Himachal",
+            "d": "Himadri – Himachal"
+        },
+	    "11": {
+            "a": "First",
+            "b": "Second",
+            "c": "Fifth",
+            "d": "Sixth"
+        },
+	    "12": {
+            "a": "58.7%",
+            "b": "68.74%",
+            "c": "74.25%",
+            "d": "82.6%"
+        },
+	    "13": {
+            "a": "Hindi",
+            "b": "Urdu",
+            "c": "Sanskrit",
+            "d": "Marathi"
+        },
+	    "14": {
+            "a": "Eastern India",
+            "b": "Western India",
+            "c": "Northern India",
+            "d": "Southern India"
+        },
+	    "15": {
+            "a": "Srinagar",
+            "b": "Pahalgam",
+            "c": "Baramulla",
+            "d": "Gulmarg"
+        },
+	    "16": {
+            "a": "Ranjit Singh",
+            "b": "Mahadaji Scindia",
+            "c": "Sayyajirao Gaekwad",
+            "d": "Gulab Singh"
+        },
+	    "17": {
+            "a": "Udhampur",
+            "b": "Jammu",
+            "c": "Poonch",
+            "d": "Leh"
+        },
+	    "18": {
+            "a": "1965",
+            "b": "1971",
+            "c": "1987",
+            "d": "1999"
+        },
+	    "19": {
+            "a": "22",
+            "b": "20",
+            "c": "18",
+            "d": "25"
+        },
+	    "20": {
+            "a": "Udhampur District",
+            "b": "Baramulla District",
+            "c": "Bandipora District",
+            "d": "Kupwara District"
+        },
+	    "21": {
+            "a": "Jahagir",
+            "b": "Akbar",
+            "c": "Babur",
+            "d": "Shah Jahan"
+        },
+	    "22": {
+            "a": "3",
+            "b": "4",
+            "c": "5",
+            "d": "7"
+        },
+	    "23": {
+            "a": "Ashoka",
+            "b": "Gautam",
+            "c": "Gondana",
+            "d": "Yudhistira"
+        },
+	    "24": {
+            "a": "14",
+            "b": "16",
+            "c": "18",
+            "d": "11"
+        },
+	    "25": {
+            "a": "Shivadrishti",
+            "b": "Rajtarangini",
+            "c": "Nilmatpuran",
+            "d": "Pratyabhijnasutra"
+        }
+    },
+    {
+        "1": "32",
+        "2": "Lotus",
+        "3": "Leh",
+        "4": "Chenab River",
+        "5": "Trikuta",
+        "6": "Jhelum river",
+        "7": "Srinagar",
+        "8": "Anchar Lake",
+        "9": "Sopore",
+        "10": "Himadri – Pir Pranjal",
+     	"11": "Fifth",
+        "12": "68.74%",
+        "13": "Urdu",
+        "14": "Northern India",
+        "15": "Srinagar",
+        "16": "Gulab Singh",
+        "17": "Jammu",
+        "18": "1999",
+        "19": "22",
+        "20": "Bandipora District",
+	    "21": "Jahagir",
+        "22": "5",
+        "23": "Ashoka",
+        "24": "14",
+        "25": "Rajtarangini"
+    }
+]
+

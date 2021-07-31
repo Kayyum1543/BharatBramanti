@@ -1,0 +1,322 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.bharat"
+4    android:versionCode="4001"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->F:\bharat\android\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->F:\bharat\android\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->[:google_sign_in] F:\bharat\build\google_sign_in\intermediates\library_manifest\release\AndroidManifest.xml:7:5-67
+11-->[:google_sign_in] F:\bharat\build\google_sign_in\intermediates\library_manifest\release\AndroidManifest.xml:7:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\530487b570aa8def1325336e97114d8c\jetified-firebase-auth-21.0.1\AndroidManifest.xml:24:5-79
+12-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\530487b570aa8def1325336e97114d8c\jetified-firebase-auth-21.0.1\AndroidManifest.xml:24:22-76
+13    <uses-permission android:name="android.permission.WAKE_LOCK" />
+13-->[com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\e9a0f685a08cdf51ace35ab655fbf267\play-services-measurement-api-19.0.0\AndroidManifest.xml:24:5-68
+13-->[com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\e9a0f685a08cdf51ace35ab655fbf267\play-services-measurement-api-19.0.0\AndroidManifest.xml:24:22-65
+14    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+14-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\6d7d13d3711db0a14d0762bfe8520cf5\play-services-measurement-19.0.0\AndroidManifest.xml:26:5-110
+14-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\6d7d13d3711db0a14d0762bfe8520cf5\play-services-measurement-19.0.0\AndroidManifest.xml:26:22-107
+15
+16    <application
+16-->F:\bharat\android\app\src\main\AndroidManifest.xml:3:4-40:19
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.1.0] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\3e26ef26d15f163a2f1a31a2130a0254\core-1.1.0\AndroidManifest.xml:24:18-86
+18        android:icon="@mipmap/ic_launcher"
+18-->F:\bharat\android\app\src\main\AndroidManifest.xml:5:9-43
+19        android:label="bharat" >
+19-->F:\bharat\android\app\src\main\AndroidManifest.xml:4:9-31
+20        <activity
+20-->F:\bharat\android\app\src\main\AndroidManifest.xml:6:9-34:20
+21            android:name="com.example.bharat.MainActivity"
+21-->F:\bharat\android\app\src\main\AndroidManifest.xml:7:13-41
+22            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+22-->F:\bharat\android\app\src\main\AndroidManifest.xml:10:13-163
+23            android:hardwareAccelerated="true"
+23-->F:\bharat\android\app\src\main\AndroidManifest.xml:11:13-47
+24            android:launchMode="singleTop"
+24-->F:\bharat\android\app\src\main\AndroidManifest.xml:8:13-43
+25            android:theme="@style/LaunchTheme"
+25-->F:\bharat\android\app\src\main\AndroidManifest.xml:9:13-47
+26            android:windowSoftInputMode="adjustResize" >
+26-->F:\bharat\android\app\src\main\AndroidManifest.xml:12:13-55
+27
+28            <!--
+29                 Specifies an Android theme to apply to this Activity as soon as
+30                 the Android process has started. This theme is visible to the user
+31                 while the Flutter UI initializes. After that, this theme continues
+32                 to determine the Window background behind the Flutter UI.
+33            -->
+34            <meta-data
+34-->F:\bharat\android\app\src\main\AndroidManifest.xml:17:13-20:17
+35                android:name="io.flutter.embedding.android.NormalTheme"
+35-->F:\bharat\android\app\src\main\AndroidManifest.xml:18:15-70
+36                android:resource="@style/NormalTheme" />
+36-->F:\bharat\android\app\src\main\AndroidManifest.xml:19:15-52
+37            <!--
+38                 Displays an Android View that continues showing the launch screen
+39                 Drawable until Flutter paints its first frame, then this splash
+40                 screen fades out. A splash screen is useful to avoid any visual
+41                 gap between the end of Android's launch screen and the painting of
+42                 Flutter's first frame.
+43            -->
+44            <meta-data
+44-->F:\bharat\android\app\src\main\AndroidManifest.xml:26:13-29:17
+45                android:name="io.flutter.embedding.android.SplashScreenDrawable"
+45-->F:\bharat\android\app\src\main\AndroidManifest.xml:27:15-79
+46                android:resource="@drawable/launch_background" />
+46-->F:\bharat\android\app\src\main\AndroidManifest.xml:28:15-61
+47
+48            <intent-filter>
+48-->F:\bharat\android\app\src\main\AndroidManifest.xml:30:13-33:29
+49                <action android:name="android.intent.action.MAIN" />
+49-->F:\bharat\android\app\src\main\AndroidManifest.xml:31:17-68
+49-->F:\bharat\android\app\src\main\AndroidManifest.xml:31:25-66
+50
+51                <category android:name="android.intent.category.LAUNCHER" />
+51-->F:\bharat\android\app\src\main\AndroidManifest.xml:32:17-76
+51-->F:\bharat\android\app\src\main\AndroidManifest.xml:32:27-74
+52            </intent-filter>
+53        </activity>
+54        <!--
+55             Don't delete the meta-data below.
+56             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+57        -->
+58        <meta-data
+58-->F:\bharat\android\app\src\main\AndroidManifest.xml:37:9-39:33
+59            android:name="flutterEmbedding"
+59-->F:\bharat\android\app\src\main\AndroidManifest.xml:38:13-44
+60            android:value="2" />
+60-->F:\bharat\android\app\src\main\AndroidManifest.xml:39:13-30
+61
+62        <service
+62-->[:firebase_auth] F:\bharat\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:8:9-12:19
+63            android:name="com.google.firebase.components.ComponentDiscoveryService"
+63-->[:firebase_auth] F:\bharat\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:8:18-89
+64            android:directBootAware="true"
+64-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\3de18261f00ef8a000d83cd4db7af5a3\jetified-firebase-common-20.0.0\AndroidManifest.xml:35:13-43
+65            android:exported="false" >
+65-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\530487b570aa8def1325336e97114d8c\jetified-firebase-auth-21.0.1\AndroidManifest.xml:76:13-37
+66            <meta-data
+66-->[:firebase_auth] F:\bharat\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:9:13-11:85
+67                android:name="com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar"
+67-->[:firebase_auth] F:\bharat\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:10:17-124
+68                android:value="com.google.firebase.components.ComponentRegistrar" />
+68-->[:firebase_auth] F:\bharat\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:11:17-82
+69            <meta-data
+69-->[:cloud_firestore] F:\bharat\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:9:13-11:85
+70                android:name="com.google.firebase.components:io.flutter.plugins.firebase.firestore.FlutterFirebaseFirestoreRegistrar"
+70-->[:cloud_firestore] F:\bharat\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:10:17-134
+71                android:value="com.google.firebase.components.ComponentRegistrar" />
+71-->[:cloud_firestore] F:\bharat\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:11:17-82
+72            <meta-data
+72-->[:firebase_core] F:\bharat\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:9:13-11:85
+73                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar"
+73-->[:firebase_core] F:\bharat\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:10:17-124
+74                android:value="com.google.firebase.components.ComponentRegistrar" />
+74-->[:firebase_core] F:\bharat\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:11:17-82
+75            <meta-data
+75-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\530487b570aa8def1325336e97114d8c\jetified-firebase-auth-21.0.1\AndroidManifest.xml:77:13-79:85
+76                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+76-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\530487b570aa8def1325336e97114d8c\jetified-firebase-auth-21.0.1\AndroidManifest.xml:78:17-109
+77                android:value="com.google.firebase.components.ComponentRegistrar" />
+77-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\530487b570aa8def1325336e97114d8c\jetified-firebase-auth-21.0.1\AndroidManifest.xml:79:17-82
+78            <meta-data
+78-->[com.google.firebase:firebase-firestore:23.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\4a68da40f26e5e4c337df9f4f4a8dbb8\jetified-firebase-firestore-23.0.1\AndroidManifest.xml:20:13-22:85
+79                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+79-->[com.google.firebase:firebase-firestore:23.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\4a68da40f26e5e4c337df9f4f4a8dbb8\jetified-firebase-firestore-23.0.1\AndroidManifest.xml:21:17-111
+80                android:value="com.google.firebase.components.ComponentRegistrar" />
+80-->[com.google.firebase:firebase-firestore:23.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\4a68da40f26e5e4c337df9f4f4a8dbb8\jetified-firebase-firestore-23.0.1\AndroidManifest.xml:22:17-82
+81            <meta-data
+81-->[com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\e9a0f685a08cdf51ace35ab655fbf267\play-services-measurement-api-19.0.0\AndroidManifest.xml:30:13-32:85
+82                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+82-->[com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\e9a0f685a08cdf51ace35ab655fbf267\play-services-measurement-api-19.0.0\AndroidManifest.xml:31:17-139
+83                android:value="com.google.firebase.components.ComponentRegistrar" />
+83-->[com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\e9a0f685a08cdf51ace35ab655fbf267\play-services-measurement-api-19.0.0\AndroidManifest.xml:32:17-82
+84            <meta-data
+84-->[com.google.firebase:firebase-installations:17.0.0] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\ab54d70d7f0ca5913503fbd3bc345363\firebase-installations-17.0.0\AndroidManifest.xml:18:13-20:85
+85                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+85-->[com.google.firebase:firebase-installations:17.0.0] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\ab54d70d7f0ca5913503fbd3bc345363\firebase-installations-17.0.0\AndroidManifest.xml:19:17-127
+86                android:value="com.google.firebase.components.ComponentRegistrar" />
+86-->[com.google.firebase:firebase-installations:17.0.0] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\ab54d70d7f0ca5913503fbd3bc345363\firebase-installations-17.0.0\AndroidManifest.xml:20:17-82
+87        </service>
+88
+89        <activity
+89-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\530487b570aa8def1325336e97114d8c\jetified-firebase-auth-21.0.1\AndroidManifest.xml:27:9-44:20
+90            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+90-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\530487b570aa8def1325336e97114d8c\jetified-firebase-auth-21.0.1\AndroidManifest.xml:28:13-80
+91            android:excludeFromRecents="true"
+91-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\530487b570aa8def1325336e97114d8c\jetified-firebase-auth-21.0.1\AndroidManifest.xml:29:13-46
+92            android:exported="true"
+92-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\530487b570aa8def1325336e97114d8c\jetified-firebase-auth-21.0.1\AndroidManifest.xml:30:13-36
+93            android:launchMode="singleTask"
+93-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\530487b570aa8def1325336e97114d8c\jetified-firebase-auth-21.0.1\AndroidManifest.xml:31:13-44
+94            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+94-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\530487b570aa8def1325336e97114d8c\jetified-firebase-auth-21.0.1\AndroidManifest.xml:32:13-72
+95            <intent-filter>
+95-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\530487b570aa8def1325336e97114d8c\jetified-firebase-auth-21.0.1\AndroidManifest.xml:33:13-43:29
+96                <action android:name="android.intent.action.VIEW" />
+96-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\530487b570aa8def1325336e97114d8c\jetified-firebase-auth-21.0.1\AndroidManifest.xml:34:17-69
+96-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\530487b570aa8def1325336e97114d8c\jetified-firebase-auth-21.0.1\AndroidManifest.xml:34:25-66
+97
+98                <category android:name="android.intent.category.DEFAULT" />
+98-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\530487b570aa8def1325336e97114d8c\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:17-76
+98-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\530487b570aa8def1325336e97114d8c\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:27-73
+99                <category android:name="android.intent.category.BROWSABLE" />
+99-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\530487b570aa8def1325336e97114d8c\jetified-firebase-auth-21.0.1\AndroidManifest.xml:37:17-78
+99-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\530487b570aa8def1325336e97114d8c\jetified-firebase-auth-21.0.1\AndroidManifest.xml:37:27-75
+100
+101                <data
+101-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\530487b570aa8def1325336e97114d8c\jetified-firebase-auth-21.0.1\AndroidManifest.xml:39:17-42:51
+102                    android:host="firebase.auth"
+102-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\530487b570aa8def1325336e97114d8c\jetified-firebase-auth-21.0.1\AndroidManifest.xml:40:21-49
+103                    android:path="/"
+103-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\530487b570aa8def1325336e97114d8c\jetified-firebase-auth-21.0.1\AndroidManifest.xml:41:21-37
+104                    android:scheme="genericidp" />
+104-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\530487b570aa8def1325336e97114d8c\jetified-firebase-auth-21.0.1\AndroidManifest.xml:42:21-48
+105            </intent-filter>
+106        </activity>
+107        <activity
+107-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\530487b570aa8def1325336e97114d8c\jetified-firebase-auth-21.0.1\AndroidManifest.xml:45:9-62:20
+108            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+108-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\530487b570aa8def1325336e97114d8c\jetified-firebase-auth-21.0.1\AndroidManifest.xml:46:13-79
+109            android:excludeFromRecents="true"
+109-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\530487b570aa8def1325336e97114d8c\jetified-firebase-auth-21.0.1\AndroidManifest.xml:47:13-46
+110            android:exported="true"
+110-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\530487b570aa8def1325336e97114d8c\jetified-firebase-auth-21.0.1\AndroidManifest.xml:48:13-36
+111            android:launchMode="singleTask"
+111-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\530487b570aa8def1325336e97114d8c\jetified-firebase-auth-21.0.1\AndroidManifest.xml:49:13-44
+112            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+112-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\530487b570aa8def1325336e97114d8c\jetified-firebase-auth-21.0.1\AndroidManifest.xml:50:13-72
+113            <intent-filter>
+113-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\530487b570aa8def1325336e97114d8c\jetified-firebase-auth-21.0.1\AndroidManifest.xml:51:13-61:29
+114                <action android:name="android.intent.action.VIEW" />
+114-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\530487b570aa8def1325336e97114d8c\jetified-firebase-auth-21.0.1\AndroidManifest.xml:34:17-69
+114-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\530487b570aa8def1325336e97114d8c\jetified-firebase-auth-21.0.1\AndroidManifest.xml:34:25-66
+115
+116                <category android:name="android.intent.category.DEFAULT" />
+116-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\530487b570aa8def1325336e97114d8c\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:17-76
+116-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\530487b570aa8def1325336e97114d8c\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:27-73
+117                <category android:name="android.intent.category.BROWSABLE" />
+117-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\530487b570aa8def1325336e97114d8c\jetified-firebase-auth-21.0.1\AndroidManifest.xml:37:17-78
+117-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\530487b570aa8def1325336e97114d8c\jetified-firebase-auth-21.0.1\AndroidManifest.xml:37:27-75
+118
+119                <data
+119-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\530487b570aa8def1325336e97114d8c\jetified-firebase-auth-21.0.1\AndroidManifest.xml:39:17-42:51
+120                    android:host="firebase.auth"
+120-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\530487b570aa8def1325336e97114d8c\jetified-firebase-auth-21.0.1\AndroidManifest.xml:40:21-49
+121                    android:path="/"
+121-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\530487b570aa8def1325336e97114d8c\jetified-firebase-auth-21.0.1\AndroidManifest.xml:41:21-37
+122                    android:scheme="recaptcha" />
+122-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\530487b570aa8def1325336e97114d8c\jetified-firebase-auth-21.0.1\AndroidManifest.xml:42:21-48
+123            </intent-filter>
+124        </activity>
+125
+126        <service
+126-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\530487b570aa8def1325336e97114d8c\jetified-firebase-auth-21.0.1\AndroidManifest.xml:64:9-73:19
+127            android:name="com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService"
+127-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\530487b570aa8def1325336e97114d8c\jetified-firebase-auth-21.0.1\AndroidManifest.xml:65:13-101
+128            android:enabled="true"
+128-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\530487b570aa8def1325336e97114d8c\jetified-firebase-auth-21.0.1\AndroidManifest.xml:66:13-35
+129            android:exported="false" >
+129-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\530487b570aa8def1325336e97114d8c\jetified-firebase-auth-21.0.1\AndroidManifest.xml:67:13-37
+130            <intent-filter>
+130-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\530487b570aa8def1325336e97114d8c\jetified-firebase-auth-21.0.1\AndroidManifest.xml:68:13-72:29
+131                <action android:name="com.google.firebase.auth.api.gms.service.START" />
+131-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\530487b570aa8def1325336e97114d8c\jetified-firebase-auth-21.0.1\AndroidManifest.xml:69:17-89
+131-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\530487b570aa8def1325336e97114d8c\jetified-firebase-auth-21.0.1\AndroidManifest.xml:69:25-86
+132
+133                <category android:name="android.intent.category.DEFAULT" />
+133-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\530487b570aa8def1325336e97114d8c\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:17-76
+133-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\530487b570aa8def1325336e97114d8c\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:27-73
+134            </intent-filter>
+135        </service>
+136
+137        <provider
+137-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\3de18261f00ef8a000d83cd4db7af5a3\jetified-firebase-common-20.0.0\AndroidManifest.xml:26:9-31:39
+138            android:name="com.google.firebase.provider.FirebaseInitProvider"
+138-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\3de18261f00ef8a000d83cd4db7af5a3\jetified-firebase-common-20.0.0\AndroidManifest.xml:27:13-77
+139            android:authorities="com.example.bharat.firebaseinitprovider"
+139-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\3de18261f00ef8a000d83cd4db7af5a3\jetified-firebase-common-20.0.0\AndroidManifest.xml:28:13-72
+140            android:directBootAware="true"
+140-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\3de18261f00ef8a000d83cd4db7af5a3\jetified-firebase-common-20.0.0\AndroidManifest.xml:29:13-43
+141            android:exported="false"
+141-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\3de18261f00ef8a000d83cd4db7af5a3\jetified-firebase-common-20.0.0\AndroidManifest.xml:30:13-37
+142            android:initOrder="100" />
+142-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\3de18261f00ef8a000d83cd4db7af5a3\jetified-firebase-common-20.0.0\AndroidManifest.xml:31:13-36
+143
+144        <activity
+144-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\28775262d939369f71100afe0e945cb1\jetified-play-services-auth-16.0.1\AndroidManifest.xml:23:9-27:75
+145            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+145-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\28775262d939369f71100afe0e945cb1\jetified-play-services-auth-16.0.1\AndroidManifest.xml:24:13-93
+146            android:excludeFromRecents="true"
+146-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\28775262d939369f71100afe0e945cb1\jetified-play-services-auth-16.0.1\AndroidManifest.xml:25:13-46
+147            android:exported="false"
+147-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\28775262d939369f71100afe0e945cb1\jetified-play-services-auth-16.0.1\AndroidManifest.xml:26:13-37
+148            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+148-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\28775262d939369f71100afe0e945cb1\jetified-play-services-auth-16.0.1\AndroidManifest.xml:27:13-72
+149        <!--
+150            Service handling Google Sign-In user revocation. For apps that do not integrate with
+151            Google Sign-In, this service will never be started.
+152        -->
+153        <service
+153-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\28775262d939369f71100afe0e945cb1\jetified-play-services-auth-16.0.1\AndroidManifest.xml:33:9-36:110
+154            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+154-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\28775262d939369f71100afe0e945cb1\jetified-play-services-auth-16.0.1\AndroidManifest.xml:34:13-89
+155            android:exported="true"
+155-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\28775262d939369f71100afe0e945cb1\jetified-play-services-auth-16.0.1\AndroidManifest.xml:35:13-36
+156            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+156-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\28775262d939369f71100afe0e945cb1\jetified-play-services-auth-16.0.1\AndroidManifest.xml:36:13-107
+157
+158        <activity
+158-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\97461efba6c5e9e0983cc52e8129f2d5\play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+159            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+159-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\97461efba6c5e9e0983cc52e8129f2d5\play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+160            android:exported="false"
+160-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\97461efba6c5e9e0983cc52e8129f2d5\play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+161            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+161-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\97461efba6c5e9e0983cc52e8129f2d5\play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+162
+163        <receiver
+163-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\6d7d13d3711db0a14d0762bfe8520cf5\play-services-measurement-19.0.0\AndroidManifest.xml:29:9-33:20
+164            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+164-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\6d7d13d3711db0a14d0762bfe8520cf5\play-services-measurement-19.0.0\AndroidManifest.xml:30:13-85
+165            android:enabled="true"
+165-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\6d7d13d3711db0a14d0762bfe8520cf5\play-services-measurement-19.0.0\AndroidManifest.xml:31:13-35
+166            android:exported="false" >
+166-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\6d7d13d3711db0a14d0762bfe8520cf5\play-services-measurement-19.0.0\AndroidManifest.xml:32:13-37
+167        </receiver>
+168
+169        <service
+169-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\6d7d13d3711db0a14d0762bfe8520cf5\play-services-measurement-19.0.0\AndroidManifest.xml:35:9-38:40
+170            android:name="com.google.android.gms.measurement.AppMeasurementService"
+170-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\6d7d13d3711db0a14d0762bfe8520cf5\play-services-measurement-19.0.0\AndroidManifest.xml:36:13-84
+171            android:enabled="true"
+171-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\6d7d13d3711db0a14d0762bfe8520cf5\play-services-measurement-19.0.0\AndroidManifest.xml:37:13-35
+172            android:exported="false" />
+172-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\6d7d13d3711db0a14d0762bfe8520cf5\play-services-measurement-19.0.0\AndroidManifest.xml:38:13-37
+173        <service
+173-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\6d7d13d3711db0a14d0762bfe8520cf5\play-services-measurement-19.0.0\AndroidManifest.xml:39:9-43:72
+174            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+174-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\6d7d13d3711db0a14d0762bfe8520cf5\play-services-measurement-19.0.0\AndroidManifest.xml:40:13-87
+175            android:enabled="true"
+175-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\6d7d13d3711db0a14d0762bfe8520cf5\play-services-measurement-19.0.0\AndroidManifest.xml:41:13-35
+176            android:exported="false"
+176-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\6d7d13d3711db0a14d0762bfe8520cf5\play-services-measurement-19.0.0\AndroidManifest.xml:42:13-37
+177            android:permission="android.permission.BIND_JOB_SERVICE" />
+177-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\6d7d13d3711db0a14d0762bfe8520cf5\play-services-measurement-19.0.0\AndroidManifest.xml:43:13-69
+178
+179        <meta-data
+179-->[com.google.android.gms:play-services-basement:17.1.0] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\04d6fb215b3ae10819891c8bc9f0399c\jetified-play-services-basement-17.1.0\AndroidManifest.xml:23:9-25:69
+180            android:name="com.google.android.gms.version"
+180-->[com.google.android.gms:play-services-basement:17.1.0] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\04d6fb215b3ae10819891c8bc9f0399c\jetified-play-services-basement-17.1.0\AndroidManifest.xml:24:13-58
+181            android:value="@integer/google_play_services_version" />
+181-->[com.google.android.gms:play-services-basement:17.1.0] C:\Users\Kayyum\.gradle\caches\transforms-2\files-2.1\04d6fb215b3ae10819891c8bc9f0399c\jetified-play-services-basement-17.1.0\AndroidManifest.xml:25:13-66
+182    </application>
+183
+184</manifest>

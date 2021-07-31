@@ -1,0 +1,209 @@
+[
+    {
+        "1": "Which is the official language of Nagaland?",
+        "2": "What is the area of Nagaland?",
+        "3": "What was the population of Nagaland according to 2011 census?",
+        "4": "Which is the highest point in Nagaland?",
+        "5": "Which is the capital of Nagaland?",
+        "6": "Which state is to the west of Nagaland?",
+        "7": "In which year, Nagaland formed as a separate state of India",
+        "8": "Total number of district in Nagaland",
+        "9": "Which is the largest city by areawise in Nagaland?",
+        "10": "Total number of main tribes in Nagaland",
+        "11": "Which country share its border on the east side of the Ngagaland?",
+	    "12": "The Hornbill Festival in Nagaland is celebrated every year on the first week of",
+        "13": "Which one is the highest peak in Nagaland?",
+	    "14": "Dimapur was the capital of which tribe",
+	    "15": "Nagaland was the first connected to the railway line in the year",
+	    "16": "Which one is the smallest district by areawise in Nagaland?",
+        "17": "The Nagaland University was established in the year",
+        "18": "By population , Nagaland is the ……. Biggest state in India.",
+	    "19": "Which one is recognised as  the state animal of Nagalnd?",
+	    "20": "Total number of Lok Sabha seats in NMagaland?",
+	    "21": "What is the literacy rate of Nagaland?",
+	    "22": "What is the Nagaland literacy Rank in India",
+	    "23": "Which is the Nagaland state flower?",
+	    "24": "Total numbers of dams in Nagaland?",
+	    "25": "When did Nagaland become a state?"
+    },
+    {
+        "1": {
+            "a": "Bengali",
+            "b": "English",
+            "c": "Hindi",
+            "d": "Assamese"
+        },
+        "2": {
+            "a": "9801 mi.",
+            "b": "8642 sq. mi.",
+            "c": "7523 sq. mi.",
+            "d": "6401 sq. mi."
+        },
+        "3": {
+            "a": "12,44,464",
+            "b": "19,80,602",
+            "c": "24,17,311",
+            "d": "36,48,722"
+        },
+        "4": {
+            "a": "Mount Etna",
+            "b": "Mount Pintubo",
+            "c": "Mount Saramati",
+            "d": "Mount Vesuvius"
+        },
+        "5": {
+            "a": "Kohima",
+            "b": "Dimapur",
+            "c": "Tuensang",
+            "d": "Mokokchung"
+        },
+        "6": {
+            "a": "Assam",
+            "b": "Orissa",
+            "c": "Kerala",
+            "d": "Tamil Nadu"
+        },
+        "7": {
+            "a": "1963",
+            "b": "1965",
+            "c": "1972",
+            "d": "1976"
+        },
+        "8": {
+            "a": "6",
+            "b": "8",
+            "c": "10",
+            "d": "11"
+        },
+        "9": {
+            "a": "Tuensang",
+            "b": "Mokochung",
+            "c": "Dimapur",
+            "d": "Kohima"
+        },
+        "10": {
+            "a": "13",
+            "b": "15",
+            "c": "16",
+            "d": "20"
+        },
+	    "11": {
+            "a": "China",
+            "b": "Myanmar",
+            "c": "Bangaladesh",
+            "d": "Nepal"
+        },
+	    "12": {
+            "a": "January",
+            "b": "March",
+            "c": "October",
+            "d": "December"
+        },
+	    "13": {
+            "a": "Japvo",
+            "b": "Mol Len",
+            "c": "Saramati",
+            "d": "Dapha Bum"
+        },
+	    "14": {
+            "a": "Kachari",
+            "b": "Ahom",
+            "c": "Ao",
+            "d": "Angami"
+        },
+	    "15": {
+            "a": "1902",
+            "b": "1903",
+            "c": "1904",
+            "d": "1912"
+        },
+	    "16": {
+            "a": "Mon District",
+            "b": "Kohima District",
+            "c": "Dimapur District",
+            "d": "Longleng District"
+        },
+	    "17": {
+            "a": "1990",
+            "b": "1992",
+            "c": "1994",
+            "d": "1996"
+        },
+	    "18": {
+            "a": "22nd",
+            "b": "23rd",
+            "c": "25th",
+            "d": "26th"
+        },
+	    "19": {
+            "a": "Gaur",
+            "b": "Mithun",
+            "c": "Anoa",
+            "d": "Bison"
+        },
+	    "20": {
+            "a": "One",
+            "b": "Five",
+            "c": "Six",
+            "d": "None of these"
+        },
+	    "21": {
+            "a": "52.56%",
+            "b": "75.26%",
+            "c": "80.11%",
+            "d": "None of these"
+        },
+	    "22": {
+            "a": "29",
+            "b": "14",
+            "c": "26",
+            "d": "24"
+        },
+	    "23": {
+            "a": "Siroi Lily",
+            "b": "Ashwatha",
+            "c": "Alder",
+            "d": "Bael Fruit Tree"
+        },
+	    "24": {
+            "a": "10",
+            "b": "12",
+            "c": "1",
+            "d": "7"
+        },
+	    "25": {
+            "a": "21 Feb 1965",
+            "b": "23 May 1992",
+            "c": "15 Mar 1985",
+            "d": "1 Dec 1963"
+        }
+    },
+    {
+        "1": "English",
+        "2": "6401 sq. mi.",
+        "3": "19,80,602",
+        "4": "Mount Saramati",
+        "5": "Kohima",
+        "6": "Assam",
+        "7": "1963",
+        "8": "11",
+        "9": "Dimapur",
+        "10": "16",
+     	"11": "Myanmar",
+        "12": "December",
+        "13": "Saramati",
+        "14": "Kachari",
+        "15": "1903",
+        "16": "Longleng District",
+        "17": "1994",
+        "18": "25th",
+        "19": "Mithum",
+        "20": "One",
+	    "21": "80.11%",
+        "22": "26",
+        "23": "Alder",
+        "24": "1",
+        "25": "1 Dec 1963"
+    }
+]
+

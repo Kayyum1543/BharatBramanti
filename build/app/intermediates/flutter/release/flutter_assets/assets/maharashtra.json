@@ -1,0 +1,88 @@
+[
+    {
+        "1": "In which year, Elephanta Caves designated as UNESCO World Heritage Site ?",
+        "2": "Which one is the highest point in Maharashtra ?",
+        "3": "Approximately how many forts are there in Maharashtra ?",
+        "4": "Which fort is the birthplace of Chhatrapati Shivaji Maharaj ?",
+        "5": "Which one is the longest river in Maharashtra ?",
+        "6": "In which year, the construction of Gateway of India was completed ?",
+        "7": "Who of the following is the author of the well-known book of 'History of Dharmasastra' ?",
+        "8": "Which one is final capital of Maratha Empire ?",
+        "9": "Which is the famous hill station in Maharashtra ?",
+        "10": "Which day is celebrated as the Maharashtra Day ?"
+    },
+    {
+        "1": {
+            "a": "1972",
+            "b": "1978",
+            "c": "1982",
+            "d": "1987"
+        },
+        "2": {
+            "a": "Kalsubai",
+            "b": "Raigad",
+            "c": "Lohagad",
+            "d": "Mahabaleshwar"
+        },
+        "3": {
+            "a": "150",
+            "b": "200",
+            "c": "270",
+            "d": "350"
+        },
+        "4": {
+            "a": "Raigad",
+            "b": "Daulatabad",
+            "c": "Shivneri",
+            "d": "Sinhgad"
+        },
+        "5": {
+            "a": "Krishna River",
+            "b": "Tapti River",
+            "c": "Bhima River",
+            "d": "Godavari River"
+        },
+        "6": {
+            "a": "1911",
+            "b": "1917",
+            "c": "1924",
+            "d": "1928"
+        },
+        "7": {
+            "a": "Pandurang Vaman Kane",
+            "b": "Bal Gangadhar Tilak",
+            "c": "Pandurang Sadashiv Sane",
+            "d": "R.G. Bhandarkar"
+        },
+        "8": {
+            "a": "Rajgad Fort",
+            "b": "Raigad Fort",
+            "c": "Jinji Fort",
+            "d": "Ajinkyatara Fort"
+        },
+        "9": {
+            "a": "Matheran, Raigad",
+            "b": "Kaas Plateau, Satara",
+            "c": "Bhimashankar, Pune",
+            "d": "Dapoli, Ratanagiri"
+        },
+        "10": {
+            "a": "19th February",
+            "b": "1st May",
+            "c": "14th April",
+            "d": "27th february"
+        }
+    },
+    {
+        "1": "1987",
+        "2": "Kalsubai",
+        "3": "350",
+        "4": "Shivneri",
+        "5": "Godavari River",
+        "6": "1924",
+        "7": "Pandurang Vaman Kane",
+        "8": "Raigad Fort",
+        "9": "Matheran, Raigad",
+        "10": "1st May"
+    }
+]

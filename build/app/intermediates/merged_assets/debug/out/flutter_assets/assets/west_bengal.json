@@ -1,0 +1,209 @@
+[
+    {
+        "1": "From the below, which state did not share its border with West Bengal",
+        "2": "Who was the first Chief Minister of West Bengal",
+        "3": "In India, Doctors' Day is celebrated on the memory of Bidhan Chandra Roy on",
+        "4": "The Kharagpur Indian Institute of Technology was established in the year",
+        "5": "Who is known as the Father of the Bengali renaissance",
+        "6": "Which viceroy of India, declared the Bengal Partition in 1905",
+        "7": "In India, West Bengal is the largest producer of",
+        "8": "In which year, Jyoti Basu became the Chief Minister of West Bengal for the first time",
+        "9":  "Total number of Districts in West Bengal is",
+        "10": "Who is known as the last independent Nawab of Bengal",
+        "11": "The Kolkata Metro service was started from the year",
+	    "12": "Which one is the first Bengali novel",
+	    "13": "Who had written the Meghnad Badh Kavya",
+	    "14": "Anandamath which was written by Bankim Chandra Chattopadhyay was published in the year",
+        "15": "Which one is the first newspaper published in bengali language",
+	    "16": "The first newspaper of India Hickey’s Bengal Gazette was published in Calcutta in",
+	    "17": "Who was the author of the first Bengali novel Durgeshnondini ",
+	    "18": "When the first electric tramcar was started in Kolkata",
+	    "19": "Who was the first Indian Librarian in National Library of India",
+	    "20": "Which Governor General of India setup the National Library of India in Kolkata",
+	    "21": "The Indian Science Congress Association is started in the year",
+	    "22": "When the first ODI was held in Eden Gardens",
+	    "23": "In which year Sundarbans National Park is designated as World Heritage Site",
+	    "24": "Who was the captain of Indian football team when won the Gold Medal in the 1951 Asian Games",
+	    "25": "In which year Mihir Sen cross the English Channel"
+    },
+    {
+        "1": {
+            "a": "Assam",
+            "b": "Odisha",
+            "c": "Bihar",
+            "d": "Meghalaya"
+        },
+        "2": {
+            "a": "Bidhan Chandra Roy",
+            "b": "Prafulla Chandra Ghosh",
+            "c": "Ajoy Kumar Mukherjee",
+            "d": "Jyoti Basu"
+        },
+        "3": {
+            "a": "22nd January",
+            "b": "1st April",
+            "c": "1st July",
+            "d": "28th August"
+        },
+        "4": {
+            "a": "1947",
+            "b": "1951",
+            "c": "1955",
+            "d": "1962"
+        },
+        "5": {
+            "a": "Dadabhai Naoroji",
+            "b": "Ishwar Chandra Vidyasagar",
+            "c": "Raja Ram Mohan Roy",
+            "d": "Debendranath Tagore"
+        },
+        "6": {
+            "a": "Lord Curzon",
+            "b": "Lord Irwin",
+            "c": "Lord Ripon",
+            "d": "Lord Canning"
+        },
+        "7": {
+            "a": "Wheat",
+            "b": "Rice",
+            "c": "Barley",
+            "d": "Mango"
+        },
+        "8": {
+            "a": "1971",
+            "b": "1975",
+            "c": "1977",
+            "d": "1980"
+        },
+        "9": {
+            "a": "14",
+            "b": "16",
+            "c": "19",
+            "d": "20"
+        },
+        "10": {
+            "a": "Mir Jafar",
+            "b": "Siraj ud-Daulah",
+            "c": "Sarfaraz Khan",
+            "d": "None of the above"
+        },
+	    "11": {
+            "a": "1978",
+            "b": "1981",
+            "c": "1984",
+            "d": "1985"
+        },
+	    "12": {
+            "a": "Hughli",
+            "b": "Calcutta",
+            "c": "Durgapur",
+            "d": "Siliguri"
+        },
+	    "13": {
+            "a": "Kapalkundala",
+            "b": "Durgeshnandini",
+            "c": "Char Addhyay",
+            "d": "Shesh Prashna"
+        },
+	    "14": {
+            "a": "Sarat Chandra Chattopadhya",
+            "b": "Bankim Chandra Chatterjee",
+            "c": "Michael Madhusudan Dutt",
+            "d": "Sunil Gangopadhyay"
+        },
+	    "15": {
+            "a": "1882",
+            "b": "1886",
+            "c": "1889",
+            "d": "1895"
+        },
+	    "16": {
+            "a": "Digdarshan",
+            "b": "Sambad Pravakar",
+            "c": "Tattobodhini",
+            "d": "Samachar Darpan"
+        },
+	    "17": {
+            "a": "1780",
+            "b": "1788",
+            "c": "1818",
+            "d": "1823"
+        },
+	    "18": {
+            "a": "Satyajit Ray",
+            "b": "Rabindranath Tagore",
+            "c": "Sarat Chandra Chattopadhyay",
+            "d": "Bankim Chandra Chattopadhyay"
+        },
+	    "19": {
+            "a": "1883",
+            "b": "1896",
+            "c": "1902",
+            "d": "1918"
+        },
+	    "20": {
+            "a": "B.S. Kesavan",
+            "b": "D.R. Kalia",
+            "c": "Harinath De",
+            "d": "K.M. Asadulla"
+        },
+	    "21": {
+            "a": "Lord Curzon",
+            "b": "Lord Chelmsford",
+            "c": "Lord Minto",
+            "d": "Warren Hastings"
+        },
+	    "22": {
+            "a": "1901",
+            "b": "1914",
+            "c": "1921",
+            "d": "1928"
+        },
+	    "23": {
+            "a": "1982",
+            "b": "1985",
+            "c": "1986",
+            "d": "1987"
+        },
+	    "24": {
+            "a": "1983",
+            "b": "1987",
+            "c": "1989",
+            "d": "1992"
+        },
+	    "25": {
+            "a": "Krishanu Dey",
+            "b": "Chuni Goswami",
+            "c": "Shailen Manna",
+            "d": "Pradip Kumar Banerjee"
+        }
+    },
+    {
+        "1": "Meghalaya",
+        "2": "Prafulla Chandra Ghosh",
+        "3": "1st July",
+        "4": "1951",
+        "5": "Raja Ram Mohan Roy",
+        "6": "Lord Curzon",
+        "7": "Rice",
+        "8": "1977",
+        "9": "20",
+        "10": "Siraj ud-Daulah",
+     	"11": "1984",
+        "12": "Durgeshnandini",
+        "13": "Michael Madhusudan Dutt",
+        "14": "1882",
+        "15": "Samachar Darpan",
+        "16": "1780",
+        "17": "Bankim Chandra Chattopadhyay",
+        "18": "1902",
+        "19": "Harinath De",
+        "20": "Lord Curzon",
+	    "21": "1914",
+        "22": "1987",
+        "23": "1987",
+        "24": "Shilen Manna",
+        "25": "1959"
+    }
+]
+

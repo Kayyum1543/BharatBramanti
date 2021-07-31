@@ -1,0 +1,209 @@
+[
+    {
+        "1": "When were Daman and Diu established?",
+        "2": "What is the capital of Daman and Diu?",
+        "3": "Total Area of Daman and Diu?",
+        "4": "Area Rank of the state?",
+        "5": "Official Languages of daman",
+        "6": "Number of Districts in daman? ",
+        "7": "Male Population of the state.",
+        "8": "There are_____small-scale and medium-scale industries in Daman and Diu.",
+        "9": "Daman and Diu is a union territory in____.",
+        "10": "Which temple is dedicated to Mahavir Swami?",
+        "11": "The 18th-century temple is situated in the northern region of Nani Daman Fort.",
+	    "12": "The Diu fort was built by.",
+	    "13": "The battle of Diu was fought in the year?",
+	    "14": "Which Dam is located in Daman?",
+	    "15": "Which of the following is east of Daman and Diu?",
+	    "16": "Who is the main Government Official in Daman and Diu?",
+	    "17": " Next to which sea is Daman and Diu located?",
+	    "18": "Daman and Diu were incorporated into the Republic of India on",
+	    "19": "What is the population rank of Daman and Diu among Union Territories",
+	    "20": "Which kind of Soil is availbale in Daman and Diu?",
+	    "21": "How much is the Geographical Area of Daman and Diu?",
+	    "22": "The battle of Diu was fought in the year'",
+	    "23": "Besides Hindi, English and Marathi, which one is the official language of Daman and Diu",
+	    "24": "Daman and Diu was established as a separate union territory in the year",
+	    "25": "The Diu fort was build by"
+    },
+    {
+        "1": {
+            "a": "30 May 1998",
+            "b": "30 May 1987",
+            "c": "30 April 1987",
+            "d": "17 May 1987"
+        },
+        "2": {
+            "a": "Daman",
+            "b": "Diu",
+            "c": "Vapi",
+            "d": "Dabhel"
+        },
+        "3": {
+            "a": "120 km",
+            "b": "112 km",
+            "c": "108 km",
+            "d": "102 km"
+        },
+        "4": {
+            "a": "35th",
+            "b": "36th",
+            "c": "37th",
+            "d": "38th"
+        },
+        "5": {
+            "a": "Malyalam, kannad, English",
+            "b": "Marathi, Bengali, Gujarati",
+            "c": "Konkani, Gujarati, Hindi, English",
+            "d": "French, English"
+        },
+        "6": {
+            "a": "5",
+            "b": "4",
+            "c": "3",
+            "d": "2"
+        },
+        "7": {
+            "a": "140100",
+            "b": "150700",
+            "c": "150100",
+            "d": "160700"
+        },
+        "8": {
+            "a": "2930",
+            "b": "2580",
+            "c": "3950",
+            "d": "2390"
+        },
+        "9": {
+            "a": "Southern India",
+            "b": "Eastern India",
+            "c": "Western India",
+            "d": "Northern India"
+        },
+        "10": {
+            "a": "Konark Temple",
+            "b": "Sun Temple",
+            "c": "Jain Temple",
+            "d": "Swaminarayan Temple"
+        },
+	    "11": {
+            "a": "Swaminarayan Temple",
+            "b": "Konark Temple",
+            "c": "Sun Temple",
+            "d": "Jain Temple"
+        },
+	    "12": {
+            "a": "French",
+            "b": "British",
+            "c": "Portuguese",
+            "d": "All the Above"
+        },
+	    "13": {
+            "a": "1707",
+            "b": "1609",
+            "c": "1509",
+            "d": "1990"
+        },
+	    "14": {
+            "a": "Diu Dam",
+            "b": "Diu Ganga Dam",
+            "c": "Daman Dam",
+            "d": "Daman Ganga Dam"
+        },
+	    "15": {
+            "a": "Gujrat",
+            "b": "West bengal",
+            "c": "Bihar",
+            "d": " Haryana"
+        },
+	    "16": {
+            "a": "Chief Minister",
+            "b": "Administrator",
+            "c": "President",
+            "d": "3Lt. Governors"
+        },
+	    "17": {
+            "a": "Pacific Ocean",
+            "b": "Black Sea",
+            "c": "Bay of Bengal",
+            "d": "Arabian Sea"
+        },
+	    "18": {
+            "a": "December 21, 1971",
+            "b": "December 19, 1961",
+            "c": " October 19, 1961",
+            "d": "February 19, 1961"
+        },
+	    "19": {
+            "a": "6th",
+            "b": "7th",
+            "c": "8th",
+            "d": "9th"
+        },
+	    "20": {
+            "a": "Yellow Soil",
+            "b": "Grey Soil",
+            "c": "Black Soil",
+            "d": "Red Soil"
+        },
+	    "21": {
+            "a": "6.72%",
+            "b": "5.72%",
+            "c": "5.12%",
+            "d": "7.72%"
+        },
+	    "22": {
+            "a": "1509",
+            "b": "1523",
+            "c": "1549",
+            "d": "1563"
+        },
+	    "23": {
+            "a": "Gujarati",
+            "b": "Konkani",
+            "c": "Sanskrit",
+            "d": "Malayalam"
+        },
+	    "24": {
+            "a": "1982",
+            "b": "1987",
+            "c": "1990",
+            "d": "1994"
+        },
+	    "25": {
+            "a": "Sultan of Gujarat",
+            "b": "Mughal",
+            "c": "British",
+            "d": "Portuguese"
+        }
+    },
+    {
+        "1": "30 May 1987",
+        "2": "Daman",
+        "3": "102 km",
+        "4": "35th",
+        "5": "Konkani, Gujarati, Hindi, English",
+        "6": "2",
+        "7": "150100",
+        "8": "2930",
+        "9": "Western India",
+        "10": "Jain Temple",
+     	"11": "Jain Temple",
+        "12": "Portuguese",
+        "13": "1509",
+        "14": "Daman Ganga Dam",
+        "15": "Gujarat",
+        "16": "Administrator",
+        "17": "Arabian Sea",
+        "18": "December 19, 1961",
+        "19": "6th",
+        "20": "Red Soil",
+	    "21": "5.72%",
+        "22": "1509",
+        "23": "Gujarati",
+        "24": "1987",
+        "25": "Portuguese"
+    }
+]
+

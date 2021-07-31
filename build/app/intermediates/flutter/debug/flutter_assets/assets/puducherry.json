@@ -1,0 +1,209 @@
+[
+    {
+        "1": "In which year the name Pondicherry was changed to Puducherry officially",
+        "2": "Total number of districts in Puducherry is",
+        "3": "Who was the first Chief Minister of Puducherry",
+        "4": "Which one is the state bird of Puducherry",
+        "5": "In which year Puducherry was integrated into India",
+        "6": "Which one is the State animal of Puducherry ",
+        "7": "In which year Puducherry became a French colonial possession.",
+        "8": "In which year Puducherry became a French colonial possession",
+        "9":  "In which year Pondicherry University was established",
+        "10": "The Mahe district is surrounded by which State",
+        "11": "Who was the first Lieutenant Governors of Puducherry.",
+	    "12": "Total number of Assembly constituencies in Puducherry is",
+	    "13": "Which one lake is located in Puducherry",
+	    "14": "In which region, Gingee River is located",
+	    "15": "Which one is the largest district of Puducherry",
+	    "16": "Which district has the highest desity of population",
+	    "17": "Total number of Assembly constituencies in puducherry is",
+	    "18": "Who was the first Lieutenant governors of puducherry",
+	    "19": "The mahe district is surrounded by which state",
+	    "20": "The yanam district is surrounded by which state?",
+	    "21": "In which year puducherry became a french colonial possession",
+	    "22": "In which year puducherry was integrated into india'",
+	    "23": "which one is the state bird of puducherry",
+	    "24": "who was the first chief minister of puducherry",
+	    "25": "when was puducherry established"
+    },
+    {
+        "1": {
+            "a": "2003",
+            "b": "2005",
+            "c": "2006",
+            "d": "2008"
+        },
+        "2": {
+            "a": "3",
+            "b": "4",
+            "c": "5",
+            "d": "6"
+        },
+        "3": {
+            "a": "M. O. H. Farook",
+            "b": "V. Venkatasubha Reddiar",
+            "c": "Edouard Goubert",
+            "d": "Subramanyan Ramaswamy"
+        },
+        "4": {
+            "a": "Eagle",
+            "b": "Dove",
+            "c": "Pigeon",
+            "d": "Koel"
+        },
+        "5": {
+            "a": "1960",
+            "b": "1962",
+            "c": "1965",
+            "d": "1969"
+        },
+        "6": {
+            "a": "Chital",
+            "b": "Deer",
+            "c": "Tiger",
+            "d": "Squirrel"
+        },
+        "7": {
+            "a": "1674",
+            "b": "1679",
+            "c": "1688",
+            "d": "1695"
+        },
+        "8": {
+            "a": "TamilNadu",
+            "b": "Kerala",
+            "c": "Andhra Pradesh",
+            "d": "Karnataka"
+        },
+        "9": {
+            "a": "1976",
+            "b": "1981",
+            "c": "1985",
+            "d": "1989"
+        },
+        "10": {
+            "a": "Karnataka",
+            "b": "Goa",
+            "c": "Tamil Nadu",
+            "d": "Kerala"
+        },
+	    "11": {
+            "a": "S.L. Silam",
+            "b": "B.D. Jatti",
+            "c": "Chhedilal",
+            "d": "K.M. Chandy"
+        },
+	    "12": {
+            "a": "26",
+            "b": "30",
+            "c": "32",
+            "d": "35"
+        },
+	    "13": {
+            "a": "Oustery Lake",
+            "b": "Kaylana Lake",
+            "c": "Anshupa Lake",
+            "d": "Chilka Lake"
+        },
+	    "14": {
+            "a": "Mahe Region",
+            "b": "Karaikal Region",
+            "c": "Puducherry Region",
+            "d": "Yanam Region"
+        },
+	    "15": {
+            "a": "Karaikal",
+            "b": "Pondicherry",
+            "c": "Mahe",
+            "d": "Yanam"
+        },
+	    "16": {
+            "a": "Karaikal",
+            "b": "Pondicherry",
+            "c": "Mahe",
+            "d": "Yanam"
+        },
+	    "17": {
+            "a": "35",
+            "b": "26",
+            "c": "30",
+            "d": "32"
+        },
+	    "18": {
+            "a": "K.M. Chandy",
+            "b": "B.D. jatti",
+            "c": "S.L. silam",
+            "d": "Chhedilal"
+        },
+	    "19": {
+            "a": "Kerala",
+            "b": "TamilNadu",
+            "c": "Karnataka",
+            "d": "Goa"
+        },
+	    "20": {
+            "a": "TamilNadu",
+            "b": "kerala",
+            "c": "Andhra pradesh",
+            "d": "Karnataka"
+        },
+	    "21": {
+            "a": "1695",
+            "b": "1674",
+            "c": "1679",
+            "d": "1688"
+        },
+	    "22": {
+            "a": "1969",
+            "b": "1960",
+            "c": "1962",
+            "d": "1965"
+        },
+	    "23": {
+            "a": "koel",
+            "b": "pigeon",
+            "c": "eagle",
+            "d": "dove"
+        },
+	    "24": {
+            "a": "edouard goubert",
+            "b": "subramanyan ramaswamy",
+            "c": "M.O.H. farook",
+            "d": "V. venkatsubha reddiar"
+        },
+	    "25": {
+            "a": "1673",
+            "b": "1686",
+            "c": "1670",
+            "d": "1682"
+        }
+    },
+    {
+        "1": "2006",
+        "2": "4",
+        "3": "Edouard Goubert",
+        "4": "Koel",
+        "5": "1962",
+        "6": "Squirrel",
+        "7": "1674",
+        "8": "Andhra Pradesh",
+        "9": "1985",
+        "10": "Kerala",
+     	"11": "S.L. Silam",
+        "12": "30",
+        "13": "Oustery Lake",
+        "14": "Puducherry Region",
+        "15": "Pondicherry",
+        "16": "Mahe",
+        "17": "30",
+        "18": "S.L. silam",
+        "19": "kerala",
+        "20": "Andhra pradesh",
+	    "21": "1674",
+        "22": "1962",
+        "23": "Squirrel",
+        "24": "edouard goubert",
+        "25": "1673"
+    }
+]
+

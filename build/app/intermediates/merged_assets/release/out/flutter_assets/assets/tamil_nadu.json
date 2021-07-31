@@ -1,0 +1,209 @@
+[
+    {
+        "1": "Which article deals with the structure of Tamil Nadu Public Service Commission?",
+        "2": "Which one is the largest district by areawise in Tamilnadu?",
+        "3": "Which is the smallest district in Tamilnadu by area?",
+        "4": "Which strait separates Tamil Nadu from Srilanka?",
+        "5": "Koodal is old name of which city?",
+        "6": "Tamil Nadu is the ……… largest state by area wise in India.",
+        "7": "In which year the Madras State was renamed as Tamil Nadu",
+        "8": "Which one is the longest ruling dynasties in Tamil Nadu?",
+        "9": "Total number of district in Tamil Nadu",
+        "10": "Meenakshi Amman Temple is located in the bank of the river",
+        "11": "On which day of Pongal, the Jallikattu bull fight was played",
+	    "12": "Who built the Madurai Meenakshi Amman Temple?",
+        "13": "Which of the following is the Tallest Waterfall in Tamil Nadu?",
+	    "14": "Who built the world’s oldest dam “Kallanai”?",
+	    "15": "Population of Tamil Nadu",
+	    "16": "Which city is called the city of Festival in Tamil Nadu?",
+        "17": "What is the full form of “THAI”?",
+        "18": "Mahamgam Festival is a holy festival that brings pilgrims to Kumbakonam once in how many years?",
+	    "19": "Major ports in Tamil Nadu are",
+	    "20": "Tamil Nadu is the ………most part of India",
+	    "21": "The state is Famous for……",
+	    "22": "Which district has the largest population in Tamil Nadu?",
+	    "23": "Solaiyar dam is located is on which river?",
+	    "24": "Which city is also reffered to as “the Pump City”?",
+	    "25": "Tamil Nadu state come into existance on……"
+    },
+    {
+        "1": {
+            "a": "Articles 316 to 319",
+            "b": "Articles 319 to 320",
+            "c": "Articles 317 to 318",
+            "d": "Articles 320 to 321"
+        },
+        "2": {
+            "a": "Viluppuram",
+            "b": "Tiruvannamalai",
+            "c": "Tirupur",
+            "d": "Pudukkottai"
+        },
+        "3": {
+            "a": "Chennai",
+            "b": "Villupuram",
+            "c": "Erode",
+            "d": "Salem"
+        },
+        "4": {
+            "a": "Cook",
+            "b": "Torres",
+            "c": "Davis",
+            "d": "Palk"
+        },
+        "5": {
+            "a": "Tiruppur",
+            "b": "Tirunelveli",
+            "c": "Madurai",
+            "d": "None of these"
+        },
+        "6": {
+            "a": "2nd",
+            "b": "5th",
+            "c": "8th",
+            "d": "11th"
+        },
+        "7": {
+            "a": "1956",
+            "b": "1961",
+            "c": "1966",
+            "d": "1969"
+        },
+        "8": {
+            "a": "Pandyan Dynasty",
+            "b": "Chola Dynasty",
+            "c": "Chera Dynasty",
+            "d": "Satavahana Dynasty"
+        },
+        "9": {
+            "a": "28",
+            "b": "32",
+            "c": "34",
+            "d": "38"
+        },
+        "10": {
+            "a": "Kaveri River",
+            "b": "Cheyyar River",
+            "c": "Bhavani River",
+            "d": "Vaigai River"
+        },
+	    "11": {
+            "a": "Bhogi",
+            "b": "Thai Pongal",
+            "c": "Maatu Pongal",
+            "d": "Kaanum Pongal"
+        },
+	    "12": {
+            "a": "Thirumalai Nayakar",
+            "b": "Thirumalai Nayak",
+            "c": "Maravarman Sundara Pandyan",
+            "d": "Muthu Pillai"
+        },
+	    "13": {
+            "a": "Kolakambai Falls",
+            "b": "Thalaiyar Falls",
+            "c": "Palar Falls",
+            "d": "Kutralam Falls"
+        },
+	    "14": {
+            "a": "King Karikala Cholan",
+            "b": "Vijayalaya Chola",
+            "c": "IIamcetcenni",
+            "d": "Sundara Chola"
+        },
+	    "15": {
+            "a": "7.21 crore",
+            "b": "8.26 crore",
+            "c": "6.72 crore",
+            "d": "7.32 crore"
+        },
+	    "16": {
+            "a": "Chennai",
+            "b": "Coimbatore",
+            "c": "Madurai",
+            "d": "Salem"
+        },
+	    "17": {
+            "a": "Tamil Nadu Village Habitations Industries",
+            "b": "Tamil Nadu Village Horticulture Improvement",
+            "c": "Tamil Nadu Village Habitations Index",
+            "d": "Tamil Nadu Village Habitations Improvement"
+        },
+	    "18": {
+            "a": "10 years",
+            "b": "5 years",
+            "c": "11 years",
+            "d": "12 years"
+        },
+	    "19": {
+            "a": "Chennai",
+            "b": "Tuticorin",
+            "c": "Nagapattinam",
+            "d": "Both a and b"
+        },
+	    "20": {
+            "a": "Southern",
+            "b": "Eastern",
+            "c": "Northern",
+            "d": "Western"
+        },
+	    "21": {
+            "a": "Forest",
+            "b": "Trekking point",
+            "c": "Temples",
+            "d": "Hill Stations"
+        },
+	    "22": {
+            "a": "Dindigul",
+            "b": "Cuddalore",
+            "c": "Salem",
+            "d": "Chennai"
+        },
+	    "23": {
+            "a": "Chalakudy River",
+            "b": "Noyyal River",
+            "c": "Palar River",
+            "d": "Kaveri River"
+        },
+	    "24": {
+            "a": "Coimbatore",
+            "b": "Villupuram",
+            "c": "Erode",
+            "d": "Salem"
+        },
+	    "25": {
+            "a": "22th January 1950",
+            "b": "20th January 1950",
+            "c": "25th January 1950",
+            "d": "26th January 1950"
+        }
+    },
+    {
+        "1": "Articles 316 to 319",
+        "2": "Viluppuram",
+        "3": "Chennai",
+        "4": "Palk",
+        "5": "Madurai",
+        "6": "11th",
+        "7": "1969",
+        "8": "Chola Dynasty",
+        "9": "32",
+        "10": "Vaigai River",
+     	"11": "Maatu Pongal",
+        "12": "Thirumalai Nayak",
+        "13": "Thalaiyar Falls",
+        "14": "King Karikala Cholan",
+        "15": "7.21 crore",
+        "16": "Madurai",
+        "17": "Tamil Nadu Village Habitations Improvement",
+        "18": "12 years",
+        "19": "Both a and b",
+        "20": "Southern",
+	    "21": "Temples",
+        "22": "Chennai",
+        "23": "Chalakudy River",
+        "24": "Coimbatore",
+        "25": "26th January 1950"
+    }
+]
+

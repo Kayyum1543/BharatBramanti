@@ -1,0 +1,86 @@
+[
+    {
+        "1": "Who built Red Fort in Delhi ? 1",
+        "2": "Who constructed Moti Masjid in Red Fort ? 2",
+        "3": "Which building is known as 'White Marble Mughal Architecture' ? 3",
+        "4": "Which World Heritage Site in India was built by Begum Bega ? 4",
+        "5": "Qutub Minar is situated in which place ? 5",
+        "6": "The river that flows through Delhi is the ? 6",
+        "7": "Which of the following tourist spots in NOT in Delhi ? 7",
+        "8": "The Qutub Minar was dedicated to ?  8",
+        "9": "How built the Alai Darwaza of Delhi ? 9",
+        "10": "When was the Taj Mahal declared a winner of the New7Wonders of the World ? 10"
+    },
+    {
+        "1": {
+            "a": "Akbar",
+            "b": "Jahangir",
+            "c": "Shahjahan",
+            "d": "Humayun"
+        },
+        "2": {
+            "a": "Aurangzeb",
+            "b": "Shahjahan",
+            "c": "Akbar",
+            "d": "Bahadur Shah Jafar"
+        },
+        "3": {
+            "a": "Taj Mahal",
+            "b": "Khajurao",
+            "c": "Hampi",
+            "d": "Ajanta"
+        },
+        "4": {
+            "a": "Humayun Tomb",
+            "b": "Taj Mahal",
+            "c": "Red Fort",
+            "d": "Qutub Minar"
+        },
+        "5": {
+            "a": "Puri",
+            "b": "Rajgir",
+            "c": "Delhi",
+            "d": "Agra"
+        },
+        "6": {
+            "a": "Yamuna",
+            "b": "Ganga"
+        },
+        "7": {
+            "a": "Lotus Temple aka Bahai Temple",
+            "b": "India Gate",
+            "c": "Humayun Tomb",
+            "d": "Dilwara Temples"
+        },
+        "8": {
+            "a": "Sufi Saint",
+            "b": "The Emperor himself",
+            "c": "The Emperors queens",
+            "d": "Achievement of the Emperor "
+        },
+        "9": {
+            "a": "Qutub-ud-din Aibek",
+            "b": "IItutmish",
+            "c": "Alauddin Khilji",
+            "d": "Muhammad Bin Tughlaq"
+        },
+        "10": {
+            "a": "2010",
+            "b": "2005",
+            "c": "2011",
+            "d": "2007"
+        }
+    },
+    {
+        "1": "Shahjahan",
+        "2": "Aurangzeb",
+        "3": "Taj Mahal",
+        "4": "Hamuyun Tomb",
+        "5": "Delhi",
+        "6": "Yamuna",
+        "7": "Dilwara Temples",
+        "8": "Sufi Saint",
+        "9": "Alauddin Khilji",
+        "10": "2007"
+    }
+]

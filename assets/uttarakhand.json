@@ -1,0 +1,209 @@
+[
+    {
+        "1": "How many universities are there in Uttarakhand ?",
+        "2": "Who among the following is the present chief Minister of Uttarakhand?",
+        "3": "When was the U.P. reorganisation Bill passed in Lok Sabha ?",
+        "4": "Main source of income of Uttarakhand is",
+        "5": "Where is Lal Bahadur Shastri Academy situated?",
+        "6": "Corbett National Park is situated in which district of Uttarakhand ?",
+        "7": "Where is the Sat-tal lake situated at Uttarakhand ?",
+        "8": "Which of the following passes is in Uttarakhand?",
+        "9":  "What is the main cause of the formation of Uttarakhand ?",
+        "10": "How many types of forests are found in Uttarakhand ?",
+        "11": "Which of these is the Mini Switzerland according to Mahatma Gandhi?",
+	    "12": "At present what is the area of Uttarakhand ?",
+	    "13": "In which region of Uttarakhand is 'Nagrik and Soyam forest development project' launched '?",
+	    "14": "At the bank of which river is Rishikesh pilgrim centre in Uttarakhand situated?",
+	    "15": "Chandi Prasad the dignity of Uttarakhand, was awarded the international prize, what is that prize?",
+	    "16": "Which is the small Kashmir of Uttarakhand ?",
+	    "17": "The distinguished lady of the state who has been honoured with an international recognition in 2000 is",
+	    "18": "Last king of Uttarakhand is known",
+	    "19": "Who was the first Chief Minister of Uttarakhand?",
+	    "20": "When did the earthquake occur in Uttar Kashi ?",
+	    "21": "The origin of Pindar river is from a",
+	    "22": "Where is the Tiffin Top situated?'",
+	    "23": "By which name is the Haridwar known '?",
+	    "24": "British woman Hielamen known as 'Sarla Bahen' her working field was as",
+	    "25": "Among the High Courts of the country, the Uttarakhand High Court rank as"
+    },
+    {
+        "1": {
+            "a": "7",
+            "b": "8",
+            "c": "9",
+            "d": "11"
+        },
+        "2": {
+            "a": "Naraya dutt Tiwari",
+            "b": "B.C.Khanduri",
+            "c": "B.L.Joshi",
+            "d": "Chand Lal Shah"
+        },
+        "3": {
+            "a": "1st August, 2000",
+            "b": "5th August, 2000",
+            "c": "28th August, 2000",
+            "d": "30th August, 2000"
+        },
+        "4": {
+            "a": "Energy",
+            "b": "Forest resources and tourism",
+            "c": "Industry",
+            "d": "Agriculture"
+        },
+        "5": {
+            "a": "Dehradun",
+            "b": "Mussoorie",
+            "c": "Nainital",
+            "d": "Almora"
+        },
+        "6": {
+            "a": "Chamoli",
+            "b": "Nainital",
+            "c": "Rishikesh",
+            "d": "Garhwal"
+        },
+        "7": {
+            "a": "Nainital",
+            "b": "Chamoli",
+            "c": "Almora",
+            "d": "Pauri"
+        },
+        "8": {
+            "a": "Mana",
+            "b": "Darma",
+            "c": "Kungri-bigri",
+            "d": "Lipulekh"
+        },
+        "9": {
+            "a": "Land and identity of hilly people",
+            "b": "Backwardness, poverty, inconvenience and migration",
+            "c": "Protection of hill peoples culture",
+            "d": "Political awarness of hilly people"
+        },
+        "10": {
+            "a": "Four",
+            "b": "Two",
+            "c": "Three",
+            "d": "Five"
+        },
+	    "11": {
+            "a": "Almora (Kausani)",
+            "b": "Nainital",
+            "c": "Badri Nath",
+            "d": "Pithoragarh Singh"
+        },
+	    "12": {
+            "a": "53.483 km2",
+            "b": "53.483 km2",
+            "c": "50,343 km2",
+            "d": "52,530 km2"
+        },
+	    "13": {
+            "a": "Kumaon region",
+            "b": "Garhwal region",
+            "c": "Both (A) and (B)",
+            "d": "Entire state"
+        },
+	    "14": {
+            "a": "Ghaghara",
+            "b": "Ganga",
+            "c": "Sharda",
+            "d": "Yamuna"
+        },
+	    "15": {
+            "a": "Nobel prize",
+            "b": "Oscar prize",
+            "c": "Ramon Magsaysay Prize",
+            "d": "None of these."
+        },
+	    "16": {
+            "a": "Mussoorie",
+            "b": "Nainital",
+            "c": "Almora",
+            "d": "Pithoragarh"
+        },
+	    "17": {
+            "a": "Mranal Pandey",
+            "b": "Shivani",
+            "c": "KalaWati Rawat",
+            "d": "Tara pandey"
+        },
+	    "18": {
+            "a": "Bamshah",
+            "b": "Pradhuman Shah",
+            "c": "Harsh Dev Joshi",
+            "d": "Manvendra Shah"
+        },
+	    "19": {
+            "a": "Nityanand Swami",
+            "b": "Surjeet Singh Barnala",
+            "c": "Govind Ballabh Pant",
+            "d": "Narain Dutt Tiwari"
+        },
+	    "20": {
+            "a": "In 1990",
+            "b": "In 1991",
+            "c": "In 1992",
+            "d": "In 1998"
+        },
+	    "21": {
+            "a": "Milam",
+            "b": "Badri Nath",
+            "c": "Pindari glacier",
+            "d": "Kedar Nath"
+        },
+	    "22": {
+            "a": "Nainital",
+            "b": "Bhimtal",
+            "c": "Haldwani",
+            "d": "Ranikhet"
+        },
+	    "23": {
+            "a": "Kumbh Nagri",
+            "b": "Sant Nagri",
+            "c": "Ganga Nagri",
+            "d": "Both (A) and (B) "
+        },
+	    "24": {
+            "a": "Reform in Uttarakhand state",
+            "b": "Medical services in Uttarakhand state",
+            "c": "Organis'ation of freedom fighting in the state",
+            "d": "Propagation of Christianity -in the state"
+        },
+	    "25": {
+            "a": "18th",
+            "b": "19th",
+            "c": "20th",
+            "d": "21st"
+        }
+    },
+    {
+        "1": "11",
+        "2": "B.C.Khanduri",
+        "3": "1st August, 2000",
+        "4": "Forest resources and tourism",
+        "5": "Mussoorie",
+        "6": "Nainital",
+        "7": "Nainital",
+        "8": "Mana",
+        "9": "Backwardness, poverty, inconvenience and migration",
+        "10": "Four",
+     	"11": "Almora(kausani)",
+        "12": "53.483 km2",
+        "13": "Both (A) and (B)",
+        "14": "Ganga",
+        "15": "Ramon Magsaysay Prize",
+        "16": "Pithoragarh",
+        "17": "Kalawati Rawat",
+        "18": "Pradhuman Shah",
+        "19": "Nityanand Swami",
+        "20": "In 1991",
+	    "21": "Pindari glacier",
+        "22": "Nainital",
+        "23": "Both (A) and (B)",
+        "24": "Organis'ation of freedom fighting in the state",
+        "25": "20th"
+    }
+]
+

@@ -1,0 +1,209 @@
+[
+    {
+        "1": "In which year war Jharkhand separated from Bihar?",
+        "2": "Which of the following is the state bird of Bihar?",
+        "3": "Chhath Puja which is celebrated in Bihar is dedicated to which God?",
+        "4": "In which district is the Vikranshila Gangetic Dolphin Sanctuary located?",
+        "5": "Who of the following person from the Bihar was known as the Mountain Man?",
+        "6": "At which of the following places does the river Kosi meet the Ganga?",
+        "7": "On which day is the Bihar divas is celebrated?",
+        "8": "What is the rank of Bihar interm of population of Indian State?",
+        "9": "Which is the most populas tribe in Bihar?",
+        "10": "Bihar ranks the lowest in terms of literacy as per 2100 census. What is the percentage of literates in the state as per the cencus?",
+        "11": "King Ajatashatru belongs to which dynasty?",
+	    "12": "Total number of district in Bihar",
+        "13": "Which one is recognized as the state flower",
+	    "14": "Which is the largest district in Bihar areawise?",
+	    "15": "Besides Hindi and Urdu, which one is the other official language of Bihar",
+	    "16": "The Barabar Caves are located in which district",
+        "17": "The famous movements was started in the year",
+        "18": "The Chatth Puja is celebrated in the month of ",
+	    "19": "Which one is recognised as state animal of Bihar",
+	    "20": "In which year, Bihar is separated from Bengal Province",
+	    "21": "Dalmianagar of Bihar is famous for",
+	    "22": "Which city is also known as the Medical City of Bihar?",
+	    "23": "Total numbers of highways within Bihar is",
+	    "24": "Who is also known as the Bihar Vibhuti?",
+	    "25": "Which district in Bihar has the highest density of population?"
+    },
+    {
+        "1": {
+            "a": "1998",
+            "b": "2000",
+            "c": "2002",
+            "d": "2004"
+        },
+        "2": {
+            "a": "House Sparrow",
+            "b": "Hill Mynah",
+            "c": "Indian Roller",
+            "d": "Great Hornbill"
+        },
+        "3": {
+            "a": "Indra",
+            "b": "Shiv",
+            "c": "Sun",
+            "d": "Krishna"
+        },
+        "4": {
+            "a": "Bhagalpur",
+            "b": "Patna",
+            "c": "Buxar",
+            "d": "Nagaland"
+        },
+        "5": {
+            "a": "Dasrath Manjhi",
+            "b": "Vashishtha Narayan Singh",
+            "c": "Brajlishore Prasad",
+            "d": "Anand Kumar"
+        },
+        "6": {
+            "a": "Kursela",
+            "b": "Vaishali",
+            "c": "Hazipur",
+            "d": "Jamalpur"
+        },
+        "7": {
+            "a": "20 January",
+            "b": "22 March",
+            "c": "23 June",
+            "d": "25 August"
+        },
+        "8": {
+            "a": "First",
+            "b": "Second",
+            "c": "Third",
+            "d": "Fourth"
+        },
+        "9": {
+            "a": "Gond",
+            "b": "Oraon",
+            "c": "Kharwar",
+            "d": "Santal"
+        },
+        "10": {
+            "a": "68.3%",
+            "b": "63.8%",
+            "c": "58.6%",
+            "d": "69.5%"
+        },
+	    "11": {
+            "a": "Shishunaga dynasty",
+            "b": "Nanda dynasty",
+            "c": "Maurya dynasty",
+            "d": "Haryanka dynasty"
+        },
+	    "12": {
+            "a": "32",
+            "b": "38",
+            "c": "40",
+            "d": "46"
+        },
+	    "13": {
+            "a": "Rose",
+            "b": "Jasmin",
+            "c": "Marigold",
+            "d": "Tulip"
+        },
+	    "14": {
+            "a": "West Champaran",
+            "b": "Rohtas",
+            "c": "Aurangabad",
+            "d": "Samastipur"
+        },
+	    "15": {
+            "a": "Bhojpuri",
+            "b": "Maithili",
+            "c": "Magadhi",
+            "d": "Sanskrit"
+        },
+	    "16": {
+            "a": "Jehanabad districts",
+            "b": "Buxar district",
+            "c": "Aurangabad district",
+            "d": "Gaya district"
+        },
+	    "17": {
+            "a": "1970",
+            "b": "1972",
+            "c": "1974",
+            "d": "1975"
+        },
+	    "18": {
+            "a": "March and November",
+            "b": "January and October",
+            "c": "January and August",
+            "d": "November and July"
+        },
+	    "19": {
+            "a": "Cow",
+            "b": "Tiger",
+            "c": "Lion",
+            "d": "Ox"
+        },
+	    "20": {
+            "a": "1903",
+            "b": "1912",
+            "c": "1915",
+            "d": "1935"
+        },
+	    "21": {
+            "a": "Silk",
+            "b": "Cement",
+            "c": "Leather",
+            "d": "Jute"
+        },
+	    "22": {
+            "a": "Gaya",
+            "b": "Patna",
+            "c": "Bhagalpur",
+            "d": "Darbhanga"
+        },
+	    "23": {
+            "a": "22",
+            "b": "29",
+            "c": "32",
+            "d": "34"
+        },
+	    "24": {
+            "a": "Rajendra Prasad",
+            "b": "Krishna Singh",
+            "c": "Anugrah Narayan Sinha",
+            "d": "Vidyapati"
+        },
+	    "25": {
+            "a": "Araria",
+            "b": "Bhojpur",
+            "c": "Bhagalpur",
+            "d": "Sheohar"
+        }
+    },
+    {
+        "1": "2000",
+        "2": "House Sparrow",
+        "3": "Sun",
+        "4": "Bhagalpur",
+        "5": "Dasrath Manjhi",
+        "6": "Kursela",
+        "7": "22 March",
+        "8": "Third",
+        "9": "Santal",
+        "10": "63.8%",
+     	"11": "Haryanka dynasty",
+        "12": "38",
+        "13": "Marigold",
+        "14": "West Champaran",
+        "15": "Maithili",
+        "16": "Gaya district",
+        "17": "1974",
+        "18": "March and November",
+        "19": "Ox",
+        "20": "1912",
+	    "21": "Cement",
+        "22": "Darbhanga",
+        "23": "29",
+        "24": "Anugrah Narayan Sinha",
+        "25": "Sheohar"
+    }
+]
+

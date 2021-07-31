@@ -1,0 +1,209 @@
+[
+    {
+        "1": "Which one is the only Indian state who shares its border with Sikkim",
+        "2": "The total number of recognised official languages in Sikkim is",
+        "3": "In which year, the Indo-Sikkimese Treaty was signed",
+        "4": "In which year, Sikkim becomes a part of India as its 22nd state",
+        "5": "In Bangladesh, the Teesta River joins with the",
+        "6": "Which one is recognised as the state animal of Sikkim",
+        "7": "Total number of districts in Sikkim",
+        "8": "Temi Tea Garden, which is the only tea garden in Sikkim is located in",
+        "9":  "Who was the first Chief Minister of Sikkim",
+        "10": "In which year, Pawan Kumar Chamling becomes the Chief Minister of Sikkim for the first time",
+        "11": "Which one is the largest district of Sikkim by area wise",
+	    "12": "The Nathu La pass connects India with",
+	    "13": "Who was the first chancellor of Sikkim University",
+	    "14": "Which one is the largest buddhist monastery in Sikkim",
+	    "15": "Which one is a left tributary river of Teesta",
+	    "16": "Who is the Current CM of Sikkim",
+	    "17": "Sikkim became the 22nd state of the Indian Union in the year?",
+	    "18": "Who is the Current Chief Justices of Sikkim",
+	    "19": "Which pass connects Tibet with India?",
+	    "20": "Which is the only Indian State which borders Sikkim?",
+	    "21": "The total number of recognized official language in Sikkim is",
+	    "22": "Who was the first Chief Minister of Sikkim",
+	    "23": "Which one is a left tributary river of Teest",
+	    "24": "The Barsey Rhododendron Wildlife Sanctuary is located at",
+	    "25": "By Which amendment Sikkim become a full state of India?"
+    },
+    {
+        "1": {
+            "a": "Assam",
+            "b": "Bihar",
+            "c": "West Bengal",
+            "d": "Arunachal Pradesh"
+        },
+        "2": {
+            "a": "2",
+            "b": "5",
+            "c": "9",
+            "d": "11"
+        },
+        "3": {
+            "a": "1945",
+            "b": "1947",
+            "c": "1949",
+            "d": "1950"
+        },
+        "4": {
+            "a": "1972",
+            "b": "1975",
+            "c": "1978",
+            "d": "1980"
+        },
+        "5": {
+            "a": "Ganga River",
+            "b": "Brahmaputra River",
+            "c": "Mohana River",
+            "d": "Gomti River"
+        },
+        "6": {
+            "a": "Red Panda",
+            "b": "Snow Leopard",
+            "c": "Gayal ",
+            "d": "None of the above"
+        },
+        "7": {
+            "a": "4",
+            "b": "5",
+            "c": "7",
+            "d": "8"
+        },
+        "8": {
+            "a": "East Sikkim District",
+            "b": "North Sikkim District",
+            "c": "South Sikkim District",
+            "d": "West Sikkim District"
+        },
+        "9": {
+            "a": "Nar Bahadur Bhandari",
+            "b": "B. B. Gurung",
+            "c": "Kazi Lhendup Dorjee",
+            "d": "Pawan Kumar Chamling"
+        },
+        "10": {
+            "a": "1990",
+            "b": "1992",
+            "c": "1993",
+            "d": "1994"
+        },
+	    "11": {
+            "a": "East Sikkim District",
+            "b": "North Sikkim District",
+            "c": "South Sikkim District",
+            "d": "West Sikkim District"
+        },
+	    "12": {
+            "a": "Bhutan",
+            "b": "Nepal",
+            "c": "Bangladesh",
+            "d": "China"
+        },
+	    "13": {
+            "a": "Justice Ruma Pal",
+            "b": "Mahendra P. Lama",
+            "c": "M. S. Swaminathan",
+            "d": "Tanka Bahadur Subba"
+        },
+	    "14": {
+            "a": "Rumtek Monastery",
+            "b": "Pemayangtse Monastery",
+            "c": "Enchey Monastery",
+            "d": "Phodang Monastery"
+        },
+	    "15": {
+            "a": "Dik Chhu",
+            "b": "Ranghap Chhu",
+            "c": "Ringyong Chhu",
+            "d": "Rangeet"
+        },
+	    "16": {
+            "a": "Shriniwas Dadasaheb Patil",
+            "b": "V. Rama Rao",
+            "c": "Kidar Nath Sahani",
+            "d": "S.K. Bhatnagar"
+        },
+	    "17": {
+            "a": "1975",
+            "b": "1978",
+            "c": "1980",
+            "d": "None of these"
+        },
+	    "18": {
+            "a": "Binod Kumar Roy",
+            "b": "Permod Kohli",
+            "c": "Sunil Kumar Sinha",
+            "d": "Satish Kumar Agnihotri"
+        },
+	    "19": {
+            "a": "Joji La",
+            "b": "Nathu La",
+            "c": "Bhara Lacha",
+            "d": "None of these"
+        },
+	    "20": {
+            "a": "Assam",
+            "b": "West Bengal",
+            "c": "Arunachal Pradesh",
+            "d": "None of these"
+        },
+	    "21": {
+            "a": "3",
+            "b": "5",
+            "c": "8",
+            "d": "11"
+        },
+	    "22": {
+            "a": "Nar Bahadur Bhandari",
+            "b": "B. B. Gurung",
+            "c": "Kazi Lhendup Dorjee",
+            "d": "Pawan Kumar Chamling"
+        },
+	    "23": {
+            "a": "Rangeet",
+            "b": "Ranghap Chhu",
+            "c": "Ringyong Chhu",
+            "d": "Dik Chhu"
+        },
+	    "24": {
+            "a": "Gujarat",
+            "b": "Sikkim",
+            "c": "Madhya Pradesh",
+            "d": "None of these"
+        },
+	    "25": {
+            "a": "36th Amendment",
+            "b": "37th Amendment",
+            "c": "38th Amendment",
+            "d": "39th Amendment"
+        }
+    },
+    {
+        "1": "West Bengal",
+        "2": "11",
+        "3": "1950",
+        "4": "1975",
+        "5": "Brahmaputra River",
+        "6": "Red Panda",
+        "7": "4",
+        "8": "South Sikkim District",
+        "9": "Kazi Lhendup Dorjee",
+        "10": "1994",
+     	"11": "North Sikkim District",
+        "12": "China",
+        "13": "M. S. Swaminathan",
+        "14": "Rumtek Monastery",
+        "15": "Dik Chhu",
+        "16": "Shriniwas Dadasaheb Patil",
+        "17": "1975",
+        "18": "Satish Kumar Agnihotri",
+        "19": "Nathu La",
+        "20": "West Bengal",
+	    "21": "11",
+        "22": "Kazi Lhendup Dorjee",
+        "23": "Dik Chhu",
+        "24": "Sikkim",
+        "25": "36th Amendment"
+    }
+]
+

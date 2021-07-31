@@ -1,0 +1,209 @@
+[
+    {
+        "1": "Total number of districts in Andaman and Nicobar Islands",
+        "2": "Which latitude separated the Andaman and Nicobar Islands ?",
+        "3": "Total number of islands in Andamna Nicobar is",
+        "4": "Which one is the state animal of Andaman Nicobar Islands ?",
+        "5": "The construction of Cellular Jail started in",
+        "6": "Total number of National Parks in Andaman Nicobar is",
+        "7": "In which year Andaman Nicobar is declared as Union Territory of India",
+        "8": "Which Island contains the only active volcano in South Asia ?",
+        "9": "Which one is the state bird of Andaman Nicobar Islands ?",
+        "10": "Which one is most widely spoken language in Andaman Nicobar ?",
+        "11": "For how many years Japanese did occupied Andaman Nicobar during World War II ",
+	    "12": "The height of Saddle Peak is",
+	    "13": "Which country established first European colony in Andaman Nicobar Islands ?",
+	    "14": "European reaches Andaman Nicobar Islands in the year",
+	    "15": "Total number of Wildlife Sanctuaries in Andaman Nicobar Islands is",
+	    "16": "Andaman and Nicobar Islands is a group of undulating ....... Islands and islets.",
+	    "17": "Which of the following separates the Andaman and Nicobar ?",
+	    "18": "Which of the following is the state tree of Andaman and Nicobar Islands ?",
+	    "19": "Which of the following is the Southern-most point of India ?",
+	    "20": "Which of the following tribes of the Andaman and Nicobar Islands is Mongoloid origin ?",
+	    "21": "In what body of water, itself a aprt of the Indian Ocean, are the Andaman and Nicobar Islands located ?",
+	    "22": "What town is both the capital and the most populous city of the Andaman and Nicobar Islands ?",
+	    "23": "The Nicobar Islands comprises an area about one-fourth of that of the Andaman Island.How many islands are there in total in the Nicobar Islands ?",
+	    "24": "What nation invaded the Andaman Islands in 1942 and established a military base at Port Blair that lasted overthree years ?",
+	    "25": "Which of the following cities is closed to Andaman and Nicobar ?"
+    },
+    {
+        "1": {
+            "a": "2",
+            "b": "3",
+            "c": "5",
+            "d": "6"
+        },
+        "2": {
+            "a": "5 N Parallel",
+            "b": "10 N Parralel",
+            "c": "12 N Parralel",
+            "d": "14 S Parrallel"
+        },
+        "3": {
+            "a": "402",
+            "b": "452",
+            "c": "498",
+            "d": "572"
+        },
+        "4": {
+            "a": "Platypus",
+            "b": "Tapir",
+            "c": "Dugong",
+            "d": "Manatee"
+        },
+        "5": {
+            "a": "1896",
+            "b": "1898",
+            "c": "1902",
+            "d": "1905"
+        },
+        "6": {
+            "a": "4",
+            "b": "6",
+            "c": "9",
+            "d": "11"
+        },
+        "7": {
+            "a": "1947",
+            "b": "1950",
+            "c": "1953",
+            "d": "1956"
+        },
+        "8": {
+            "a": "Barren Island",
+            "b": "Smith Island",
+            "c": "Neil Island",
+            "d": "Narcondam Island"
+        },
+        "9": {
+            "a": "Woodpecker",
+            "b": "Common Blackbird",
+            "c": "Stock dove",
+            "d": "Wood Pigeon"
+        },
+        "10": {
+            "a": "Bengali",
+            "b": "Tamil",
+            "c": "Hindi",
+            "d": "English"
+        },
+	    "11": {
+            "a": "One years",
+            "b": "Two years",
+            "c": "Three years",
+            "d": "Four years"
+        },
+	    "12": {
+            "a": "602 m",
+            "b": "648 m",
+            "c": "709 m",
+            "d": "732 m"
+        },
+	    "13": {
+            "a": "England",
+            "b": "Denmark",
+            "c": "France",
+            "d": "Spain"
+        },
+	    "14": {
+            "a": "1712",
+            "b": "1739",
+            "c": "1755",
+            "d": "1768"
+        },
+	    "15": {
+            "a": "68",
+            "b": "76",
+            "c": "83",
+            "d": "96"
+        },
+	    "16": {
+            "a": "around 572",
+            "b": "around 570",
+            "c": "around 580",
+            "d": "around 585"
+        },
+	    "17": {
+            "a": "Ten Degree Channel",
+            "b": "Eleven Degree Channel",
+            "c": "English Channel",
+            "d": "Indira Point"
+        },
+	    "18": {
+            "a": "Albizzia lebbek",
+            "b": "Areca laxa",
+            "c": "Andaman PAdauk",
+            "d": "Barringtonia racemosa"
+        },
+	    "19": {
+            "a": "Indira Col",
+            "b": "Indira Point",
+            "c": "Great Nicobar",
+            "d": "East Island"
+        },
+	    "20": {
+            "a": "Great Andamanese",
+            "b": "Jarawa",
+            "c": "Sentineles",
+            "d": "Shompen"
+        },
+	    "21": {
+            "a": "Gulf of Mannar",
+            "b": "Arabian Sea",
+            "c": "Bay of Bengal",
+            "d": "Lakshadweep Sea"
+        },
+	    "22": {
+            "a": "Kavaratti",
+            "b": "Port Arthur",
+            "c": "Port Blair",
+            "d": "Silvassa"
+        },
+	    "23": {
+            "a": "22",
+            "b": "40",
+            "c": "9",
+            "d": "61"
+        },
+	    "24": {
+            "a": "Germany",
+            "b": "China",
+            "c": "Japan",
+            "d": "Russia"
+        },
+	    "25": {
+            "a": "Mumbai",
+            "b": "Kolkata",
+            "c": "Tripura",
+            "d": "Chennai"
+        }
+    },
+    {
+        "1": "3",
+        "2": "10 N Parallel",
+        "3": "572",
+        "4": "Dugong",
+        "5": "1896",
+        "6": "9",
+        "7": "1956",
+        "8": "Barren Island",
+        "9": "Wood Pigeon",
+        "10": "Bengali",
+     	"11": "Three years",
+        "12": "732 m",
+        "13": "Denmark",
+        "14": "1755",
+        "15": "96",
+        "16": "around 572",
+        "17": "Ten Degree Channel",
+        "18": "Andaman Padauk",
+        "19": "Indira Point",
+        "20": "Shompen",
+	    "21": "Bay of Bengal",
+        "22": "Port Blair",
+        "23": "22",
+        "24": "Japan",
+        "25": "Kolkata"
+    }
+]
+

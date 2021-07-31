@@ -1,0 +1,209 @@
+[
+    {
+        "1": "In Ancient times, Assam is also known by the name of",
+        "2": "In which hill top, the Kamakhya Temple is located",
+        "3": "Total number of National Parks in Assam",
+        "4": "Who was the last king of Ahom kingdom in Assam?",
+        "5": "Which one is the assamese novel?",
+        "6": "Total number of district in Assam",
+        "7": "Mahatma Gandhi first visited Assam in the year",
+        "8": "Which one is the largest district in Assam by areawise?",
+        "9": "Which town is also known as the Manchester of Assam?",
+        "10": "Which city of Assam has the largest dry fish market of Asia?",
+        "11": "Total number of Parliamentary constituency in Assam?",
+	    "12": "How much percent of the Indian landmass is covered by the state of Assam?",
+        "13": "The literacy rate of Assam according to 2011 cencus is",
+	    "14": "When was the Assam Provincial Congress Committee formed",
+	    "15": "Which one was the first capital of Ahom kingdom in Assam?",
+	    "16": "The rank of Assam in Literacy among the State of India is",
+        "17": "The historic Assam Accord was signed on",
+        "18": "Assam Police day observed on",
+	    "19": "Which is the smallest district of Assam ?",
+	    "20": "The first women’s university in Assam “Assam Women’s University” is located in",
+	    "21": "The Assam silk industry is mainly centered in",
+	    "22": "Who had discovered Tea plants in Assam in the year 1823?",
+	    "23": "Which one is the second most populous city in Assam?",
+	    "24": "The first Sugar milk in Assam was established in",
+	    "25": "Who is also known as ‘Kala Guru’ of Assam?"
+    },
+    {
+        "1": {
+            "a": "Koliabor",
+            "b": "Guwahati",
+            "c": "Pragjyotishpur",
+            "d": "Charaideo"
+        },
+        "2": {
+            "a": "Nilachal hill",
+            "b": "Chitrachal hill",
+            "c": "Sandhyachal hill",
+            "d": "Jogini hill"
+        },
+        "3": {
+            "a": "3",
+            "b": "4",
+            "c": "6",
+            "d": "7"
+        },
+        "4": {
+            "a": "Gobar roja",
+            "b": "Sutanphaa",
+            "c": "Purandar Singha",
+            "d": "Jogeswar Singha"
+        },
+        "5": {
+            "a": "Mirijiyori",
+            "b": "Podum Kunwari",
+            "c": "Bhanumati",
+            "d": "Sudhaermar Upakhyan"
+        },
+        "6": {
+            "a": "25",
+            "b": "26",
+            "c": "27",
+            "d": "34"
+        },
+        "7": {
+            "a": "1918",
+            "b": "1919",
+            "c": "1920",
+            "d": "1921"
+        },
+        "8": {
+            "a": "Barpeta",
+            "b": "Karbi Anglong",
+            "c": "Sivsagar",
+            "d": "Dibrugarh"
+        },
+        "9": {
+            "a": "Jorhat",
+            "b": "Sualkuchi",
+            "c": "Diphu",
+            "d": "Digboi"
+        },
+        "10": {
+            "a": "Tangla",
+            "b": "Jagirod",
+            "c": "Dhuburi",
+            "d": "Tinsukia"
+        },
+	    "11": {
+            "a": "12",
+            "b": "13",
+            "c": "14",
+            "d": "16"
+        },
+	    "12": {
+            "a": "3.39%",
+            "b": "2.39%",
+            "c": "4.39%",
+            "d": "2.93%"
+        },
+	    "13": {
+            "a": "72.19%",
+            "b": "72.58%",
+            "c": "73.12%",
+            "d": "73.98%"
+        },
+	    "14": {
+            "a": "1920",
+            "b": "1921",
+            "c": "1922",
+            "d": "1923"
+        },
+	    "15": {
+            "a": "Garhgaon",
+            "b": "Charaideo",
+            "c": "Jorhat",
+            "d": "Sivsagar"
+        },
+	    "16": {
+            "a": "9th",
+            "b": "12th",
+            "c": "16th",
+            "d": "26th"
+        },
+	    "17": {
+            "a": "15th August, 1985",
+            "b": "26th January, 1986",
+            "c": "15th August, 1986",
+            "d": "15th August, 1990"
+        },
+	    "18": {
+            "a": "31st January",
+            "b": "4th April",
+            "c": "8th September",
+            "d": "1st October"
+        },
+	    "19": {
+            "a": "Chirang",
+            "b": "South Salamara-Mankachar",
+            "c": "Kumrup Metro",
+            "d": "Udalguri"
+        },
+	    "20": {
+            "a": "Dibrugarh",
+            "b": "Jorhat",
+            "c": "Nagaon",
+            "d": "Silchar"
+        },
+	    "21": {
+            "a": "Hajo",
+            "b": "Rangia",
+            "c": "Batadrava",
+            "d": "Sualkuchi"
+        },
+	    "22": {
+            "a": "Raymond W. Beaver",
+            "b": "Nathan Brown",
+            "c": "Oliver Thomas Cutter",
+            "d": "Robert Bruce"
+        },
+	    "23": {
+            "a": "Jorhat",
+            "b": "Dibrugarh",
+            "c": "Nagaon",
+            "d": "Silchar"
+        },
+	    "24": {
+            "a": "Barua Bamungaon",
+            "b": "Bokajan",
+            "c": "Chargola",
+            "d": "Namrup"
+        },
+	    "25": {
+            "a": "Paravti Prasad Baruva",
+            "b": "Bishnu Prasad Rabha",
+            "c": "Bhupen Hazarika",
+            "d": "Jyoti Prasad Agarwala"
+        }
+    },
+    {
+        "1": "Pragjyotishpur",
+        "2": "Nilachal hill",
+        "3": "6",
+        "4": "Purandar Singha",
+        "5": "Bhanumati",
+        "6": "34",
+        "7": "1921",
+        "8": "Karbi Anglong",
+        "9": "Sualkuchi",
+        "10": "Jagirod",
+     	"11": "14",
+        "12": "2.39%",
+        "13": "72.19%",
+        "14": "1921",
+        "15": "Charaideo",
+        "16": "26th",
+        "17": "15th August, 1985",
+        "18": "1st October",
+        "19": "South Salamara-Mankachar",
+        "20": "Jorhat",
+	    "21": "Sualkuchi",
+        "22": "Robert Bruce",
+        "23": "Silchar",
+        "24": "Barua Bamungaon",
+        "25": "Bishnu Prasad Rabha"
+    }
+]
+

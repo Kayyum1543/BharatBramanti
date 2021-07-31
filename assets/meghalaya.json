@@ -1,0 +1,209 @@
+[
+    {
+        "1": "Which one is the capital of Meghalaya ?",
+        "2": "Which country shares its international border with Meghalaya ?",
+        "3": "Which one is the largest tribal group in Meghalaya ?",
+        "4": "Shillong is also known as the ……… of the East.",
+        "5": "Total number of National Park in Meghalaya",
+        "6": "Total number of districts in Meghalaya is",
+        "7": "Which one is the largest district of Meghalaya ?",
+        "8": "Who was the first Chief Minister of Meghalaya ?",
+        "9": "The state of Meghalaya was formed in the year",
+        "10": "Which one is the highest peak of Meghalaya ?",
+        "11": "Who was the first Governor of Meghalaya ?",
+	    "12": "In which year Shillong was made capital of Assam ?",
+    	"13": "What is the official language of Meghalaya State ?",
+	    "14": "What is the literacy rate of Meghalaya ?",
+	    "15": "What is Meghalaya Literacy rank in India ?",
+	    "16": "Which is the Meghalaya state tree ?",
+	    "17": "Which is the Meghalaya state flower ?",
+	    "18": "Total number of dams in Meghalaya",
+	    "19": "On which river is the Khandong dam built ?",
+	    "20": "Which state is the east of Meghalaya ?",
+	    "21": "What is the area of Meghalaya ?",
+	    "22": "The nohkalikhai Fall is located on…",
+	    "23": "When did Meghalaya become a state?",
+	    "24": "Total number of Wildlife Sanctuary in Meghalaya.",
+	    "25": "Which is the Meghalaya state bird ?"
+    },
+    {
+        "1": {
+            "a": "Tura",
+            "b": "Cherrapunji",
+            "c": "Shillong",
+            "d": "Kohima"
+        },
+        "2": {
+            "a": "Nepal",
+            "b": "Bangladesh",
+            "c": "Bhutan",
+            "d": "Myanmar"
+        },
+        "3": {
+            "a": "Khasis",
+            "b": "Garo",
+            "c": "Jaintias",
+            "d": "Karbi"
+        },
+        "4": {
+            "a": "England",
+            "b": "USA",
+            "c": "Norway",
+            "d": "Scotland"
+        },
+        "5": {
+            "a": "2",
+            "b": "3",
+            "c": "4",
+            "d": "5"
+        },
+        "6": {
+            "a": "8",
+            "b": "10",
+            "c": "11",
+            "d": "13"
+        },
+        "7": {
+            "a": "West Khasi Hills",
+            "b": "East Garo Hills",
+            "c": "East Khasi Hills",
+            "d": "Jaintia Hills"
+        },
+        "8": {
+            "a": "Darwin Diengdoh Pugh",
+            "b": "Williamson A. Sangma",
+            "c": "B. B. Lyngdoh",
+            "d": "P. A. Sangma"
+        },
+        "9": {
+            "a": "1972",
+            "b": "1975",
+            "c": "1977",
+            "d": "1979"
+        },
+        "10": {
+            "a": "Tura Peak",
+            "b": "Nokrek Peak",
+            "c": "Shillong Peak",
+            "d": "None of the above"
+        },
+	    "11": {
+            "a": "B . k .Nehru",
+            "b": "L . P. Singh",
+            "c": "P. Melhotra",
+            "d": "M. M. Jacob"
+        },
+	    "12": {
+            "a": "1872",
+            "b": "1873",
+            "c": "1874",
+            "d": "1875"
+        },
+	    "13": {
+            "a": "English Khasi",
+            "b": "Hindi",
+            "c": "Urdu",
+            "d": "None of these"
+        },
+	    "14": {
+            "a": "62.56",
+            "b": "65.26",
+            "c": "78350",
+            "d": "None of these"
+        },
+	    "15": {
+            "a": "24th",
+            "b": "4th",
+            "c": "14th",
+            "d": "None of these"
+        },
+	    "16": {
+            "a": "Hollong",
+            "b": "Sacred fig",
+            "c": "White teak",
+            "d": "Iron wood"
+        },
+	    "17": {
+            "a": "Lady’s Slipper Orchid",
+            "b": "Kopou phul",
+            "c": "Lady’s slipper",
+            "d": "Red Vanda"
+        },
+	    "18": {
+            "a": "15",
+            "b": "12",
+            "c": "9",
+            "d": "7"
+        },
+	    "19": {
+            "a": "Mahanadi",
+            "b": "Brahmani",
+            "c": "Baitarani",
+            "d": "Kopili"
+        },
+	    "20": {
+            "a": "Assam",
+            "b": "Arunachal Pradesh",
+            "c": "Nagaland",
+            "d": "None of these"
+        },
+	    "21": {
+            "a": "7660 sq. mi",
+            "b": "8560 sq. mi",
+            "c": "8660 sq. mi",
+            "d": "None of these"
+        },
+	    "22": {
+            "a": "Cherrapunji",
+            "b": "Shillong",
+            "c": "Jowai",
+            "d": "None of these"
+        },
+	    "23": {
+            "a": "21 January 1972",
+            "b": "23 January 1972",
+            "c": "21 March 1975",
+            "d": "21 Feb 1972"
+        },
+	    "24": {
+            "a": "7",
+            "b": "3",
+            "c": "9",
+            "d": "None of these"
+        },
+	    "25": {
+            "a": "House Sparrow",
+            "b": "Great Hornbill",
+            "c": "Hill Myna",
+            "d": "Blyth’s tragopan"
+        }
+    },
+    {
+        "1": "Shillong",
+        "2": "Bangladesh",
+        "3": "Khasis",
+        "4": "Scotland",
+        "5": "2",
+        "6": "11",
+        "7": "West Khasi Hills",
+        "8": "Williamson A. Sangma",
+        "9": "1972",
+        "10": "Shillong Peak",
+     	"11": "B. K. Nehru",
+        "12": "1874",
+        "13": "English Khasi",
+        "14": "62.56",
+        "15": "24th",
+        "16": ") White teak",
+        "17": "Lady’s Slipper",
+        "18": "7",
+        "19": "Kopili",
+        "20": "Assam",
+	    "21": "8660 sq. mi",
+        "22": "Cherrapunji",
+        "23": "21 January 1972",
+        "24": "3",
+        "25": "Hill Myna"
+    }
+]
+

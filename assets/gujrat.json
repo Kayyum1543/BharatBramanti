@@ -1,0 +1,209 @@
+[
+    {
+        "1": "In which year the capital of Gujarat shifted from Ahmedabad to Gandhinagar ?",
+        "2": "Which one is the longest river in Gujarat ?",
+        "3": "Gujarat is the largest producer of.......",
+        "4": "Which one is the largest District of Gujarat",
+        "5": "Which district have the largest forest area in Gujarat",
+        "6": "Total National Park and Wildlife Sanctuaries",
+        "7": "The Gir Forest National Park was established in the year",
+        "8": "Which one is an ancient Indus valley civilization city located in Gujarat",
+        "9": "Total number of districts in Gujarat",
+        "10": "Who had built the Sun Temple of Modhera",
+        "11": "Total number of Parliamentary constituency in Gujarat is",
+	    "12": "Who is the longest serving Chief Minister of Gujarat ?",
+	    "13": "Which one is the smallest district by area wise in Gujarat ?",
+	    "14": "Who was the last Hindu ruler of Gujarat ?",
+	    "15": "Who had established the Sultanate of Gujarat ?",
+	    "16": "Which one was the first capital of Gujarat Sultanate ?",
+	    "17": "Which Mughal Emperor was born at Gujarat ?",
+	    "18": "Which one is the first European power to arrive in Gujarat ?",
+	    "19": "Total number of members in the Gujarat Legislative Assembly is ",
+	    "20": "Which one is the largest national park in Gujarat ?",
+	    "21": "The oldest Museum in Gujarat, the Kutch Museums was established in the year",
+	    "22": "Surat is located on the bank of the river",
+	    "23": "Which among the following Harappan sites is not located in Gujarat ?",
+	    "24": "Which one is Gujarat's first Kerosene free district ",
+	    "25": "In which one of the following crops, Gujarat is the leading producer in India ?"
+    },
+    {
+        "1": {
+            "a": "1965",
+            "b": "1968",
+            "c": "1970",
+            "d": "1982"
+        },
+        "2": {
+            "a": "Sabarmati",
+            "b": "Mahi",
+            "c": "Narmada",
+            "d": "Tapi"
+        },
+        "3": {
+            "a": "Rice",
+            "b": "Milk",
+            "c": "Wheat",
+            "d": "Mango"
+        },
+        "4": {
+            "a": "Junagadh",
+            "b": "Jamnagar",
+            "c": "Kutch",
+            "d": "Bhavnagar"
+        },
+        "5": {
+            "a": "Dang",
+            "b": "Gir Somnath",
+            "c": "Tapi",
+            "d": "Amreli"
+        },
+        "6": {
+            "a": "5 National Park and 17 Sanctuaries",
+            "b": "4 National Park and 19 Sanctuaries",
+            "c": "4 National Park and 21 Sanctuaries",
+            "d": "3 National Park and 15 Sanctuaries"
+        },
+        "7": {
+            "a": "1962",
+            "b": "1965",
+            "c": "1968",
+            "d": "1970"
+        },
+        "8": {
+            "a": "Harappa",
+            "b": "Mehargarh",
+            "c": "Lothal",
+            "d": "Mohemjo-Daro"
+        },
+        "9": {
+            "a": "28",
+            "b": "33",
+            "c": "35",
+            "d": "39"
+        },
+        "10": {
+            "a": "Bhimdev I",
+            "b": "Karandev I",
+            "c": "Siddharaj Jaisinh",
+            "d": "Kumarapala"
+        },
+	    "11": {
+            "a": "22",
+            "b": "26",
+            "c": "28",
+            "d": "32"
+        },
+	    "12": {
+            "a": "Narendra Modi",
+            "b": "Jivraj Narayan Mehta",
+            "c": "Shankersinh Vaghela",
+            "d": "Chimanbhai Patel"
+        },
+	    "13": {
+            "a": "Dang",
+            "b": "Gandhinagar",
+            "c": "Porbandar",
+            "d": "Mahisagar"
+        },
+	    "14": {
+            "a": "Karandev",
+            "b": "Visaladeva",
+            "c": "Mularaja",
+            "d": "Tribhuvanapala"
+        },
+	    "15": {
+            "a": "Ahmad Shah I",
+            "b": "Muzaffar Shah I",
+            "c": "Bahadur Shah",
+            "d": "Mahmud Begada"
+        },
+	    "16": {
+            "a": "Ahmedabad",
+            "b": "Anhilwad Patan",
+            "c": "Muhammadabad",
+            "d": "None of the above"
+        },
+	    "17": {
+            "a": "Akbar",
+            "b": "Shah Jahan",
+            "c": "Aurangzeb",
+            "d": "Bahadur Shah I"
+        },
+	    "18": {
+            "a": "France",
+            "b": "English",
+            "c": "Dutch",
+            "d": "Portuguese"
+        },
+	    "19": {
+            "a": "156",
+            "b": "171",
+            "c": "180",
+            "d": "182"
+        },
+	    "20": {
+            "a": "Vansda National Park",
+            "b": "Marine National Park",
+            "c": "Blackbuck National Park",
+            "d": "Gir Forest National Park"
+        },
+	    "21": {
+            "a": "1877",
+            "b": "1891",
+            "c": "1897",
+            "d": "1899"
+        },
+	    "22": {
+            "a": "Narmada",
+            "b": "Sharavathi",
+            "c": "Mahi",
+            "d": "Tapti"
+        },
+	    "23": {
+            "a": "Surkotada",
+            "b": "Lothal",
+            "c": "Dholavira",
+            "d": "Banawali"
+        },
+	    "24": {
+            "a": "Gandhinagar",
+            "b": "Junagadh",
+            "c": "Surat",
+            "d": "Porbandar"
+        },
+	    "25": {
+            "a": "Bajra",
+            "b": "Barley",
+            "c": "Gram",
+            "d": "Jowar"
+        }
+    },
+    {
+        "1": "1970",
+        "2": "Narmada",
+        "3": "Milk",
+        "4": "Kutch",
+        "5": "Dang",
+        "6": "4 National Park and 21 Sanctuaries",
+        "7": "1965",
+        "8": "Lothal",
+        "9": "33",
+        "10": "Bhimdev I",
+     	"11": "26",
+        "12": "Narendra Modi",
+        "13": "Dang",
+        "14": "Karandev",
+        "15": "Muzaffar Shah I",
+        "16": "Anhilwad Patan",
+        "17": "Aurangzeb",
+        "18": "Portuguese",
+        "19": "182",
+        "20": "Gir Forest National Park",
+	    "21": "1877",
+        "22": "Tapti",
+        "23": "Banawali",
+        "24": "Gandhinagar",
+        "25": "Bajra"
+    }
+]
+

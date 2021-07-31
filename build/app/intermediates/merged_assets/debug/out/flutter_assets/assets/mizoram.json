@@ -1,0 +1,209 @@
+[
+    {
+        "1": "In which year Mizoram was formed as a separate state",
+        "2": "What is the literacy rate if Mizoram according to 2011 census ?",
+        "3": "Which one is the highest point in Mizoram ?",
+        "4": "Which one is the largest district by areawise in Mizoram ?",
+        "5": "Which one is the longest river in Mizoram ? ",
+        "6": "Who was the first Chief Minister of Mizoram ?",
+        "7": "Which one is the largest lake in Mizoram ?",
+        "8": "The Mizoram university was established in the year",
+        "9": "The Pukzing Cave is located in which district",
+        "10": "Total number of district in Mizoram",
+        "11": "Total number states that shares its border with Mizoram",
+	    "12": "In which year the Mizo Accord was signed",
+	    "13": "In which dance men holding bamboo close to the floor",
+	    "14": "Total number of assembly constituencies in Mizoram is",
+	    "15": "What is the density of population in Mizoram ?",
+	    "16": "In which year the Mizo Hills formally become the part of British India",
+	    "17": "Which one is the largest lake in Mizoram ?",
+	    "18": "Which one is the largest cave in Mizoram ?",
+	    "19": "Which highway connects Aizwal with Silchar",
+	    "20": "Total number of wildlife sanctuaries in Mizoram is",
+	    "21": "What does Mizoram means ?",
+	    "22": "What is the state animal of Mizoram ?",
+    	"23": "What is the capital of Mizoram ?",
+	    "24": "When did Mizoram become a Union Territory ?",
+	    "25": "How many countries does Mizoram shares its border?"
+    },
+    {
+        "1": {
+            "a": "1985",
+            "b": "1987",
+            "c": "1992",
+            "d": "1994"
+        },
+        "2": {
+            "a": "85.62%",
+            "b": "89.44%",
+            "c": "91.85%",
+            "d": "93.39%"
+        },
+        "3": {
+            "a": "Reiek",
+            "b": "Hmuifang",
+            "c": "Phawangpui",
+            "d": "None of the above"
+        },
+        "4": {
+            "a": "Lunglei",
+            "b": "Aizawal",
+            "c": "Saiha",
+            "d": "Mamit"
+        },
+        "5": {
+            "a": "Chimtuipui River",
+            "b": "Tuivawl",
+            "c": "Tutis",
+            "d": "Tlawng"
+        },
+        "6": {
+            "a": "Lal Thanhawla",
+            "b": "Laldenga",
+            "c": "T. Sailo",
+            "d": "Ch. Chhunga"
+        },
+        "7": {
+            "a": "Rih Dil",
+            "b": "Tam Dil",
+            "c": "Palak Dil",
+            "d": "None of the above"
+        },
+        "8": {
+            "a": "1998",
+            "b": "2001",
+            "c": "2003",
+            "d": "2005"
+        },
+        "9": {
+            "a": "Mamit",
+            "b": "Lawngtlai",
+            "c": "Aizawl",
+            "d": "Serchhip"
+        },
+        "10": {
+            "a": "5",
+            "b": "8",
+            "c": "10",
+            "d": "11"
+        },
+	    "11": {
+            "a": "3",
+            "b": "4",
+            "c": "5",
+            "d": "7"
+        },
+	    "12": {
+            "a": "1972",
+            "b": "1975",
+            "c": "1982",
+            "d": "1986"
+        },
+	    "13": {
+            "a": "Chheihlam",
+            "b": "Khuallam",
+            "c": "Chai",
+            "d": "Cheraw"
+        },
+	    "14": {
+            "a": "40",
+            "b": "45",
+            "c": "48",
+            "d": "54"
+        },
+	    "15": {
+            "a": "49 Per Sq. Km",
+            "b": "50 Per Sq. Km",
+            "c": "52 Per Sq. Km",
+            "d": "54 Per Sq. Km"
+        },
+	    "16": {
+            "a": "1892",
+            "b": "1895",
+            "c": "1899",
+            "d": "1902"
+        },
+	    "17": {
+            "a": "Palak Lake",
+            "b": "Tam Dil Lake",
+            "c": "Rih Dil Lake",
+            "d": "Serlui Lake"
+        },
+	    "18": {
+            "a": "Lamsial Puk",
+            "b": "Kungawrhi Puk",
+            "c": "Pukzing Cave",
+            "d": "Milu Puk"
+        },
+	    "19": {
+            "a": "Highway 504",
+            "b": "Highway 512",
+            "c": "Highway 532",
+            "d": "Highway 540"
+        },
+	    "20": {
+            "a": "6",
+            "b": "7",
+            "c": "8",
+            "d": "10"
+        },
+	    "21": {
+            "a": "Land of the Rising Sun",
+            "b": "Land of the free people",
+            "c": "Land of Mizos",
+            "d": "Land of the Christians"
+        },
+	    "22": {
+            "a": "Serow",
+            "b": "Sangai",
+            "c": "Germain’s Langur",
+            "d": "Clouded Leopard"
+        },
+	    "23": {
+            "a": "Lunglei",
+            "b": "Aizawl",
+            "c": "Lawngtlai",
+            "d": "Champhai"
+        },
+	    "24": {
+            "a": "21 January 1972",
+            "b": "21 January 1982",
+            "c": "21 January 1977",
+            "d": "21 January 1987"
+        },
+	    "25": {
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "4"
+        }
+    },
+    {
+        "1": "1987",
+        "2": "91.85%",
+        "3": "Phawangpui",
+        "4": "Lunglei",
+        "5": "Tlawng",
+        "6": "Ch.Chhunga",
+        "7": "Palak Dil",
+        "8": "2001",
+        "9": "Aizawl",
+        "10": "11",
+     	"11": "3",
+        "12": "1986",
+        "13": "Cheraw",
+        "14": "40",
+        "15": "52 Per Sq.Km",
+        "16": "1895",
+        "17": "Palak Lake",
+        "18": "Pukzing Cave",
+        "19": "Highway 540",
+        "20": "8",
+	    "21": "Land of Mizos",
+        "22": "Serow",
+        "23": "Aizawl",
+        "24": "21 January 1972",
+        "25": "2"
+    }
+]
+

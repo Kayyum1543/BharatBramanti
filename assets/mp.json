@@ -1,0 +1,209 @@
+[
+    {
+        "1": "Which one is the largest city by areawise in Madhya Pradesh ?",
+        "2": "The marble rock is situated near the city of",
+        "3": "Kumbha mela in Ujjain held on the bank of which river",
+        "4": "Which one is the largest national park in Madhya Pradesh",
+        "5": "Which one is the largest districts by population in Madhya Pradesh",
+        "6": "Who was the first Chief Minister of Madhya Pradesh",
+        "7": "The Chachai Falls is created by the river",
+        "8": "The Sanchi Stupa was build by the Emperor",
+        "9": "When Bhopal become the capital of Madhya Pradesh",
+        "10": "In which year the Bhopal gas tragedy occur",
+        "11": "Which gas caused the Bhopal gas tragedy incident",
+	    "12": "Raja Bhoj was belongs to which dynasty",
+	    "13": "Which one is the most populated city in Madhya Pradesh",
+	    "14": "By areawise Madhya Pradesh is the _______ largest state in India",
+	    "15": "In which year Kanha is declared as the Tiger Reserve",
+	    "16": "What is the name of state Bird Madhya Pradesh?",
+	    "17": "What is the name of state animal of Madhya Pradesh?",
+	    "18": "The famous ‘Kalidas samman’ from Madhya Pradesh Government is given in which of the following fields?",
+	    "19": "Kumbh mela in Allahabad held on the bank of river sangam. On which river bank Ujjain kumbh mela held?",
+	    "20": "What is the name of thermal power plant situated in Khandwa district? [Theremal Power Plants in India]",
+	    "21": "‘Madikheda Dam’ of Madhya Pradesh is build on which river?",
+	    "22": "Kanha national park is in which state? [National Parks in India]",
+	    "23": "Which folk song is mainly sung in malwa region of Madhya Pradesh?",
+	    "24": "Which hills of Madhya Pradesh is known as ‘Queen of Satpuras’?",
+	    "25": "Largest city of M.P.?"
+    },
+    {
+        "1": {
+            "a": "Indore",
+            "b": "Bhopal",
+            "c": "Jabalpur",
+            "d": "Gwalior"
+        },
+        "2": {
+            "a": "Khajuraho",
+            "b": "Jabalpur",
+            "c": "Dewas",
+            "d": "Gwalior"
+        },
+        "3": {
+            "a": "Narmada",
+            "b": "Betwa",
+            "c": "Chambal",
+            "d": "Kshipra"
+        },
+        "4": {
+            "a": "Madhav National Park",
+            "b": "Satpura National Park",
+            "c": "Bandhavgarh National Park",
+            "d": "Kanha National Park"
+        },
+        "5": {
+            "a": "Jabalpure",
+            "b": "Bhopal",
+            "c": "Indore",
+            "d": "Dhar"
+        },
+        "6": {
+            "a": "Ravishankar Shukla",
+            "b": "Kailash Nath Katju",
+            "c": "Dwarka Prasad Mishra",
+            "d": "Bhagwantrao Mandloi"
+        },
+        "7": {
+            "a": "Narmada river",
+            "b": "Bihad river",
+            "c": "Son",
+            "d": "Mahanadi"
+        },
+        "8": {
+            "a": "Chandragupta Maurya",
+            "b": "Ashoka",
+            "c": "Samudragupta",
+            "d": "Chandragupta II"
+        },
+        "9": {
+            "a": "1947",
+            "b": "1952",
+            "c": "1956",
+            "d": "1962"
+        },
+        "10": {
+            "a": "1973",
+            "b": "1978",
+            "c": "1984",
+            "d": "1984"
+        },
+	    "11": {
+            "a": "Isoamyl acetate",
+            "b": "Propionic acid",
+            "c": "Methyl trichloride",
+            "d": "Methyl isocyanate"
+        },
+	    "12": {
+            "a": "Rashtrakuta Dynasty",
+            "b": "Paramara Dynasty",
+            "c": "Satavahana Dynasty",
+            "d": "Maurya Dynasty"
+        },
+	    "13": {
+            "a": "Bhopal",
+            "b": "Rewa",
+            "c": "Indore",
+            "d": "Jabalpur"
+        },
+	    "14": {
+            "a": "1st",
+            "b": "2nd",
+            "c": "3rd",
+            "d": "5th"
+        },
+	    "15": {
+            "a": "1955",
+            "b": "1968",
+            "c": "1973",
+            "d": "1979"
+        },
+	    "16": {
+            "a": "Vulture",
+            "b": "Sparrow",
+            "c": "Flycatcher",
+            "d": "Pecock"
+        },
+	    "17": {
+            "a": "Lion",
+            "b": "Deer",
+            "c": "Barasingha",
+            "d": "Tiger"
+        },
+	    "18": {
+            "a": "Classical Music",
+            "b": "Classical Dance",
+            "c": "Theatre",
+            "d": "All of these"
+        },
+	    "19": {
+            "a": "Ganga",
+            "b": "Kshipra",
+            "c": "Yamuna",
+            "d": "Tapti"
+        },
+	    "20": {
+            "a": "Madikheda Thermal Power Plant",
+            "b": "Dada Dhuniwale Thermal Power Plant",
+            "c": "Shipra Thermal Power Plant",
+            "d": "Kalidasa Thermal Power Plant"
+        },
+	    "21": {
+            "a": "Sindh River",
+            "b": "Tawa River",
+            "c": "Betwa River",
+            "d": "Johilla River"
+        },
+	    "22": {
+            "a": "Uttar Pradesh",
+            "b": "Bihar",
+            "c": "Chhattisgarh",
+            "d": "Madhya Pradesh"
+        },
+	    "23": {
+            "a": "Kucchipudi",
+            "b": "Katakh",
+            "c": "Bharthari",
+            "d": "None of these"
+        },
+	    "24": {
+            "a": "Mandhata",
+            "b": "Panchmari",
+            "c": "Amarkantak",
+            "d": "Jaipur"
+        },
+	    "25": {
+            "a": "Indore",
+            "b": "Bhopal",
+            "c": "Gwalior",
+            "d": "Ujjain"
+        }
+    },
+    {
+        "1": "Indore",
+        "2": "Jabalpur",
+        "3": "Kshipra",
+        "4": "Kanha National Park",
+        "5": "Indore",
+        "6": "Ravishankar Shukla",
+        "7": "Bihad river",
+        "8": "Ashoka",
+        "9": "1956",
+        "10": "1984",
+     	"11": "Methyl isocyanate",
+        "12": "Paramara Dynasty",
+        "13": "Indore",
+        "14": "2nd",
+        "15": "1973",
+        "16": "Flycatcher",
+        "17": "Barasingha",
+        "18": "All of these",
+        "19": "Kshipra",
+        "20": "Dada Dhuniwale Thermal Power Plant",
+	    "21": "Sindh River",
+        "22": "Madhya Pradesh",
+        "23": "Bharthari",
+        "24": "Panchmari",
+        "25": "Indore"
+    }
+]
+

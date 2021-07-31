@@ -1,0 +1,209 @@
+[
+    {
+        "1": "Rajasthan is the largest state in India by",
+        "2": "Keoladeo National Park is famous for",
+        "3": "Total number of districts in Rajasthan is",
+        "4": "Who built the Hawa Mahal in Jaipur",
+        "5": "The Mehrangarh Fort is located at",
+        "6": "Who was the first Chief Minister of Rajasthan ?",
+        "7": "The world famous Pushkar Lake is located in",
+        "8": "Which one is the largest district in Rajasthan by area wise ?",
+        "9": "Total number of Parliamentary constituency in Rajasthan is",
+        "10": "Which industrial zone in Rajasthan is also knownas Japanese Zone?",
+        "11": "Rajasthan handicraft products are sold under the name of",
+	    "12": "The Rajasthan Atomic Power Station was established in the year",
+	    "13": "The Rajasthan Sports University is located in",
+	    "14": "Which of the following districts has the highest forest area in Rajasthan ?",
+	    "15": "Choupa is an ornament worn in",
+	    "16": "The Jahagir Mahal is located in",
+	    "17": "The plateau called Bhorat is suited in which district",
+	    "18": "Abhaneri tourist place is famous for",
+	    "19": "The famous Diggi tank is at",
+	    "20": "The Chittorgarh fort is constructed by",
+	    "21": "Which place is famous for ajrakh printing i Rajasthan ?",
+	    "22": "Desert festival is held at",
+	    "23": "The biggest salt lake of Rajasthan is",
+	    "24": "In which year Ajmer was merged into Rajasthan",
+	    "25": "Which river in Rajasthan is also known as Dead River ?"
+    },
+    {
+        "1": {
+            "a": "Areawise",
+            "b": "Population",
+            "c": "Population Density",
+            "d": "Literacy"
+        },
+        "2": {
+            "a": "Lion",
+            "b": "Bird Species",
+            "c": "Tiger",
+            "d": "Deer"
+        },
+        "3": {
+            "a": "22",
+            "b": "27",
+            "c": "31",
+            "d": "33"
+        },
+        "4": {
+            "a": "Maharana Pratap",
+            "b": "Uday Singh",
+            "c": "Madho Singh",
+            "d": "Sawai Pratap Singh"
+        },
+        "5": {
+            "a": "Jaipur",
+            "b": "Udaipur",
+            "c": "Jodhpur",
+            "d": "Ajmer"
+        },
+        "6": {
+            "a": "Jai Narayan Vyas",
+            "b": "Tika Ram Paliwal",
+            "c": "C.S.Venkatachari",
+            "d": "Heera Lal Shastri"
+        },
+        "7": {
+            "a": "Jaipur District",
+            "b": "Jodhpur District",
+            "c": "Ajmer District",
+            "d": "Kota District"
+        },
+        "8": {
+            "a": "Ajmer District",
+            "b": "Bikaner District",
+            "c": "Hanumangarh District",
+            "d": "Jaisalmer District"
+        },
+        "9": {
+            "a": "18",
+            "b": "21",
+            "c": "24",
+            "d": "25"
+        },
+        "10": {
+            "a": "Neemrana",
+            "b": "Sitapura",
+            "c": "Boranada",
+            "d": "Jaipur"
+        },
+	    "11": {
+            "a": "Rajasthali",
+            "b": "Maharaja",
+            "c": "Rajdarpan",
+            "d": "Rajdarbar"
+        },
+	    "12": {
+            "a": "1970",
+            "b": "1973",
+            "c": "1975",
+            "d": "1978"
+        },
+	    "13": {
+            "a": "Udaypur",
+            "b": "Jhunjhunu",
+            "c": "Sri Ganganagar",
+            "d": "Jaipur"
+        },
+	    "14": {
+            "a": "Udaipur",
+            "b": "Baran",
+            "c": "Banswara",
+            "d": "Sirohi"
+        },
+	    "15": {
+            "a": "Hand",
+            "b": "Leg",
+            "c": "Ear",
+            "d": "Nose"
+        },
+	    "16": {
+            "a": "Kishangarh",
+            "b": "Deeg",
+            "c": "Ajmer",
+            "d": "Puskar"
+        },
+	    "17": {
+            "a": "Alwar",
+            "b": "Baran",
+            "c": "Jalore",
+            "d": "Uddaipur"
+        },
+	    "18": {
+            "a": "Medieval fort",
+            "b": "8th centuary temple",
+            "c": "Hill track",
+            "d": "Painting"
+        },
+	    "19": {
+            "a": "Jaisalmer",
+            "b": "Tonk",
+            "c": "Todarai Singh",
+            "d": "Ajmer"
+        },
+	    "20": {
+            "a": "Chitrang Morya",
+            "b": "Bappa Rawal",
+            "c": "Kumbha",
+            "d": "Ratan Singh"
+        },
+	    "21": {
+            "a": "Jhunjhunu",
+            "b": "Barmer",
+            "c": "Churu",
+            "d": "Sirohi"
+        },
+	    "22": {
+            "a": "Jodhpur",
+            "b": "Bikaner",
+            "c": "Jaisalmer",
+            "d": "Barmer"
+        },
+	    "23": {
+            "a": "Deedwana Lake",
+            "b": "Pach Bhadra Lake",
+            "c": "Sambhar Lake",
+            "d": "Lunkaransur Lake"
+        },
+	    "24": {
+            "a": "1947",
+            "b": "1950",
+            "c": "1956",
+            "d": "1960"
+        },
+	    "25": {
+            "a": "Luni",
+            "b": "Mahi",
+            "c": "Sukri",
+            "d": "Ghaggar"
+        }
+    },
+    {
+        "1": "Areawise",
+        "2": "Bird Species",
+        "3": "33",
+        "4": "Sawai Pratap Singh",
+        "5": "Jodhpur",
+        "6": "Heera Lal Shastri",
+        "7": "Ajmer District",
+        "8": "Jaisalmer District",
+        "9": "25",
+        "10": "Neemrana",
+     	"11": "Rajasthali",
+        "12": "1973",
+        "13": "Jhunjhunu",
+        "14": "Udaipur",
+        "15": "Nose",
+        "16": "Puskar",
+        "17": "Udaipur",
+        "18": "8th centuary temple",
+        "19": "Ajmer",
+        "20": "Chitrang Morya",
+	    "21": "Barmar",
+        "22": "Jaisalmer",
+        "23": "Sambhar Lake",
+        "24": "1956",
+        "25": "Ghaggar"
+    }
+]
+

@@ -1,0 +1,209 @@
+[
+    {
+        "1": "In which year Haryana was formed as a separate state",
+        "2": "Which one is recognised as a state tree of Haryana",
+        "3": "Total number of districts in Haryana",
+        "4": "Which one is the largest district by area wise in Haryana",
+        "5": "Who was the first Chief Minister of Haryana",
+        "6": "In which year, Haryana becomes the first state to achieve 100% electrification in rural area",
+        "7": "The literacy rate of Haryana according to 2011 census",
+        "8": "Which one is the largest city by area wise in Haryana",
+        "9":  "In which year the National Games is schedule to be held in Haryana for the first time",
+        "10": "The Haryana Formation day is celebrated on",
+        "11": "The Indian National Lok Dal was founded by",
+	    "12": "The National Dairy Research Institute is located in",
+	    "13": "The Chaudhary Charan Singh Haryana Agricultural University was established in the year",
+	    "14": "In which year, Sultanpur Bird Sanctuary became a National Park",
+	    "15": "Total number of Wildlife Sanctuaries in Haryana",
+	    "16": "Haryana State Labour Policy came into existance in",
+	    "17": "Which one district is newly formed in the year 2016",
+	    "18": "Who is the longest-serving chief minister of Haryana",
+	    "19": "Total number of Wildlife Sanctuaries in Haryana is",
+	    "20": "Total number of State Legislative Assembly constituencies are in Haryana",
+	    "21": "How many State Legislative Assembly constituencies are reserved for the candidates belonging to the Scheduled caste",
+	    "22": "At which of the following place was the famous battle of Panipat fought?'",
+	    "23": "In 1526 the famous battle between Babar and Ibrahim Lodi was fought at",
+	    "24": "When was the famous battle of Panipat fought?",
+	    "25": "The third battle of Panipat was fought between"
+    },
+    {
+        "1": {
+            "a": "1962",
+            "b": "1966",
+            "c": "1969",
+            "d": "1972"
+        },
+        "2": {
+            "a": "Sal",
+            "b": "Neem",
+            "c": "Peepal",
+            "d": "Deodar"
+        },
+        "3": {
+            "a": "16",
+            "b": "18",
+            "c": "20",
+            "d": "22"
+        },
+        "4": {
+            "a": "Bhiwani",
+            "b": "Sirsa",
+            "c": "Hisar",
+            "d": "Jind"
+        },
+        "5": {
+            "a": "Bhagwat Dayal Sharma",
+            "b": "Bansi Lal",
+            "c": "Banarsi Das Gupta",
+            "d": "Bhajan Lal"
+        },
+        "6": {
+            "a": "1965",
+            "b": "1970",
+            "c": "1978",
+            "d": "1989"
+        },
+        "7": {
+            "a": " 72.5%",
+            "b": "76.6%",
+            "c": "78.3%",
+            "d": "80.7%"
+        },
+        "8": {
+            "a": "Gurgaon",
+            "b": "Rohtak",
+            "c": "Chandigarh",
+            "d": "Faridabad"
+        },
+        "9": {
+            "a": "2016",
+            "b": "2018",
+            "c": "2020",
+            "d": "2022"
+        },
+        "10": {
+            "a": "3rd August",
+            "b": "15th September",
+            "c": "1st November",
+            "d": "8th December"
+        },
+	    "11": {
+            "a": "Choudhary Devi Lal",
+            "b": "Om Prakash Chautala",
+            "c": "Bansi Lal",
+            "d": "Bhajan Lal"
+        },
+	    "12": {
+            "a": "Ambala",
+            "b": "Karnal",
+            "c": "Panipat",
+            "d": " Hisar"
+        },
+	    "13": {
+            "a": "1968",
+            "b": "1970",
+            "c": "1976",
+            "d": "1982"
+        },
+	    "14": {
+            "a": "1972",
+            "b": "1971",
+            "c": "1987",
+            "d": "1991"
+        },
+	    "15": {
+            "a": "6",
+            "b": "8",
+            "c": "9",
+            "d": "10"
+        },
+	    "16": {
+            "a": "2004",
+            "b": "2005",
+            "c": "2006",
+            "d": "2007"
+        },
+	    "17": {
+            "a": "Palwal",
+            "b": "Nuh",
+            "c": "Fatehabad",
+            "d": "Charkhi Dadri"
+        },
+	    "18": {
+            "a": "Bansi Lal",
+            "b": "Bhajan Lal",
+            "c": "Chaudhary Devi Lal",
+            "d": "Om Prakash Chautala"
+        },
+	    "19": {
+            "a": "7",
+            "b": "8",
+            "c": "9",
+            "d": "10"
+        },
+	    "20": {
+            "a": "85",
+            "b": "87",
+            "c": "90",
+            "d": "92"
+        },
+	    "21": {
+            "a": "17",
+            "b": "18",
+            "c": "19",
+            "d": "20"
+        },
+	    "22": {
+            "a": "Kurukshetra",
+            "b": "Sirsa",
+            "c": "Panipat",
+            "d": "Jind"
+        },
+	    "23": {
+            "a": "Kurukshetra",
+            "b": "Rewari ",
+            "c": "Panipat",
+            "d": "Patiali"
+        },
+	    "24": {
+            "a": "1539",
+            "b": "1556",
+            "c": "1565",
+            "d": "1576"
+        },
+	    "25": {
+            "a": "Ahmad Shah Abdali and Maratha rulers ",
+            "b": "Nadir Shah and Mohd. Shah ",
+            "c": "Prithvi Raj",
+            "d": "Sher Khan and Humayum"
+        }
+    },
+    {
+        "1": "1966",
+        "2": "Peepal",
+        "3": "22",
+        "4": "Bhiwani",
+        "5": "Bhagwat Dayal Sharma",
+        "6": "1970",
+        "7": "76.6%",
+        "8": "Faridabad",
+        "9": "2022",
+        "10": "1st November",
+     	"11": "Choudhary Devi Lal",
+        "12": "Karnal",
+        "13": "1970",
+        "14": "1991",
+        "15": "8",
+        "16": "2006",
+        "17": "Charkhi Dadri",
+        "18": "Bansi Lal",
+        "19": "8",
+        "20": "90",
+	    "21": "17",
+        "22": "Kurukshetra",
+        "23": "Panipat",
+        "24": "1556",
+        "25": "Ahmad Shah Abdali and Maratha rulers"
+    }
+]
+

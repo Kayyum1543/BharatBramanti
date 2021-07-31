@@ -1,0 +1,209 @@
+[
+    {
+        "1": "Who was the first Chief Minister of Odisha",
+        "2": "In Ancient times, Odisha was known by the name of",
+        "3": "The famous war of Kalinga was fought in the year",
+        "4": "The Jagannath Puri Temple was built in the year ",
+        "5": "The Konark Sun Temple was included in the World Heritage Site status in the year",
+        "6": "Which poet is known as the Kabi Samrata.",
+        "7":  "Who wrote the book Gita Govinda.",
+        "8": "In which year Huen tsang visits Odisha",
+        "9":  "Which one was the capital of Odisha before Bhubneswar",
+        "10": "The Lingaraj Temple at Bhubaneswar was constructed by the",
+        "11": "Which ruler started the construction of Konark Sun Temple.",
+	    "12": "Total number of Districts in Odisha",
+	    "13": "Which one is the largest district of Odisha by area",
+	    "14": "In which year the first Oriya Magazine JNANARUNA was published",
+	    "15": "On which river, the Hirakud Dam is built",
+	    "16": "Who was the creator of the dhumpa sangita.",
+	    "17": "Who was the first person to received Jnanpith Award for Oriya language.",
+	    "18": "Which one is the first daily newspaper of Odisha",
+	    "19": "The first Oriya Magazine 'Bodha Dayini' was published from",
+	    "20": "When the capital of odisha was shifted from Cuttack to Bhubaneswar",
+	    "21": "The first Oriya movie Sita Bibaha was released in the year",
+	    "22": "Who was the Editor of Utkal Dipika published in 1866",
+	    "23": "King Kharavela belonged to which royal dynasty",
+	    "24": "When was Sambalpur united with Odisha",
+	    "25": "Who was the last independent ruler of the medieval Kingdom of Odisha"
+    },
+    {
+        "1": {
+            "a": "Biju Patnaik",
+            "b": "Nabakrushna Choudhury",
+            "c": "Harekrushna Mahatab",
+            "d": "Biswanath Das"
+        },
+        "2": {
+            "a": "Konkan",
+            "b": "Kalinga",
+            "c": "Kurukshetra",
+            "d": "None of the above"
+        },
+        "3": {
+            "a": "261 BC",
+            "b": "265 BC",
+            "c": "270 BC",
+            "d": "296 BC"
+        },
+        "4": {
+            "a": "1001",
+            "b": "1109",
+            "c": "1150",
+            "d": "1161"
+        },
+        "5": {
+            "a": "1970",
+            "b": "1984",
+            "c": "1986",
+            "d": "1990"
+        },
+        "6": {
+            "a": "Radhanath Ray",
+            "b": "Baladev Ratha",
+            "c": "Upendra Bhanja",
+            "d": "Gopabandhu Dash"
+        },
+        "7": {
+            "a": "Narottama Dasa",
+            "b": "Jayadeva",
+            "c": "Vidyapati",
+            "d": "Gopabandhu Dash"
+        },
+        "8": {
+            "a": "605 AD",
+            "b": "630 AD",
+            "c": "645 AD",
+            "d": "657 AD"
+        },
+        "9": {
+            "a": "Cuttack",
+            "b": "Puri",
+            "c": "Rourkela",
+            "d": "Berhampur"
+        },
+        "10": {
+            "a": "Satavahana Dynasty",
+            "b": "Ganga Dynasty",
+            "c": "Soma Dynasty",
+            "d": "Naga Dynasty"
+        },
+	    "11": {
+            "a": "Bhanu Deva I",
+            "b": "Rajaraja II",
+            "c": "Indravarman",
+            "d": "Narasimhadeva I"
+        },
+	    "12": {
+            "a": "25",
+            "b": "27",
+            "c": "30",
+            "d": "32"
+        },
+	    "13": {
+            "a": "Mayurbhanj",
+            "b": "Malkangiri",
+            "c": "Nayagarh",
+            "d": "Cuttack"
+        },
+	    "14": {
+            "a": "1822",
+            "b": "1836",
+            "c": "1842",
+            "d": "1849"
+        },
+	    "15": {
+            "a": "Baitarani River",
+            "b": "Gandaki River",
+            "c": "Mahanadi River",
+            "d": "Budhabalanga River"
+        },
+	    "16": {
+            "a": "Baladev Rath",
+            "b": "Gangadhar Meher",
+            "c": "Mohan Senapati",
+            "d": "Madhusudan Rao"
+        },
+	    "17": {
+            "a": "Fakir Mohan Senapati",
+            "b": "Sachidananda Routray",
+            "c": "Pratibha Ray",
+            "d": "Gopinath Mohanty"
+        },
+	    "18": {
+            "a": "Bodha Dayini",
+            "b": "Utkal Deepika",
+            "c": "Dainika Asha",
+            "d": "Kujibar Patra"
+        },
+	    "19": {
+            "a": "Bhubaneswar",
+            "b": "Cuttack",
+            "c": "Balasore",
+            "d": "Puri"
+        },
+	    "20": {
+            "a": "1947",
+            "b": "1948",
+            "c": "1950",
+            "d": "1958"
+        },
+	    "21": {
+            "a": "1928",
+            "b": "1932",
+            "c": "1933",
+            "d": "1936"
+        },
+	    "22": {
+            "a": "Fakir Mohan Senapati",
+            "b": "Baikunth Nath De",
+            "c": "Gouri Shankar Roy",
+            "d": "Nilamani Vidyaratna"
+        },
+	    "23": {
+            "a": "Nanda",
+            "b": "Maurya",
+            "c": "Chedi",
+            "d": "Satavahana"
+        },
+	    "24": {
+            "a": "1901",
+            "b": "1909",
+            "c": "1912",
+            "d": "1936"
+        },
+	    "25": {
+            "a": "Mukundadeva",
+            "b": "Govinda Vidyadhar",
+            "c": "Prataprudradeva",
+            "d": "Kapilendradeva"
+        }
+    },
+    {
+        "1": "Harekrushna Mahatab",
+        "2": "Kalinga",
+        "3": "261 BC",
+        "4": "1161",
+        "5": "1984",
+        "6": "Upendra Bhanja",
+        "7": "Jayadeva",
+        "8": "630 AD",
+        "9": "Cuttack",
+        "10": "Soma Dynasty",
+     	"11": "Narasimhadeva I",
+        "12": "30",
+        "13": "Mayurbhanj",
+        "14": "1849",
+        "15": "Mahanadi River",
+        "16": "Baladev Rath",
+        "17": "Gopinath Mohanty",
+        "18": "Dainika Asha",
+        "19": "Balasore",
+        "20": "1948",
+	    "21": "1936",
+        "22": "Gouri Shankar Roy",
+        "23": "Chedi",
+        "24": "1936",
+        "25": "Mukundadeva"
+    }
+]
+

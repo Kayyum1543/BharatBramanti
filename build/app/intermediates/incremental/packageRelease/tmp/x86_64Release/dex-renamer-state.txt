@@ -1,0 +1,4 @@
+#Thu Jun 24 21:44:08 IST 2021
+base.0=F\:\\bharat\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

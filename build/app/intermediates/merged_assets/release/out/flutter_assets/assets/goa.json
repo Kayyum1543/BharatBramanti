@@ -1,0 +1,214 @@
+[
+    {
+        "1": "The Capital City of Goa?",
+        "2": "Official Language of Goa?",
+        "3": "Which of the following is the primary Industry in Goa?",
+        "4": "UNESCO World Heritage Site Basilica of Bom Jesus was built in which century?",
+        "5": "Mahalsa Narayani temple located in which village of Goa?",
+        "6": "The largest city in Goa?",
+        "7": "Goa formation date?",
+        "8": "State Animal of Goa?",
+        "9": "Which one is the longest beach in Goa",
+        "10": "Which one is the highest peak in Goa?",
+        "11": "who was the last ruler of Goa?",
+	    "12": "Which is the Goa state Tree?",
+        "13": "Which is the Goa state Bird?",
+	    "14": "In which year, the Portuguese moved the capital from Old Goa to Panjim",
+	    "15": "Which one is the largest Church in Goa",
+	    "16": "The first konkani film Mogacho Anvddo was released in the year" ,
+        "17": "The National Centre for Antarctic and Ocean Research is located in",
+        "18": "The Goa University was established in the year",
+	    "19": "The Goa Liberation Day is celebrated on " ,
+	    "20": "What was the name of the Indian Army Operation conducted to release Goa from Portuguese rule",
+	    "21": "In which year, the Portuguese defeated the Bijapur sultan Yousuf Adil Shah",
+	    "22": "What kind of fruit types are Alphonso, Fernandina, and Malcorado?",
+	    "23": "Which state is to the north of Goa?",
+	    "24": "What is the most popular sport in Goa?",
+	    "25": "Which sea is to the west of Goa?"
+    },
+    {
+        "1": {
+            "a": "Margao",
+            "b": "Panaji",
+            "c": "Bicholim",
+            "d": "None of these"
+        },
+        "2": {
+            "a": "Marathi",
+            "b": "Hindi",
+            "c": "Konkani",
+            "d": "English"
+        },
+        "3": {
+            "a": "Pharma",
+            "b": "Liquor",
+            "c": "Tourism",
+            "d": "Textiles"
+        },
+        "4": {
+            "a": "19th Century",
+            "b": "17th Century",
+            "c": "18th Century",
+            "d": "16th Century"
+        },
+        "5": {
+            "a": "Mashel",
+            "b": "Mardol",
+            "c": "Verna",
+            "d": "Dabolim"
+        },
+        "6": {
+            "a": "Vasco Da Gama",
+            "b": "Margao",
+            "c": "Bogmalo",
+            "d": "Panaji"
+        },
+        "7": {
+            "a": "25, July 1988",
+            "b": "30,May 1987",
+            "c": "01, November 1990",
+            "d": "04, April 1993"
+        },
+        "8": {
+            "a": "Chital",
+            "b": "Gaur",
+            "c": "Oxen",
+            "d": "Gayal"
+        },
+        "9": {
+            "a": "Anjuna Beach",
+            "b": "Colava Beach",
+            "c": "Vagator Beach",
+            "d": "Palolem Beach"
+        },
+        "10": {
+            "a": "Sonsogor",
+            "b": "Braganza Ghats",
+            "c": "Vagheri Peak",
+            "d": "None of the above"
+        },
+	    "11": {
+            "a": "French",
+            "b": "Dutch",
+            "c": "Portuguese",
+            "d": "Britishers"
+        },
+	    "12": {
+            "a": "Chinar Platanus orientalis",
+            "b": "Sacred fig Ficus religiosa",
+            "c": "Asna Terminalia elliptic",
+            "d": "None of the above"
+        },
+	    "13": {
+            "a": "House sparrow Passer domesticus",
+            "b": "Bastar hill myna Gracula religiosa peninsulari",
+            "c": "Yellow-throated bulbul Pycnonotus xantholaemus",
+            "d": "None of these"
+        },
+	    "14": {
+            "a": "1834",
+            "b": "1840",
+            "c": "1843",
+            "d": "1856"
+        },
+	    "15": {
+            "a": "Church of St Cajetan",
+            "b": "Se Cathedral",
+            "c": "Church of St Francis of Assisi",
+            "d": "Immaculate Conception Church"
+        },
+	    "16": {
+            "a": "1933",
+            "b": "1942",
+            "c": "1945",
+            "d": "1950"
+        },
+	    "17": {
+            "a": "Vasco da Gama",
+            "b": "Dona Paula",
+            "c": "Margao",
+            "d": "Panaji"
+        },
+	    "18": {
+            "a": "1972",
+            "b": "1977",
+            "c": "1985",
+            "d": "1989"
+        },
+	    "19": {
+            "a": "2nd January",
+            "b": "25th August",
+            "c": "15th October",
+            "d": "19th December"
+        },
+	    "20": {
+            "a": "Operation Polo",
+            "b": "Operation Vijay",
+            "c": "Operation Goa",
+            "d": "Operation Thunder"
+        },
+	    "21": {
+            "a": "1502",
+            "b": "1510",
+            "c": "1517",
+            "d": "1525"
+        },
+	    "22": {
+            "a": "Papaya",
+            "b": "Apple",
+            "c": "Coconut",
+            "d": "Mango"
+        },
+	    "23": {
+            "a": "Kerala",
+            "b": "Tamil Nadu",
+            "c": "Maharashtra",
+            "d": "Andra Pradesh"
+        },
+	    "24": {
+            "a": "field hockey",
+            "b": "golf",
+            "c": "cricket",
+            "d": "football"
+        },
+	    "25": {
+            "a": "Caspian",
+            "b": "Dead",
+            "c": "Black",
+            "d": "Arabian"
+        }
+    },
+    {
+        "1": "Panaji",
+        "2": "Konkani",
+        "3": "Tourism",
+        "4": "16th Century",
+        "5": "Mardol",
+        "6": "Vasco Da Gama",
+        "7": "30,May 1987",
+        "8": "Gaur",
+        "9": "Colava Beach",
+        "10": "Sonsogor",
+     	"11": "Portuguese",
+        "12": "Asna Terminalia elliptic",
+        "13": "Yellow-throated bulbul Pycnonotus xantholaemus",
+        "14": "1843",
+        "15": "Se Cathedral",
+        "16": "1950",
+        "17": "Vasco da Gama",
+        "18": "1985",
+        "19": "19th December",
+        "20": "Operation Vijay",
+	    "21": "1510",
+        "22": "Mango",
+        "23": "Maharashtra",
+        "24": "football",
+        "25": "Arabian"
+    }
+]
+
+
+
+
+
+

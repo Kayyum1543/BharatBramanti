@@ -1,0 +1,209 @@
+[
+    {
+        "1": "The master plan of Chandigarh was prepared by",
+        "2": "In which year, Chandigarh was declared as Union Territory",
+        "3": "Which one is the official language of Chandigarh",
+        "4": "In which year Chandigarh declared as the first smoke-free city ",
+        "5": "This city of contrast, Chandigarh was ideated by ……",
+        "6": "The official language of Chandigarh is….",
+        "7": "Chandigarh mango festival celebrated in.",
+        "8": "When was Chandigarh established?",
+        "9":  "Teej festival is the festival of monsoons, celebrated in….",
+        "10": "Chandigarh is the city and union territory in India that ",
+        "11": "Festival of the garden are celebrated in the month of ",
+	    "12": "Baisakhi festival is celebrated in the month of",
+	    "13": "Chandigarh is located near the foothills of the …..range of the Himalayas in northwest India.",
+	    "14": "In which year Chandigarh declared as the first smoke-free city of India?",
+	    "15": "Area rank of the Chandigarh state",
+	    "16": "………. Is the botanical garden located in Chandigarh created in 1967.",
+	    "17": "…………in Chandigarh is an artificial lake at the foothills of the Himalayas.",
+	    "18": "…………….,former Indian Cricketer was born in Chandigarh.",
+	    "19": "The population density of Chandigarh…..",
+	    "20": "Which is the national animal of Chnadigarh?",
+	    "21": "Which is the national bird of Chnadigarh?",
+	    "22": "Which is the national flower of Chandigarh?'",
+	    "23": "How many seats are there in Lok Sabha in Chnadigarh?",
+	    "24": "What is the literacy rate of Chnadigarh?",
+	    "25": "The nickname for the Chandigarh is………"
+    },
+    {
+        "1": {
+            "a": "Albert Mayer",
+            "b": "Le Corbusier",
+            "c": "Maciej Nowicki",
+            "d": "Maxwell Fry"
+        },
+        "2": {
+            "a": "1961",
+            "b": "1964",
+            "c": "1966",
+            "d": "1970"
+        },
+        "3": {
+            "a": "English",
+            "b": "Hindi",
+            "c": "Punjabi",
+            "d": "Haryanvi"
+        },
+        "4": {
+            "a": "2005",
+            "b": "2007",
+            "c": "2009",
+            "d": "2010"
+        },
+        "5": {
+            "a": "Mahatma Gandhi",
+            "b": "Lal Bahadur Shastri",
+            "c": "Indira Gandhi",
+            "d": "Pt. Jawaharlal Nehru"
+        },
+        "6": {
+            "a": "English",
+            "b": "Bengali",
+            "c": "Hindi",
+            "d": "Punjabi"
+        },
+        "7": {
+            "a": "June",
+            "b": "August",
+            "c": "November",
+            "d": "December"
+        },
+        "8": {
+            "a": "1 Nov 1966",
+            "b": "3 Oct 1966",
+            "c": "5 Nov 1966",
+            "d": "5 Oct"
+        },
+        "9": {
+            "a": "April",
+            "b": "June",
+            "c": "August",
+            "d": "December"
+        },
+        "10": {
+            "a": "Haryana and Gujrat",
+            "b": "Haryana and Himachal Pradesh",
+            "c": "Haryana and Rajesthan",
+            "d": "Haryana and Punjab"
+        },
+	    "11": {
+            "a": "January",
+            "b": "April",
+            "c": "February",
+            "d": "July"
+        },
+	    "12": {
+            "a": "January",
+            "b": "March",
+            "c": "April",
+            "d": "June"
+        },
+	    "13": {
+            "a": "Himachal",
+            "b": "Shivalik",
+            "c": "Punjab",
+            "d": "Chandigarh"
+        },
+	    "14": {
+            "a": "2002",
+            "b": "2004",
+            "c": "2007",
+            "d": "2010"
+        },
+	    "15": {
+            "a": "33rd",
+            "b": "34th",
+            "c": "38th",
+            "d": "44th"
+        },
+	    "16": {
+            "a": "Indra Rose Garden",
+            "b": "Zakir Hussain Rose Garden",
+            "c": "Shivaji Rose Garden",
+            "d": "Mikha Singh Rose Garden"
+        },
+	    "17": {
+            "a": "Pichola Lake",
+            "b": "Sukhna Lake",
+            "c": "Salim Ali Lake",
+            "d": "Rangsagar Lake"
+        },
+	    "18": {
+            "a": "Jeev Milkha Singh",
+            "b": "Kapil Dev",
+            "c": "Kumar Shri Ranjitsinhji",
+            "d": "Anil Kumble"
+        },
+	    "19": {
+            "a": "9262/sq km",
+            "b": "8564/sq km",
+            "c": "9587/sq km",
+            "d": "5478/sq km"
+        },
+	    "20": {
+            "a": "Indian Grey Mongoose",
+            "b": "White Leopard",
+            "c": "Lion",
+            "d": " Ox"
+        },
+	    "21": {
+            "a": "Red Sparrow",
+            "b": "Indian Grey Hornbill",
+            "c": "Hornbill",
+            "d": "Indian Pigeon"
+        },
+	    "22": {
+            "a": "Indian Pigeon",
+            "b": "Lotus",
+            "c": "Butea Monosperma",
+            "d": "Palash"
+        },
+	    "23": {
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "4"
+        },
+	    "24": {
+            "a": "85.25%",
+            "b": "92.52%",
+            "c": "86.77%",
+            "d": "90.81%"
+        },
+	    "25": {
+            "a": "The city Beautiful",
+            "b": "Land of Beautiful",
+            "c": "Grand Cayon State",
+            "d": "Cotton State"
+        }
+    },
+    {
+        "1": "Le Corbusier",
+        "2": "1966",
+        "3":"English",
+        "4": "2007",
+        "5": "Indira Gandhi",
+        "6": "Hindi",
+        "7": "June",
+        "8": "1 Nov 1966",
+        "9": "August",
+        "10": "Haryana and Punjab",
+     	"11": "February",
+        "12": "April",
+        "13": "Shivalik",
+        "14": "2007",
+        "15": "34th",
+        "16": "Zakir Hussain Rose Garden",
+        "17": "Sukhana Lake",
+        "18": "Kapil Dev",
+        "19": "9262/ sq km",
+        "20": "Indian Grey Mongoose",
+	    "21": "Indian Grey Hornbill",
+        "22": "Butea Monosperma",
+        "23": "1",
+        "24": "86.77%",
+        "25": "Land of Beautiful"
+    }
+]
+

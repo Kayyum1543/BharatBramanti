@@ -1,0 +1,209 @@
+[
+    {
+        "1": "What is the nickname of Ladakh?",
+        "2": "Where is the high court of Ladakh?",
+        "3": "In which year Ladakh become a union territory?",
+        "4": "Ladakh is a region administered by which country?",
+        "5": "Where is the capital city of Ladakh?",
+        "6": "How many district are there in Ladhak?",
+        "7": "What is the most spoken language in Ladakh?",
+        "8": "What is the total area (in km)",
+        "9":  "What is the language official language of Ladakh?",
+        "10": "Which is the highest elevation in Ladakh?",
+        "11": "Which is the lowest elevation in Ladakh?",
+	    "12": "What is the total population (2011) in Ladakh?",
+	    "13": "What is the Demonym(s) of Ladakh?",
+	    "14": "What is the name of District in Ladakh?",
+	    "15": "What is the total area of Kargil District?",
+	    "16": "What is the name of the Monasteries located in Ladakh?",
+	    "17": "How many seasons are there in Ladakh?",
+	    "18": "In the following which one is the most important river in Ladakh?",
+	    "19": "Who is the current Parliament Member from Ladakh?",
+	    "20": "Jamyang Tsering /Namgyal come from which political party?",
+	    "21": "What is the total area (in sq. mi.) of Ladakh?",
+	    "22": "What is the total area of Leh District?'",
+	    "23": "Besides Hindi, English and Marathi, which one is the official language of Daman and Diu",
+	    "24": "Daman and Diu was established as a separate union territory in the year",
+	    "25": "The Diu fort was build by"
+    },
+    {
+        "1": {
+            "a": "Land of Mountain",
+            "b": "Land of Beautiful",
+            "c": "The Land of High Passes",
+            "d": "Land of God"
+        },
+        "2": {
+            "a": "Jammu and Kashmir",
+            "b": "Ladakh",
+            "c": "Himachal Pradesh",
+            "d": "None of above"
+        },
+        "3": {
+            "a": "1 November 2017",
+            "b": "31 October 2019",
+            "c": "5 August 2019",
+            "d": "8 September 2018"
+        },
+        "4": {
+            "a": "India",
+            "b": "Pakistan",
+            "c": "China",
+            "d": "Mayanmar"
+        },
+        "5": {
+            "a": "Jammu",
+            "b": "Kashmir",
+            "c": "Leh,Kargil",
+            "d": "None of these"
+        },
+        "6": {
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "4"
+        },
+        "7": {
+            "a": "Ladakhi and Purgi",
+            "b": "English",
+            "c": "Hindi",
+            "d": "Urdu"
+        },
+        "8": {
+            "a": "59,146",
+            "b": "49,146",
+            "c": "22,836",
+            "d": "28,836"
+        },
+        "9": {
+            "a": "Hindi and English",
+            "b": "Hindi and Ladakhi",
+            "c": "Ladakhi and Purgi",
+            "d": "Purgi and English"
+        },
+        "10": {
+            "a": "Stok Kangri",
+            "b": "Indus River",
+            "c": "Both a and b",
+            "d": "None of these"
+        },
+	    "11": {
+            "a": "Stok Kangri",
+            "b": "Indus River",
+            "c": "Both a and b",
+            "d": "None of these"
+        },
+	    "12": {
+            "a": "274,289",
+            "b": "174,289",
+            "c": "374,289",
+            "d": "474,289"
+        },
+	    "13": {
+            "a": "Ladakhi",
+            "b": "Purgi",
+            "c": "Pahadi",
+            "d": "Kashmiri"
+        },
+	    "14": {
+            "a": "Leh and Kargil",
+            "b": "Leh and Kashmir",
+            "c": "Jammu and Kargil",
+            "d": "None of these"
+        },
+	    "15": {
+            "a": "9036 km/2",
+            "b": "11036 km/2",
+            "c": "14036 km/2",
+            "d": "18036 km/2"
+        },
+	    "16": {
+            "a": "Hermis and Diskit",
+            "b": "Thiksey and Shey",
+            "c": "Lamayuru",
+            "d": "All of above"
+        },
+	    "17": {
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "4"
+        },
+	    "18": {
+            "a": "Suru River",
+            "b": "Indus River",
+            "c": "Nubra River",
+            "d": "None of these"
+        },
+	    "19": {
+            "a": "Jamyang Tsering / Namgyal",
+            "b": "Sonam Wangchuk",
+            "c": "Thupstan Chhewang",
+            "d": "Tejasvi Surva"
+        },
+	    "20": {
+            "a": "BJP",
+            "b": "INC",
+            "c": "PDP",
+            "d": "None of these"
+        },
+	    "21": {
+            "a": "12836 sq. mi",
+            "b": "16836 sq. km",
+            "c": "22836 sq. km",
+            "d": "28836 sq. km"
+        },
+	    "22": {
+            "a": "35110 km/2",
+            "b": "45110 km/2",
+            "c": "55110 km/2",
+            "d": "65110 km/2"
+        },
+	    "23": {
+            "a": "Gujarati",
+            "b": "Konkani",
+            "c": "Sanskrit",
+            "d": "Malayalam"
+        },
+	    "24": {
+            "a": "1982",
+            "b": "1987",
+            "c": "1990",
+            "d": "1994"
+        },
+	    "25": {
+            "a": "Sultan of Gujarat",
+            "b": "Mughal",
+            "c": "British",
+            "d": "Portuguese"
+        }
+    },
+    {
+        "1": "Land of Beautiful",
+        "2": "Jammu and Kashmir",
+        "3": "31 October 2019",
+        "4": "India",
+        "5": "Leh, Kargil",
+        "6": "2",
+        "7": "Ladakhi and Purgi",
+        "8": "22,836",
+        "9": "Hindi and English",
+        "10": "Stok Kangri",
+     	"11": "Indus River",
+        "12": "274,289",
+        "13": "Ladakhi",
+        "14": "Leh and Kargil",
+        "15": "14036 km/2",
+        "16": "All of above",
+        "17": "2",
+        "18": "Indus River",
+        "19": "Jamyang Tsering /Namgyal",
+        "20": "BJP",
+	    "21": "22836 sq.km",
+        "22": "45110 km/2",
+        "23": "Gujarati",
+        "24": "1987",
+        "25": "Portuguese"
+    }
+]
+

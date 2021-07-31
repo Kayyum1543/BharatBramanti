@@ -1,0 +1,209 @@
+[
+    {
+        "1": "Kerala is ......largest state by population.",
+        "2": "The dynasty of......was the first prominent kingdom based on Kerala.",
+        "3": "The highest populated district of Kerala is........",
+        "4": "The largest district in Kerala is .......",
+        "5": "The Lok Sabha and Rajya Sabha seats from Kerala are......and....... respectively.",
+        "6": "Which of the following National Park is not in Kerala ?",
+        "7": "Which of the following dance is not a major one in Kerala ?",
+        "8": "Who was the first Chief Minister of Kerala ?",
+        "9": "World's Only Teak Museums is in........",
+        "10": "Kerala became the first state in the country to have STD and ISD facilities in all its villages in......",
+        "11": "The Nehru Trophy Boat Race is a held in.......Lake.",
+	    "12": "In which year Kerala was formed as Indian State",
+	    "13": "Which one is recognised as the State animal of Kerala ?",
+	    "14": "Total number of districts in Kerala",
+	    "15": "Which one is the largest district by area wise in Kerala ?",
+	    "16": "Which one is the smallest district by area wise in Kerala ?",
+	    "17": "Which one is the highest populated district in Kerala ?",
+	    "18": "Which one is the longest river in Kerala ?",
+	    "19": "Which one is the largest lake in Kerala ?",
+	    "20": "In which year for the first time Vasco da Gama reached Kozhikkod in Kerala",
+	    "21": "Who is the first Chief Minister of Kerala ?",
+	    "22": "The first sculpture city in Kerala",
+	    "23": "The district where the National Institute Technology is situated",
+	    "24": "The first dictionary in Malayalam language was prepared by",
+	    "25": "The Octopus shaped lake in Kerala"
+    },
+    {
+        "1": {
+            "a": "Tenth",
+            "b": "Eleventh",
+            "c": "Thirteenth",
+            "d": "Seventeenth"
+        },
+        "2": {
+            "a": "Chola",
+            "b": "Pandya",
+            "c": "Mughal",
+            "d": "Chera"
+        },
+        "3": {
+            "a": "Malappuram",
+            "b": "Kozhikode",
+            "c": "Wayanadu",
+            "d": "Kannur"
+        },
+        "4": {
+            "a": "Palakkad",
+            "b": "Malappuram",
+            "c": "Wayanadu",
+            "d": "Alappuzha"
+        },
+        "5": {
+            "a": "20 and 10",
+            "b": "21 and 9",
+            "c": "24 and 13",
+            "d": "22 and 12"
+        },
+        "6": {
+            "a": "Silent Valley National Park",
+            "b": "Eravikulam National Park",
+            "c": "Pambadum Shola National Park",
+            "d": "Madhav National Park"
+        },
+        "7": {
+            "a": "Kathakali",
+            "b": "Mohiniattam",
+            "c": "Thullal",
+            "d": "Yakshagana"
+        },
+        "8": {
+            "a": "C Achutha Menon",
+            "b": "K Karunakaran",
+            "c": "Pattom A. Thanu Pillai",
+            "d": "EMS Namboodiripad"
+        },
+        "9": {
+            "a": "Manjeri",
+            "b": "Trivandrum",
+            "c": "Nilambur",
+            "d": "Kozhikode"
+        },
+        "10": {
+            "a": "1993",
+            "b": "1995",
+            "c": "1997",
+            "d": "1999"
+        },
+	    "11": {
+            "a": "Punnamada",
+            "b": "Vembanad",
+            "c": "Ashtamudi",
+            "d": "Kayamakulam"
+        },
+	    "12": {
+            "a": "1947",
+            "b": "1952",
+            "c": "1956",
+            "d": "1960"
+        },
+	    "13": {
+            "a": "Tiger",
+            "b": "Elephant",
+            "c": "Lion",
+            "d": "Cow"
+        },
+	    "14": {
+            "a": "11",
+            "b": "13",
+            "c": "14",
+            "d": "16"
+        },
+	    "15": {
+            "a": "Kollam",
+            "b": "Ernakulam",
+            "c": "Alappuzha",
+            "d": "Idukki"
+        },
+	    "16": {
+            "a": "Alappuzha",
+            "b": "Ernakulam",
+            "c": "Kozhikode",
+            "d": "Kottayam"
+        },
+	    "17": {
+            "a": "Malappuram",
+            "b": "Idukki",
+            "c": "Kozhikode",
+            "d": "Pathamamthitta"
+        },
+	    "18": {
+            "a": "Bhrathappuzha",
+            "b": "Neyyar",
+            "c": "Pamba River",
+            "d": "Periyar"
+        },
+	    "19": {
+            "a": "Sasthamcotta Lake",
+            "b": "Vembanadu Lake",
+            "c": "Pookode LAke",
+            "d": "Ashtamudi LAke"
+        },
+	    "20": {
+            "a": "1435",
+            "b": "1465",
+            "c": "1498",
+            "d": "1508"
+        },
+	    "21": {
+            "a": "Pattom A. Thanu Pillai",
+            "b": "C. Achutha Menon",
+            "c": "E.M.S.Namboordiripad",
+            "d": "K.Karunakaran"
+        },
+	    "22": {
+            "a": "Kozhikode",
+            "b": "Thiruvananthpuram",
+            "c": "Ernakulam",
+            "d": "Thrissur"
+        },
+	    "23": {
+            "a": "Alappuzha",
+            "b": "Kozhikode",
+            "c": "Kollam",
+            "d": "Palakkad"
+        },
+	    "24": {
+            "a": "Herman Gundert",
+            "b": "Benjamin Baily",
+            "c": "Father Hanxelden",
+            "d": "Arons Pathiri"
+        },
+	    "25": {
+            "a": "Vembanad",
+            "b": "Kayamkulam",
+            "c": "Akkulam",
+            "d": "Ashtamudi"
+        }
+    },
+    {
+        "1": "Thirteenth",
+        "2": "Chera",
+        "3": "Malappuram",
+        "4": "Palakkad",
+        "5": "21 and 9",
+        "6": "Madhav National Park",
+        "7": "Yakshagana",
+        "8": "EMS Namboodiripad",
+        "9": "Nilambur",
+        "10": "1997",
+     	"11": "Punnamada",
+        "12": "1956",
+        "13": "Elephant",
+        "14": "14",
+        "15": "Idukki",
+        "16": "Alappuzha",
+        "17": "MAlappuram",
+        "18": "Periyar",
+        "19": "Vembanadu Lake",
+        "20": "1498",
+	    "21": "E.M.S.namboodiripad",
+        "22": "Kozhikode",
+        "23": "Kozhikode",
+        "24": "Herman Gundert",
+        "25": "Vembanad"
+    }
+]
+

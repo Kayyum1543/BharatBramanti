@@ -1,0 +1,88 @@
+[
+    {
+        "1": "Which heritage site depict the fine Dravidian style of art and Architecture  ?",
+        "2": "The Group of Monuments at Pattadokal is located in ?",
+        "3": "Identify the monument given below which is located in Karnataka ?",
+        "4": "Jog Falls which is one of the highest waterfalls in India, is created by ?",
+        "5": "In which district the Hampi Monuments are located  ?",
+        "6": "At which place in Karnataka did Adi Shankaracharya establish the first of four mathas  ?",
+        "7": "Which temple is located in Karnataka ?",
+        "8": "Khajuraho temples ware built by ?",
+        "9": "Chennakesava temple at Belur is temple of ?",
+        "10": "Badami, the second capital of the early Chalukyas was formerly known as ?"
+    },
+    {
+        "1": {
+            "a": "Aksardham",
+            "b": "Khajuraho",
+            "c": "Hampi",
+            "d": "Ajanta"
+        },
+        "2": {
+            "a": "Karnataka",
+            "b": "Kerala",
+            "c": "Tamil Nadu",
+            "d": "Ardhra Pradesh"
+        },
+        "3": {
+            "a": "Golgumbaz",
+            "b": "Juma Masjid",
+            "c": "Ibrahim Rauza",
+            "d": "Jami Masjid"
+        },
+        "4": {
+            "a": "Sharavati River",
+            "b": "Kaveri River",
+            "c": "Tunga River",
+            "d": "Mandovi River"
+        },
+        "5": {
+            "a": "Bellary",
+            "b": "Hassan",
+            "c": "Mysore",
+            "d": "Udupi"
+        },
+        "6": {
+            "a": "Sringeri",
+            "b": "Gokarna",
+            "c": "Talakaveri",
+            "d": "Murdeshwar"
+        },
+        "7": {
+            "a": "Sri Virupaksha Temple",
+            "b": "Lingaraj Temple",
+            "c": "RajaRani Temple",
+            "d": "Meenakshi Amman Temple"
+        },
+        "8": {
+            "a": "The Panchalas",
+            "b": "The Chandellas",
+            "c": "The Haryanks",
+            "d": "Nandas"
+        },
+        "9": {
+            "a": "Trikuta",
+            "b": "Ekakuta",
+            "c": "Dwikuta",
+            "d": "Chatushkuta"
+        },
+        "10": {
+            "a": "Halebid",
+            "b": "Vatapi",
+            "c": "Aihole",
+            "d": "Belur"
+        }
+    },
+    {
+        "1": "Hampi",
+        "2": "Karnataka",
+        "3": "Ibrahim Rauza",
+        "4": "Sharavati River",
+        "5": "Bellary",
+        "6": "Sringeri",
+        "7": "Sri Virupaksha Temple",
+        "8": "The Chandellas",
+        "9": "Ekakuta",
+        "10": "Vatapi"
+    }
+]

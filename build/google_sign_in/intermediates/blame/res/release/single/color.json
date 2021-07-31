@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\bharat\\build\\google_sign_in\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Kayyum\\.gradle\\caches\\transforms-2\\files-2.1\\74c5af6ffb2988d066b1194e1d875cdb\\jetified-play-services-base-16.0.1\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "F:\\bharat\\build\\google_sign_in\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Kayyum\\.gradle\\caches\\transforms-2\\files-2.1\\74c5af6ffb2988d066b1194e1d875cdb\\jetified-play-services-base-16.0.1\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "F:\\bharat\\build\\google_sign_in\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\Kayyum\\.gradle\\caches\\transforms-2\\files-2.1\\74c5af6ffb2988d066b1194e1d875cdb\\jetified-play-services-base-16.0.1\\res\\color\\common_google_signin_btn_tint.xml"
+    }
+]

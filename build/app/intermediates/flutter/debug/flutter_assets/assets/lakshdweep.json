@@ -1,0 +1,209 @@
+[
+    {
+        "1": "Which one is the capital of Lakshadweep ",
+        "2": "Lakshadweep comes under the jurisdiction of the ___________ High Court.",
+        "3": "Total number of sub divisons in Lakshadweep is :",
+        "4": "Total number of islands under Lakshadweep union territory is ",
+        "5": "Lakshadweep was formerly known as",
+        "6": "The islands form the ______ Union Territory of India.",
+        "7": "The lagoon area of Lakshadweep covers about ?",
+        "8": "The Territorial Waters area of Lakshadweep covers about ?",
+        "9":  "The Exclusive Economic Zone area of Lakshadweep covers about ?",
+        "10": "Lakshadweep forms a single Indian district with _____ subdivisions",
+        "11": "How many islands comprise the Lakshadweep islands?",
+	    "12": "Which of the following language is spoken in Minicoy Island?",
+	    "13": "Which of the following is the state animal of the Lakshadweep Islands?",
+	    "14": "Which of the following is the state bird of the Lakshadweep Islands?",
+	    "15": "Which of the following is the state tree of the Lakshadweep Islands?",
+	    "16": "Which of the following uninhabited Island of Lakshadweep has been declared as a bird sanctuary?",
+	    "17": "The inhabitants of the Lakshadweep are listed in which of the following category according to the Scheduled Castes and Scheduled Tribes list (Modification Orders), 1956?",
+	    "18": "Who is the administrator of lakshdweep",
+	    "19": "According to the sangam state who controlled the lakshdweep islands",
+	    "20": "Which one of these is the state bird of lakshdweep",
+	    "21": "How many attols and reefs from the archipelago of lakshdweep",
+	    "22": "The lakshdweep archipelago forms a terrestrial ecoregion together with the'",
+	    "23": "The islands are mostly coralline and their allignment appears to be in continuation of the",
+	    "24": "Which one of these is the major religious community in lakshdweep",
+	    "25": "The amindivi island group came under the rule of british after"
+    },
+    {
+        "1": {
+            "a": "Amini",
+            "b": "Minicoy",
+            "c": "Kavaratti",
+            "d": "Andrott"
+        },
+        "2": {
+            "a": "Kerala",
+            "b": "Goa",
+            "c": "Tamil Nadu",
+            "d": "Maharastra"
+        },
+        "3": {
+            "a": "8",
+            "b": "10",
+            "c": "12",
+            "d": "13"
+        },
+        "4": {
+            "a": "28",
+            "b": "32",
+            "c": "36",
+            "d": "38"
+        },
+        "5": {
+            "a": "Laccadive",
+            "b": "Lacoadive",
+            "c": "Loccodive ",
+            "d": "Lokadive"
+        },
+        "6": {
+            "a": "Largest",
+            "b": "Smallest",
+            "c": "2nd Smallest",
+            "d": "None"
+        },
+        "7": {
+            "a": "3,900 km2 ",
+            "b": "4,500 km2",
+            "c": "4,800 km2",
+            "d": "4,200 km2 "
+        },
+        "8": {
+            "a": "25,000 km2",
+            "b": "15,000 km2",
+            "c": "20,000 km2",
+            "d": "30,000 km2"
+        },
+        "9": {
+            "a": "400,000 km2",
+            "b": "3,50,000 km2",
+            "c": "4,50,000 km2 ",
+            "d": "3,00,000 km2"
+        },
+        "10": {
+            "a": "8",
+            "b": "14",
+            "c": "17",
+            "d": "10"
+        },
+	    "11": {
+            "a": "56",
+            "b": "46",
+            "c": "36",
+            "d": "66"
+        },
+	    "12": {
+            "a": "Telugu",
+            "b": "Mahl",
+            "c": "Tamil",
+            "d": "Malayalam"
+        },
+	    "13": {
+            "a": "Butterfly fish",
+            "b": "Golden Plower",
+            "c": "Bread Fruit",
+            "d": "Sooty tern"
+        },
+	    "14": {
+            "a": "Butterfly fish",
+            "b": "Golden Plower",
+            "c": "Bread Fruit",
+            "d": "Sooty tern"
+        },
+	    "15": {
+            "a": "Bread Frui",
+            "b": "Butterfly fish",
+            "c": "Sooty tern",
+            "d": "Golden Plower"
+        },
+	    "16": {
+            "a": "Laccadive",
+            "b": "Minicoy",
+            "c": "PITTI",
+            "d": "Aminidivi"
+        },
+	    "17": {
+            "a": "Scheduled Tribes",
+            "b": "Scheduled Castes",
+            "c": "Other Backward Class",
+            "d": "None of the above"
+        },
+	    "18": {
+            "a": "Mohammad Faizal",
+            "b": "Farooq khan",
+            "c": "Narendra Modi",
+            "d": "None of the above"
+        },
+	    "19": {
+            "a": "Maratha",
+            "b": "pallava",
+            "c": "chola",
+            "d": "chera"
+        },
+	    "20": {
+            "a": "Rock Dove",
+            "b": "Butterfly",
+            "c": "Jungle Bowl",
+            "d": "Noddy Tern"
+        },
+	    "21": {
+            "a": "12,2",
+            "b": "11,3",
+            "c": "12,3",
+            "d": "11,2"
+        },
+	    "22": {
+            "a": "Maldives",
+            "b": "Chagos",
+            "c": "Both (A) and (B)",
+            "d": "None of the above"
+        },
+	    "23": {
+            "a": "Aravalli strike of Rajsthan",
+            "b": "Deccan plateau",
+            "c": "Vidhyanchal Range",
+            "d": "None of the above"
+        },
+	    "24": {
+            "a": "Hindu",
+            "b": "Muslim",
+            "c": "Christian",
+            "d": "Sikh"
+        },
+	    "25": {
+            "a": "Second anglo-Mysore war",
+            "b": "Third anglo-Mysore war",
+            "c": "First anglo-Mysore war",
+            "d": "None of the above"
+        }
+    },
+    {
+        "1": "Kavaratti",
+        "2": "Kerala",
+        "3": "10",
+        "4": "36",
+        "5": "Laccadive",
+        "6": "Smallest",
+        "7": "4,200 km2",
+        "8": "20,000 km2 ",
+        "9": "400,000 km2   ",
+        "10": "10",
+     	"11": "36",
+        "12": "Mahl",
+        "13": "Butterfly fish",
+        "14": "Sooty tern",
+        "15": "Bread Fruit",
+        "16": "PITTI",
+        "17": "Scheduled Tribes",
+        "18": "Farooq khan",
+        "19": "chera",
+        "20": "Noddy Tern",
+	    "21": "12,3",
+        "22": "Both (A) and (B)",
+        "23": "Aravalli strike of Rajsthan",
+        "24": "Muslim",
+        "25": "Third anglo-Mysore war"
+    }
+]
+

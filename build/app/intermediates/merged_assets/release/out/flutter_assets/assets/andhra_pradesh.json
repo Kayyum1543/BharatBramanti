@@ -1,0 +1,209 @@
+[
+    {
+        "1": " Total number of districts in Andhra Pradesh",
+        "2": "Which one is the largest district by area wise in Andhra Pradesh",
+        "3": "Who is the first sportsperson to received Rajiv Gandhi Khel Ratna award from Andhra Pradesh",
+        "4": " Before Hyderabad was made capital in 1956, which city was the capital of Andhra Pradesh ",
+        "5": " In which district, the Tirumala Venkateswara Temple is located",
+        "6": "Who was the first person to translate the Mahabharata into Telugu language",
+        "7": "Which one was the first dynasty to rule Vijayanagara Empire",
+        "8": " Who is not in the group known as Kavitraya (three great poets) of Telugu literature",
+        "9":  "When NT Rama Rao become the first chief Minister of Andhra Pradesh.",
+        "10": " Which one is the only constituency from where NT Rama Rao defeated in assembly election",
+        "11": " Which one is the largest city by areawise in Andhra Pradesh.",
+	    "12": "When the Andhra University was established",
+	    "13": "When Seshachalam Hills declared as biosphere reserves of India.",
+	    "14": "The Srisailam Dam is build on the river",
+	    "15": "In which year the Telangana state is separated from Andhra Pradesh",
+	    "16": "Who is known as the father of Telugu cinema.",
+	    "17": "Which one is the first full length Telugu movie.",
+	    "18": "Who has produced the movie Bhakta Prahlada",
+	    "19": "The Ramoji Film City was established in the year",
+	    "20": " Which one is the first telugu newspaper",
+	    "21": "Which one is the largest district by population in Andhra Pradesh?",
+	    "22": "Which one is the largest dam in Andhra Pradesh'",
+	    "23": "The Nagarjuna Sagar Dam is built on the river",
+	    "24": "The Vijayawada city is located on the bank of",
+	    "25": " Which city is also known as The Jewel of the East Coast"
+    },
+    {
+        "1": {
+            "a": "10",
+            "b": "12",
+            "c": "13",
+            "d": "17"
+        },
+        "2": {
+            "a": "Kurnool",
+            "b": "Anantapur",
+            "c": "Kadapa",
+            "d": "Nellore"
+        },
+        "3": {
+            "a": "Pullela Gopichand",
+            "b": "Karnam Malleswari",
+            "c": "Saina Nehwal",
+            "d": "Sania Mirza"
+        },
+        "4": {
+            "a": "Warangal",
+            "b": "Vijayawada",
+            "c": "Visakhapatnam",
+            "d": "Kurnool"
+        },
+        "5": {
+            "a": "Chittoor",
+            "b": "Krishna",
+            "c": "Kurnool",
+            "d": "Vizianagaram"
+        },
+        "6": {
+            "a": "Pothana",
+            "b": "Tikkana",
+            "c": "Nannayya",
+            "d": "Vemana"
+        },
+        "7": {
+            "a": "Tuluva dynasty",
+            "b": "Saluva dynasty",
+            "c": "Sangama dynasty",
+            "d": "Aravidu dynasty"
+        },
+        "8": {
+            "a": "Nannaya",
+            "b": "Tikanna",
+            "c": "Yerrapragada",
+            "d": "Pothana"
+        },
+        "9": {
+            "a": "1978",
+            "b": "1983",
+            "c": "1985",
+            "d": "1992"
+        },
+        "10": {
+            "a": "Kalwakurthy",
+            "b": "Hindupur",
+            "c": "Tekkali",
+            "d": "Nalgonda"
+        },
+	    "11": {
+            "a": "Hyderabad",
+            "b": "Vijayawada",
+            "c": "Visakhapatnam",
+            "d": "Guntur"
+        },
+	    "12": {
+            "a": "1920",
+            "b": "1926",
+            "c": "1930",
+            "d": "1937"
+        },
+	    "13": {
+            "a": "2006",
+            "b": "2008",
+            "c": "2010",
+            "d": "2012"
+        },
+	    "14": {
+            "a": "Godavari",
+            "b": "Krishna",
+            "c": "Tungabhadra",
+            "d": "Swarnamukhi"
+        },
+	    "15": {
+            "a": "2011",
+            "b": "2012",
+            "c": "2013",
+            "d": "2014"
+        },
+	    "16": {
+            "a": "Raghupathi Venkaiah Naidu",
+            "b": "H. M. Reddy",
+            "c": "Bala Bharathi Samajam",
+            "d": "C. Pullaiah"
+        },
+	    "17": {
+            "a": "Kalidas",
+            "b": "Lavakusa",
+            "c": "Bhakta Prahlada",
+            "d": " Vandemataram"
+        },
+	    "18": {
+            "a": "Nageswara Rao",
+            "b": "C. Pullaiah",
+            "c": "G Ramabrahmam",
+            "d": "H. M. Reddy"
+        },
+	    "19": {
+            "a": "1993",
+            "b": "1996",
+            "c": "1998",
+            "d": "2001"
+        },
+	    "20": {
+            "a": "Satya Doota",
+            "b": "Andhra Patrika",
+            "c": "Desabhimini",
+            "d": "Bharati"
+        },
+	    "21": {
+            "a": "East Godavari",
+            "b": "Guntur",
+            "c": "Krishna",
+            "d": "Nellore"
+        },
+	    "22": {
+            "a": "Sriram Sagar Dam",
+            "b": "Srisailam Dam",
+            "c": "Nagarjuna Sagar Dam",
+            "d": "Somasila Dam"
+        },
+	    "23": {
+            "a": "Godavari",
+            "b": "Krishna",
+            "c": "Pennar",
+            "d": "Gundlakamma"
+        },
+	    "24": {
+            "a": "Godavari River",
+            "b": "Gundlakamma River",
+            "c": "Pennar River",
+            "d": "Krishna River"
+        },
+	    "25": {
+            "a": "Visakhapatnam",
+            "b": "Vijayawada",
+            "c": "Tirupati",
+            "d": "Hyderabad"
+        }
+    },
+    {
+        "1": "13",
+        "2": "Anantapur",
+        "3": "Karnam Malleswari",
+        "4": "Kurnool",
+        "5": "Chittoor",
+        "6": "Nannayya",
+        "7": "Sangama dynasty",
+        "8": "Pothana",
+        "9": "1983",
+        "10": "Kalwakurthy",
+     	"11": "Visakhapatnam",
+        "12": "1926",
+        "13": "2010",
+        "14": "Krishna",
+        "15": "2014",
+        "16": "Raghupathi Venkaiah Naidu",
+        "17": "Bhakta Prahlada",
+        "18": "H. M. Reddy",
+        "19": "1996",
+        "20": "Desabhimini",
+	    "21": "East Godavari",
+        "22": "Nagarjuna Sagar Dam",
+        "23": "Krishna",
+        "24": "Krishna River",
+        "25": "Visakhapatnam"
+    }
+]
+

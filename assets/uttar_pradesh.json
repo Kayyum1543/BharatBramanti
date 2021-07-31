@@ -1,0 +1,209 @@
+[
+    {
+        "1": "What is the capital of Uttar Pradesh?",
+        "2": "Who was the first Governor Uttar Pradesh?",
+        "3": "When was Agra Presidency separated from Bengal Presidency?",
+        "4": "Bharat Kala Bhawan Museum is situated in ",
+        "5": "Which one is the largest district in Uttar Pradesh?",
+        "6": "Who was the first Chief Minister Uttar Pradesh?.",
+        "7": "Which one is the state flower of Uttar Pradesh",
+        "8": "Total number of Lok Sabha constituency in Uttar Pradesh",
+        "9": "Which is the official language of Uttar Pradesh?",
+        "10": "Which was the headquarters of the Nagas in Uttar Pradesh?",
+        "11": "By what name was formerly known as Uttar Pradesh?",
+	    "12": "Which is the biggest railway station in Uttar Pradesh?",
+	    "13": "When was Uttaranchal separated from Uttar Pradesh?",
+	    "14": "In which of the following places is the oil refinery in the state situated?",
+	    "15": "In which year United Provinces renamed as Uttar Pradesh?",
+	    "16": "Which one is the largest district in Uttar Pradesh by areawise.",
+	    "17": "Total number of district in Uttar Pradesh",
+	    "18": "In which year the Banaras Hindu University was established?.",
+	    "19": "When the Allahabad High Court was established?",
+	    "20": "Uttar Pradesh is the …..largest state in India by areawise.",
+	    "21": "Which one is the longest river bridge in Uttar Pradesh?",
+	    "22": "Who established the Aligarh Muslim University?'",
+	    "23": "Which one is the largest city by population in Uttar Pradesh?",
+	    "24": "Kanpur is also known as the ……..of the East.",
+	    "25": "In U.P. urdu Training and Research Centre is suited in"
+    },
+    {
+        "1": {
+            "a": "Kanpur",
+            "b": "Lucknow",
+            "c": "Sarshana",
+            "d": "Agra"
+        },
+        "2": {
+            "a": "Sucheta Kriplani",
+            "b": "Sarojini Naidu",
+            "c": "Hormasji Peroshaw Mody",
+            "d": "Biswanath"
+        },
+        "3": {
+            "a": "1776",
+            "b": "1792",
+            "c": "1833",
+            "d": "1858"
+        },
+        "4": {
+            "a": "Agra",
+            "b": "Lucknow",
+            "c": "Allahabad",
+            "d": "Varanasi"
+        },
+        "5": {
+            "a": "Lakhimpur Kheri",
+            "b": "Sonbhadra",
+            "c": "Allahabad",
+            "d": "Shahjahanpur"
+        },
+        "6": {
+            "a": "Sucheta Kriplani",
+            "b": "Charan Singh",
+            "c": "Govind Ballabh Pant",
+            "d": "Chandra Bhanu Gupta"
+        },
+        "7": {
+            "a": "Orchids",
+            "b": "Palash",
+            "c": "Lotus",
+            "d": "Siroi Lily"
+        },
+        "8": {
+            "a": "68",
+            "b": "72",
+            "c": "76",
+            "d": "80"
+        },
+        "9": {
+            "a": "Santhali",
+            "b": "Dogri",
+            "c": "Hindi",
+            "d": "Pali"
+        },
+        "10": {
+            "a": "Sarnath",
+            "b": "Kaushambi",
+            "c": "Taxila",
+            "d": "Mathura"
+        },
+	    "11": {
+            "a": "United Provinces",
+            "b": "Arya Region",
+            "c": "Oudh Prefecture",
+            "d": "Northern Territory"
+        },
+	    "12": {
+            "a": "Allahabad railway station",
+            "b": "Lucknow railway station",
+            "c": "Ghaziabad railway station",
+            "d": "Gorakhpur railway station"
+        },
+	    "13": {
+            "a": "14 March 1975",
+            "b": "12 April 1964",
+            "c": "7 July 1999",
+            "d": "8 November 2000"
+        },
+	    "14": {
+            "a": "Mirzapur",
+            "b": "Mathura",
+            "c": "Varanasi",
+            "d": "Agra"
+        },
+	    "15": {
+            "a": "1947",
+            "b": "1950",
+            "c": "1954",
+            "d": "1960"
+        },
+	    "16": {
+            "a": "Lakhimpur Kheri",
+            "b": "Sonbhandra",
+            "c": "Allahabad",
+            "d": "Shahjahanpur"
+        },
+	    "17": {
+            "a": "62",
+            "b": "68",
+            "c": "72",
+            "d": "75"
+        },
+	    "18": {
+            "a": "1906",
+            "b": "1911",
+            "c": "1916",
+            "d": "1920"
+        },
+	    "19": {
+            "a": "1857",
+            "b": "1869",
+            "c": "1876",
+            "d": "1897"
+        },
+	    "20": {
+            "a": "2nd",
+            "b": "3rd",
+            "c": "4th",
+            "d": "5th"
+        },
+	    "21": {
+            "a": "New Yamuna Bridge",
+            "b": "Dufferin Bridge",
+            "c": "Garmukteswar Bridge",
+            "d": "Lav Kush Barrage"
+        },
+	    "22": {
+            "a": "Shibli Nomani",
+            "b": "Madan Mahan Malaviya",
+            "c": "Sir Sayed Ahmad Khan ",
+            "d": "Abul Kalam Azad"
+        },
+	    "23": {
+            "a": "Agra",
+            "b": "Lucknow",
+            "c": "Kanpur",
+            "d": "Ghaziabad"
+        },
+	    "24": {
+            "a": "London",
+            "b": "Manchester",
+            "c": "Liverpool",
+            "d": "Paris"
+        },
+	    "25": {
+            "a": "Barabanki",
+            "b": "Bareilly",
+            "c": "Lucknow",
+            "d": "Rampur"
+        }
+    },
+    {
+        "1": "Lucknow",
+        "2": "Sarojini Naidu",
+        "3": "1833",
+        "4": "Allahabad",
+        "5": "Lakhimpur Kheri",
+        "6": "Charan singh",
+        "7": "Palash",
+        "8": "80",
+        "9": "Hindi",
+        "10": "Mathura",
+     	"11": "United Provinces",
+        "12": "Lucknow railway station",
+        "13": "8 November 2000",
+        "14": "Mathura",
+        "15": "1950",
+        "16": "Lakhimpur Kheri",
+        "17": "75",
+        "18": "1916",
+        "19": "1869",
+        "20": "4th",
+	    "21": "New Yamuna Bridge",
+        "22": "Sir Sayed Ahmad Khan ",
+        "23": "Kanpur",
+        "24": "Manchester",
+        "25": "Lucknow"
+    }
+]
+

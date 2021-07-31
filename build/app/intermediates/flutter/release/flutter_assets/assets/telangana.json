@@ -1,0 +1,209 @@
+[
+    {
+        "1": "The Telangana state was formed on _____ june 2014",
+        "2": "Total number of districts in Telangana",
+        "3": "What is the literacy rate in Telangana",
+        "4": "Which one is the largest district by area wise in Telangana ",
+        "5": "Bathukamma is a part of which festival",
+        "6": "What was the name of the military operation that conducted to merge Hyderabad with India.",
+        "7": "Total number of National Park in Telangana",
+        "8": "Who is appointed as the brand ambassador of Telangana",
+        "9":  "Who was the last Nizam of Hyderabad",
+        "10": "In which year the Charminar was built",
+        "11": "Total number of states that shares borders with Telangana is",
+	    "12": "In which year Hyderabad was officially declared as the capital of Nizams",
+	    "13": "Who was the founder of the Hyderabad city and Charminar",
+	    "14": "Rudrama Devi belongs to which dynasty",
+	    "15": "The Bhadrakali Lake is located in which district",
+	    "16": "Telangana state formation day?",
+	    "17": "Which district of Telangana state is largest by area?.",
+	    "18": "Which of the following Village/City is famous for Paper industry?.",
+	    "19": "How many assembly constituencies have been allotted to Telangna?.",
+	    "20": "Pillala Marri, which is an 800 year old banyan tree is located in which district of Telangana state?",
+	    "21": "Gnana Saraswati temple at Basara is located on the banks of the which river?",
+	    "22": "Who of the following had built the Bhongir Fort",
+	    "23": "Which of the following dynasties ruled Telngana",
+	    "24": "Which party formed Telangna’s first government?",
+	    "25": "Bathukamma is a part of which festival"
+    },
+    {
+        "1": {
+            "a": "2nd",
+            "b": "4th",
+            "c": "9th",
+            "d": "15th"
+        },
+        "2": {
+            "a": "7",
+            "b": "8",
+            "c": "10",
+            "d": "14"
+        },
+        "3": {
+            "a": "59.11 %",
+            "b": "66.46 %",
+            "c": "69.26 %",
+            "d": "72.08 %"
+        },
+        "4": {
+            "a": "Adilabad",
+            "b": "Nizamabad",
+            "c": "Khammam",
+            "d": "Bhadradri"
+        },
+        "5": {
+            "a": "Dasara",
+            "b": "Ugadi",
+            "c": "Sankranti",
+            "d": "Mahashivaratri"
+        },
+        "6": {
+            "a": "Operation Thunder",
+            "b": "Operation Hyderabad",
+            "c": "Operation Polo",
+            "d": "Operation Strom"
+        },
+        "7": {
+            "a": "2",
+            "b": "3",
+            "c": "4",
+            "d": "6"
+        },
+        "8": {
+            "a": "Mohammad Azharuddin",
+            "b": "Saina Nehwal",
+            "c": "V. V. S. Laxman",
+            "d": "Sania Mirza"
+        },
+        "9": {
+            "a": "Mir Osman Ali Khan",
+            "b": "Mir Akbar Ali Khan",
+            "c": "Mir Mahbub Ali Khan",
+            "d": "Mir Mahbub Ali Khan"
+        },
+        "10": {
+            "a": "1519",
+            "b": "1538",
+            "c": "1564",
+            "d": "1591"
+        },
+	    "11": {
+            "a": "4",
+            "b": "5",
+            "c": "6",
+            "d": "8"
+        },
+	    "12": {
+            "a": "1702",
+            "b": "1715",
+            "c": "1769",
+            "d": "1798"
+        },
+	    "13": {
+            "a": "Ibrahim Quli Qutb Shah",
+            "b": " Muhammad Quli Qutb Shah",
+            "c": "Abdullah Qutb Shah",
+            "d": "Abul Hasan Qutb Shah"
+        },
+	    "14": {
+            "a": "Vijayanagara Empire",
+            "b": "Pallava dynasty",
+            "c": "Reddy dynasty",
+            "d": "Kakatiya dynasty"
+        },
+	    "15": {
+            "a": "Karimnagar",
+            "b": "Warangal",
+            "c": "Nizamabad",
+            "d": "Nalgonda"
+        },
+	    "16": {
+            "a": "01,August",
+            "b": "02,June",
+            "c": "24,July",
+            "d": "19,September"
+        },
+	    "17": {
+            "a": "Mahabub Nagar",
+            "b": "Ranga Reddy",
+            "c": "Medak",
+            "d": "Karim Nagar"
+        },
+	    "18": {
+            "a": "Sirpur",
+            "b": "Bellampalle",
+            "c": "Manchiryal",
+            "d": "Sangareddy"
+        },
+	    "19": {
+            "a": "119",
+            "b": "118",
+            "c": "117",
+            "d": "116"
+        },
+	    "20": {
+            "a": "Nizamabad",
+            "b": "Mahabubnagar",
+            "c": "Medak",
+            "d": "Warangal"
+        },
+	    "21": {
+            "a": "Manjira river",
+            "b": "Krishna river",
+            "c": "Godavari river",
+            "d": "Penganga river"
+        },
+	    "22": {
+            "a": "Jayasimha II",
+            "b": "Somesvara I",
+            "c": "Tribhuvanamalla Vikramaditya VI",
+            "d": "Somesvara II"
+        },
+	    "23": {
+            "a": "Pala",
+            "b": "Kakatiya",
+            "c": "Sena",
+            "d": "Chera"
+        },
+	    "24": {
+            "a": "Telugu Desam",
+            "b": "Telangana Rashtra Samiti",
+            "c": "YSR Congress",
+            "d": "BJP"
+        },
+	    "25": {
+            "a": "Dasara",
+            "b": "Ugadi",
+            "c": "Sankranti",
+            "d": "Mahashivaratri"
+        }
+    },
+    {
+        "1": "2nd",
+        "2": "10",
+        "3": "66.46 %",
+        "4": "Bhadradri",
+        "5": "Dasara",
+        "6": "Operation Polo",
+        "7": "3",
+        "8": "Sania Mirza",
+        "9": "Mir Osman Ali Khan",
+        "10": "1591",
+     	"11": "4",
+        "12": "1769",
+        "13": "Muhammad Quli Qutb Shah",
+        "14": "Kakatiya dynasty",
+        "15": "Warangal",
+        "16": "01,August",
+        "17": "Ranga Reddy",
+        "18": "Sirpur",
+        "19": "119",
+        "20": "Mahabubnagar",
+	    "21": "Godavari river",
+        "22": "Tribhuvanamalla Vikramaditya VI",
+        "23": "Kakatiya",
+        "24": "Telangana Rashtra Samiti",
+        "25": "Dasara"
+    }
+]
+

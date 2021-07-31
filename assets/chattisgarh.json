@@ -1,0 +1,209 @@
+[
+    {
+        "1": "In which year Chhattisgarh was formed as a separate state",
+        "2": "Which one of the following state did not share its border with Chhattisgarh",
+        "3": "Total number of districts in Chhattisgarh",
+        "4": "Which one is the largest districts by area wise in Chhattisgarh ",
+        "5": "The Chitrakote Water Falls is located on the",
+        "6": "The wildlife sanctuary in Mahasamund District of Chhattisgarh is",
+        "7": "The first Akashwani relay center of the Chhattisgarh state was established at.",
+        "8": "Who was the First Maratha ruler of the Chattisgarh state was",
+        "9": "The folk dance song on Heroism of Chhattisgarh which is also known as Lok Ballet is.",
+        "10": "The first film of Chhattisgarh state, made on folk language was ",
+        "11": "Which district is created by the division of Durg district",
+	    "12": "Eklama iron ore complex is situated in which of the following district",
+	    "13": "Which city is famous for the Kosa weaving industry.",
+	    "14": "Which of the following tribes has the largest population in Chhattisgarh",
+	    "15": "Which city is also known as the Prayag of Chhattisgarh",
+	    "16": "During which festival, Dancers perform Raut Nacha.",
+	    "17": "How much percentage of steel produced in Chhattisgarh out of Total Steel production in India.",
+	    "18": "Hasdo is a tributary of",
+	    "19": "Chhattisgarh is formed under which act.",
+	    "20": "With how many states Chhattisgarh shares its border",
+	    "21": "Among the following tribes, which one is considered as PTG (Primitive Tribal Group) of Chhattisgarh",
+	    "22": "The Tribal Research and Training Institute of Government of Chhattisgarh is present at'",
+	    "23": "The Kaplik style is performed during which of the folk performances",
+	    "24": "The Teerathgarth waterfall is on the river",
+	    "25": "The first Governor of Chhattisgarh state is"
+    },
+    {
+        "1": {
+            "a": "1999",
+            "b": "2000",
+            "c": "2002",
+            "d": "2003"
+        },
+        "2": {
+            "a": "Bihar",
+            "b": "Uttar Pradesh",
+            "c": "Madhya Pradesh",
+            "d": "Odisha"
+        },
+        "3": {
+            "a": "18",
+            "b": "22",
+            "c": "25",
+            "d": "27"
+        },
+        "4": {
+            "a": "Bastar",
+            "b": "Surguja",
+            "c": "Bijapur",
+            "d": "Raipur"
+        },
+        "5": {
+            "a": "Mahanadi River",
+            "b": "Indravati River",
+            "c": "Shivnath River",
+            "d": "Rihand River"
+        },
+        "6": {
+            "a": "Udanti Wildlife Sanctuary",
+            "b": "Barnawapara Wildlife Sanctuary",
+            "c": "Sitanagi Wildlife Sanctuary",
+            "d": "Indravati Wildlife Sanctuary"
+        },
+        "7": {
+            "a": "Ambikapur",
+            "b": "Durg",
+            "c": "Raipur",
+            "d": "Korba"
+        },
+        "8": {
+            "a": "Ramaraja",
+            "b": "Sivaji Bonsale",
+            "c": "Pratap Singh Bonsale",
+            "d": "Bimbaji Bonsale"
+        },
+        "9": {
+            "a": "Pandwani",
+            "b": "Bilma",
+            "c": "Reela",
+            "d": "Gaura"
+        },
+        "10": {
+            "a": "Bhakla",
+            "b": "Mayaa",
+            "c": "Kahi Debe Sandesh",
+            "d": "Mor Chaiyaa Bhuiyaa"
+        },
+	    "11": {
+            "a": "Bilaspur",
+            "b": "Raigarh",
+            "c": "Rajnandgaon",
+            "d": "Korba"
+        },
+	    "12": {
+            "a": "Rajnandgaon",
+            "b": "Kabirdham",
+            "c": "Bastar",
+            "d": "Jashpur"
+        },
+	    "13": {
+            "a": "Champa",
+            "b": "Pamgarh",
+            "c": "Dhabara",
+            "d": "Nawagarh"
+        },
+	    "14": {
+            "a": "Chakma",
+            "b": "Bhunjia",
+            "c": "Kamar",
+            "d": "Gond"
+        },
+	    "15": {
+            "a": "Mahasamund",
+            "b": "Jagdalpur",
+            "c": "Chirmiri",
+            "d": "Rajim"
+        },
+	    "16": {
+            "a": "Holi",
+            "b": "Diwali",
+            "c": "Dusshehara",
+            "d": "Makar Sankranti"
+        },
+	    "17": {
+            "a": "35%",
+            "b": "27%",
+            "c": "22%",
+            "d": "15%"
+        },
+	    "18": {
+            "a": "Godavari",
+            "b": "Mahanadi",
+            "c": "Narmada",
+            "d": "Indravati"
+        },
+	    "19": {
+            "a": "States Reorganisation Act",
+            "b": "Representation of the People Act",
+            "c": "Madhya Pradesh Reorganisation Act",
+            "d": "Chhattisgarh Formation Act"
+        },
+	    "20": {
+            "a": "4",
+            "b": "6",
+            "c": "7",
+            "d": "8"
+        },
+	    "21": {
+            "a": "Baiga",
+            "b": "Kanwar",
+            "c": "Halwa",
+            "d": "Gond"
+        },
+	    "22": {
+            "a": "Jabalpur",
+            "b": "Bhilai",
+            "c": "Raipur",
+            "d": "Korba"
+        },
+	    "23": {
+            "a": "Panthi",
+            "b": "Pandavani",
+            "c": "Raut Nacha",
+            "d": "Karma"
+        },
+	    "24": {
+            "a": "Narmada",
+            "b": "Hasdeo",
+            "c": "Mahanadi",
+            "d": "Kanger"
+        },
+	    "25": {
+            "a": "DN Sahay",
+            "b": "WA Sheshak",
+            "c": "KS Narayan",
+            "d": "ESL Narasimhan"
+        }
+    },
+    {
+        "1": "2000",
+        "2": "Bihar",
+        "3": "27",
+        "4": "Surguja",
+        "5": "Indravati River",
+        "6": "Barnawapara Wildlife Sanctuary",
+        "7": "Raipur",
+        "8": "Bimbaji Bonsale",
+        "9": "Pandwani",
+        "10": "Kahi Debe Sandesh",
+     	"11": "Rajnandgaon",
+        "12": "Kabirdham",
+        "13": "Champa",
+        "14": "Gond",
+        "15": "Rajim",
+        "16": "Diwali",
+        "17": "15%",
+        "18": "Mahanadi",
+        "19": "Madhya Pradesh Reorganisation Act",
+        "20": "7",
+	    "21": "Baiga",
+        "22": "Raipur",
+        "23": "Raipur",
+        "24": " Kanger",
+        "25": "DN Sahay"
+    }
+]
+

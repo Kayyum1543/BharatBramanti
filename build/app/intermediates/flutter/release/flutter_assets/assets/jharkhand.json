@@ -1,0 +1,209 @@
+[
+    {
+        "1": "When was Jharkhand formed ?",
+        "2": "Who was Jharkhand's first governor ?",
+        "3": "Which state is located to the north of Jharkhand ?",
+        "4": "Total number of Legislature Unicameral in Jharkhand ?",
+        "5": "What is an official language of Jharkhand state ?",
+        "6": "Who is the current governor of Jharkhand ?",
+        "7": "Which is the Jharkhand state Bird ?",
+        "8": "Torai Dam is suited in",
+        "9": "Who has established the Jamshedpur city ?",
+        "10": "How many districts in Jharkhand ?",
+        "11": "Which of the following mineral is not produced in Jharkhand ?",
+	    "12": "The Hundru Falls is created by the",
+	    "13": "Which one is the sub-capital of Jharkhand ? ",
+	    "14": "Which one is also known as the steel city of India ? ",
+	    "15": "Which city in Jharkhand is also known as Tatanagar ?",
+	    "16": "Betla National Park is reserved for",
+	    "17": "What is the area of Jharkhand ?",
+	    "18": "Who was the first Chief Minister of Jharkhand ?",
+	    "19": "When did the Tanu Bhagt Movement start",
+	    "20": "Where is the famous Gupteshwar temple of Shiva suited ? ",
+	    "21": "Bihar is located on the.......side of Jharkhand.",
+	    "22": "Total number of districts in Jharkhand",
+	    "23": "Which one is the state  bird of Jharkhand ?",
+	    "24": "Which one is the largest district of Jharkhand by area wise ?",
+	    "25": "Who has established the Jamshedpur city ?"
+    },
+    {
+        "1": {
+            "a": "21 March 1972",
+            "b": "28 June 2008",
+            "c": "05 September 1992",
+            "d": "15 November 2000"
+        },
+        "2": {
+            "a": "Sayed Sibte Razi",
+            "b": "Romesh Bhandari",
+            "c": "Prabhat Kumar",
+            "d": "Swaraj Kaushal"
+        },
+        "3": {
+            "a": "Himachal Pradesh",
+            "b": "Bihar",
+            "c": "Punjab",
+            "d": "Kerala"
+        },
+        "4": {
+            "a": "81",
+            "b": "85",
+            "c": "92",
+            "d": "None of these"
+        },
+        "5": {
+            "a": "Hindi",
+            "b": "Santhali",
+            "c": "Kurukh",
+            "d": "None of these"
+        },
+        "6": {
+            "a": "Kateekal Sankaranarayana",
+            "b": "Sayed Ahmed",
+            "c": "Draupadi Murmu",
+            "d": "None of these"
+        },
+        "7": {
+            "a": "Mrs.Hume's pheasant",
+            "b": "White-breasted Kingfisher",
+            "c": "Koel",
+            "d": "Himalayan Monal"
+        },
+        "8": {
+            "a": "Pakur",
+            "b": "Khunti",
+            "c": "Gumla",
+            "d": "None of these"
+        },
+        "9": {
+            "a": "JN Tata",
+            "b": "Dorabji Tata",
+            "c": "Ratan Tata",
+            "d": "Nusserwanji Tata"
+        },
+        "10": {
+            "a": "20",
+            "b": "25",
+            "c": "24",
+            "d": "35"
+        },
+	    "11": {
+            "a": "Petroleum",
+            "b": "Thorium",
+            "c": "Uranium",
+            "d": "Potassium"
+        },
+	    "12": {
+            "a": "Bansloi River",
+            "b": "Baitarani River",
+            "c": "Subharnarekha River",
+            "d": "Damodar River"
+        },
+	    "13": {
+            "a": "Bokaro",
+            "b": "Dumka",
+            "c": "Ranchi",
+            "d": "Dhanbad"
+        },
+	    "14": {
+            "a": "Ranchi",
+            "b": "Dhanbad",
+            "c": "Hazaribagh",
+            "d": "Jamshedpur"
+        },
+	    "15": {
+            "a": "Rajmahal",
+            "b": "Dhanbad",
+            "c": "Saraikela",
+            "d": "Jamshedpur"
+        },
+	    "16": {
+            "a": "Bird and aquatic animals",
+            "b": "Deers",
+            "c": "Lions",
+            "d": "None of these"
+        },
+	    "17": {
+            "a": "30,778 sq.mi",
+            "b": "8529,570 sq.mi",
+            "c": "9562,451 sq.mi",
+            "d": "None of these"
+        },
+	    "18": {
+            "a": "Shibu Soren",
+            "b": "Babulal Marandi",
+            "c": "Arjun Munda",
+            "d": "Madhu Koda"
+        },
+	    "19": {
+            "a": "1911",
+            "b": "1919",
+            "c": "1916",
+            "d": "1914"
+        },
+	    "20": {
+            "a": "Kharagpur ranges",
+            "b": "Kaimur ranges",
+            "c": "Jethian ranges",
+            "d": "None of these"
+        },
+	    "21": {
+            "a": "North",
+            "b": "South",
+            "c": "East West",
+            "d": ""
+        },
+	    "22": {
+            "a": "17",
+            "b": "20",
+            "c": "23",
+            "d": "24"
+        },
+	    "23": {
+            "a": "Peacock",
+            "b": "Pigeon",
+            "c": "Koel",
+            "d": "Eagel"
+        },
+	    "24": {
+            "a": "Palamu",
+            "b": "Ranchi",
+            "c": "Pashchimi Singhbhum",
+            "d": "Giridih"
+        },
+	    "25": {
+            "a": "JN Tata",
+            "b": "Dorabji Tata",
+            "c": "Ratna Tata",
+            "d": "Nusserwanji Tata"
+        }
+    },
+    {
+        "1": "28 June 2008",
+        "2": "Prabhat Kumar",
+        "3": "Bihar",
+        "4": "81",
+        "5": "Hindi",
+        "6": "Draupadi Murmu",
+        "7": "Koel",
+        "8": "Pakur",
+        "9": "JN Tata",
+        "10": "24",
+     	"11": "Petroleum",
+        "12": "Subharnarekha River",
+        "13": "Dumka",
+        "14": "Jamshedpur",
+        "15": "Jamshedpur",
+        "16": "Lions",
+        "17": "30,778 sq.mi",
+        "18": "Babulal Marandi",
+        "19": "1914",
+        "20": "Kaimur ranges",
+	    "21": "North",
+        "22": "24",
+        "23": "Koel",
+        "24": "Pashchimi Singhbhum",
+        "25": "JN Tata"
+    }
+]
+
